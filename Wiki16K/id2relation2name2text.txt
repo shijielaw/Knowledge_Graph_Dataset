@@ -1,0 +1,197 @@
+0	sibling	sibling	sibling
+1	country	country	country
+2	different_from	different from	different from
+3	participating_team	participating team	participating team
+4	shares_border_with	shares border with	shares border with
+5	diplomatic_relation	diplomatic relation	diplomatic relation
+6	country_of_citizenship	country of citizenship	country of citizenship
+7	said_to_be_the_same_as	said to be the same as	said to be the same as
+8	twinned_administrative_body	twinned administrative body	twinned administrative body
+9	participant_of	participant of	participant of
+10	located_in_the_administrative_territorial_entity	located in the administrative territorial entity	located in the administrative territorial entity
+11	located_in_time_zone	located in time zone	located in time zone
+12	cast_member	cast member	cast member
+13	genre	genre	genre
+14	member_of	member of	member of
+15	occupation	occupation	occupation
+16	described_by_source	described by source	described by source
+17	languages_spoken,_written_or_signed	languages spoken, written or signed	languages spoken, written or signed
+18	participant	participant	participant
+19	contains_administrative_territorial_entity	contains administrative territorial entity	contains administrative territorial entity
+20	child	child	child
+21	place_of_birth	place of birth	place of birth
+22	has_part	has part	has part
+23	nominated_for	nominated for	nominated for
+24	country_of_origin	country of origin	country of origin
+25	award_received	award received	award received
+26	general_classification_of_race_participants	general classification of race participants	general classification of race participants
+27	sport	sport	sport
+28	winner	winner	winner
+29	place_of_death	place of death	place of death
+30	original_language_of_film_or_TV_show	original language of film or TV show	original language of film or TV show
+31	father	father	father
+32	given_name	given name	given name
+33	connects_with	connects with	connects with
+34	narrative_location	narrative location	narrative location
+35	language_of_work_or_name	language of work or name	language of work or name
+36	spouse	spouse	spouse
+37	family	family	family
+38	language_used	language used	language used
+39	filming_location	filming location	filming location
+40	followed_by	followed by	followed by
+41	follows	follows	follows
+42	characters	characters	characters
+43	mother	mother	mother
+44	official_language	official language	official language
+45	part_of	part of	part of
+46	production_company	production company	production company
+47	work_location	work location	work location
+48	religion	religion	religion
+49	capital	capital	capital
+50	screenwriter	screenwriter	screenwriter
+51	distributor	distributor	distributor
+52	capital_of	capital of	capital of
+53	member_of_sports_team	member of sports team	member of sports team
+54	has_works_in_the_collection	has works in the collection	has works in the collection
+55	educated_at	educated at	educated at
+56	writing_system	writing system	writing system
+57	producer	producer	producer
+58	director	director	director
+59	continent	continent	continent
+60	native_language	native language	native language
+61	relative	relative	relative
+62	noble_title	noble title	noble title
+63	country_for_sport	country for sport	country for sport
+64	indigenous_to	indigenous to	indigenous to
+65	position_held	position held	position held
+66	present_in_work	present in work	present in work
+67	employer	employer	employer
+68	residence	residence	residence
+69	writing_language	writing language	writing language
+70	headquarters_location	headquarters location	headquarters location
+71	located_in_or_next_to_body_of_water	located in or next to body of water	located in or next to body of water
+72	member_of_political_party	member of political party	member of political party
+73	cause_of_death	cause of death	cause of death
+74	conflict	conflict	conflict
+75	family_name	family name	family name
+76	named_after	named after	named after
+77	victory	victory	victory
+78	aspect_ratio	aspect ratio	aspect ratio
+79	platform	platform	platform
+80	part_of_the_series	part of the series	part of the series
+81	medical_condition_treated	medical condition treated	medical condition treated
+82	place_of_burial	place of burial	place of burial
+83	drug_used_for_treatment	drug used for treatment	drug used for treatment
+84	terminus	terminus	terminus
+85	composer	composer	composer
+86	owned_by	owned by	owned by
+87	voice_actor	voice actor	voice actor
+88	partner	partner	partner
+89	owner_of	owner of	owner of
+90	color	color	color
+91	location	location	location
+92	student	student	student
+93	founded_by	founded by	founded by
+94	position_played_on_team_/_speciality	position played on team / speciality	position played on team / speciality
+95	ethnic_group	ethnic group	ethnic group
+96	student_of	student of	student of
+97	replaces	replaces	replaces
+98	film_editor	film editor	film editor
+99	basin_country	basin country	basin country
+100	replaced_by	replaced by	replaced by
+101	instrument	instrument	instrument
+102	maintained_by	maintained by	maintained by
+103	original_network	original network	original network
+104	league	league	league
+105	signatory	signatory	signatory
+106	record_label	record label	record label
+107	parent_organization	parent organization	parent organization
+108	organizer	organizer	organizer
+109	depicts	depicts	depicts
+110	executive_producer	executive producer	executive producer
+111	head_coach	head coach	head coach
+112	doctoral_advisor	doctoral advisor	doctoral advisor
+113	influenced_by	influenced by	influenced by
+114	main_subject	main subject	main subject
+115	doctoral_student	doctoral student	doctoral student
+116	location_of_formation	location of formation	location of formation
+117	subsidiary	subsidiary	subsidiary
+118	start_point	start point	start point
+119	director_of_photography	director of photography	director of photography
+120	applies_to_jurisdiction	applies to jurisdiction	applies to jurisdiction
+121	derivative_work	derivative work	derivative work
+122	sports_season_of_league_or_competition	sports season of league or competition	sports season of league or competition
+123	distribution_format	distribution format	distribution format
+124	operator	operator	operator
+125	mouth_of_the_watercourse	mouth of the watercourse	mouth of the watercourse
+126	track_gauge	track gauge	track gauge
+127	allegiance	allegiance	allegiance
+128	significant_event	significant event	significant event
+129	based_on	based on	based on
+130	tributary	tributary	tributary
+131	medical_condition	medical condition	medical condition
+132	performer	performer	performer
+133	notable_work	notable work	notable work
+134	highway_system	highway system	highway system
+135	parent_taxon	parent taxon	parent taxon
+136	competition_class	competition class	competition class
+137	coach_of_sports_team	coach of sports team	coach of sports team
+138	head_of_government	head of government	head of government
+139	collection	collection	collection
+140	on_focus_list_of_Wikimedia_project	on focus list of Wikimedia project	on focus list of Wikimedia project
+141	military_branch	military branch	military branch
+142	connecting_line	connecting line	connecting line
+143	game_mode	game mode	game mode
+144	field_of_work	field of work	field of work
+145	type_of_electrification	type of electrification	type of electrification
+146	production_designer	production designer	production designer
+147	office_held_by_head_of_government	office held by head of government	office held by head of government
+148	from_fictional_universe	from fictional universe	from fictional universe
+149	partner_in_business_or_sport	partner in business or sport	partner in business or sport
+150	taxon_rank	taxon rank	taxon rank
+151	sports_discipline_competed_in	sports discipline competed in	sports discipline competed in
+152	creator	creator	creator
+153	copyright_status	copyright status	copyright status
+154	publisher	publisher	publisher
+155	historical_region	historical region	historical region
+156	season	season	season
+157	season_of_club_or_team	season of club or team	season of club or team
+158	languages_spoken_written_or_signed	languages spoken written or signed	languages spoken written or signed
+159	time_period	time period	time period
+160	candidacy_in_election	candidacy in election	candidacy in election
+161	consecrator	consecrator	consecrator
+162	military_rank	military rank	military rank
+163	industry	industry	industry
+164	after_a_work_by	after a work by	after a work by
+165	costume_designer	costume designer	costume designer
+166	item_operated	item operated	item operated
+167	adjacent_station	adjacent station	adjacent station
+168	developer	developer	developer
+169	chairperson	chairperson	chairperson
+170	movement	movement	movement
+171	input_method	input method	input method
+172	manufacturer	manufacturer	manufacturer
+173	material_used	material used	material used
+174	opposite_of	opposite of	opposite of
+175	drafted_by	drafted by	drafted by
+176	office_contested	office contested	office contested
+177	author	author	author
+178	officeholder	officeholder	officeholder
+179	successful_candidate	successful candidate	successful candidate
+180	voice_type	voice type	voice type
+181	affiliation	affiliation	affiliation
+182	connecting_service	connecting service	connecting service
+183	product_or_material_produced	product or material produced	product or material produced
+184	drainage_basin	drainage basin	drainage basin
+185	second_family_name_in_Spanish_name	second family name in Spanish name	second family name in Spanish name
+186	found_in_taxon	found in taxon	found in taxon
+187	home_venue	home venue	home venue
+188	director/manager	director/manager	director/manager
+189	location_of_final_assembly	location of final assembly	location of final assembly
+190	occupant	occupant	occupant
+191	has_parts_of_the_class	has parts of the class	has parts of the class
+192	title_of_chess_person	title of chess person	title of chess person
+193	architect	architect	architect
+194	presenter	presenter	presenter
+195	subject_has_role	subject has role	subject has role
+196	chromosome	chromosome	chromosome

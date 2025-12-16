@@ -1,0 +1,12 @@
+0	concept:agentbelongstoorganization	agent belongs to organization	agent belongs to organization
+1	concept:athletehomestadium	athlete home stadium	athlete home stadium
+2	concept:athleteplaysforteam	athlete plays for team	athlete plays for team
+3	concept:athleteplaysinleague	athlete plays in league	athlete plays in league
+4	concept:athleteplayssport	athlete plays sport	athlete plays sport
+5	concept:organizationheadquarteredincity	organization headquartered in city	organization headquartered in city
+6	concept:organizationhiredperson	organization hired person	organization hired person
+7	concept:personborninlocation	person born in location	person born in location
+8	concept:personleadsorganization	person leads organization	person lead sorganization
+9	concept:teamplaysinleague	team plays in league	team plays in league
+10	concept:teamplayssport	team plays sport	team plays sport
+11	concept:worksfor	works for	works for

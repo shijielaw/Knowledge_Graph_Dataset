@@ -1,0 +1,2034 @@
+Q7604	Leonhard Euler
+Q188	German
+Q78608	Carl Djerassi
+Q12078	cancer
+Q739	Colombia
+Q656801	International Finance Corporation
+Q192279	Aleksey Nikolayevich Tolstoy
+Q7737	Russian
+Q55	Netherlands
+Q1969730	Schengen Area
+Q318509	Henry Rollins
+Q1476215	human rights activist
+Q1511	Richard Wagner
+Q3387717	theater director
+Q221364	Jaden Smith
+Q33999	actor
+Q217427	La Toya Jackson
+Q44855	Jackie Jackson
+Q443995	John Cameron Mitchell
+Q10798782	television actor
+Q446743	Julian Klaczko
+Q201788	historian
+Q47122	Enrique Iglesias
+Q1321	Spanish
+Q865	Taiwan
+Q971	Republic of the Congo
+Q11063	astronomer
+Q106775	Richard Harris
+Q488205	singer-songwriter
+Q348658	Adam Ant
+Q2259451	stage actor
+Q41304	Weimar Republic
+Q46	Europe
+Q107933	Jim Belushi
+Q245068	comedian
+Q1779	Louis Armstrong
+Q49085	African Americans
+Q242095	Dino Buzzati
+Q1930187	journalist
+Q55800	Oprah Winfrey
+Q30	United States of America
+Q25089	Woody Allen
+Q15981151	jazz musician
+Q786	Dominican Republic
+Q376150	International Telecommunication Union
+Q77888	Wilhelm von Humboldt
+Q37226	teacher
+Q60197	Alfred Einstein
+Q49088	Columbia University
+Q312053	Rick Wakeman
+Q753110	songwriter
+Q41257	Heinrich Rudolf Hertz
+Q152087	Humboldt University of Berlin
+Q184	Belarus
+Q213	Czech Republic
+Q311256	Richard Marx
+Q1297	Chicago
+Q7241	Rabindranath Tagore
+Q1860	English
+Q929	Central African Republic
+Q1049	Sudan
+Q211	Latvia
+Q6714	Wilhelm Grimm
+Q182436	librarian
+Q154691	Carlos Fuentes
+Q36180	writer
+Q1624891	Holly Near
+Q721819	Roy Clark
+Q423	North Korea
+Q1007	Guinea-Bissau
+Q258	South Africa
+Q843	Pakistan
+Q77	Uruguay
+Q526709	William Dean Howells
+Q712860	Chris Martin
+Q178698	W. H. Auden
+Q1622272	university teacher
+Q434745	Tinashe
+Q5716684	dancer
+Q233295	Tila Tequila
+Q13590141	presenter
+Q49074	Kurt Vonnegut
+Q33760	Bertrand Russell
+Q93343	Percy Bysshe Shelley
+Q888666	Bobby Scott
+Q486748	pianist
+Q84423	Martin Buber
+Q16409	Tristan Tzara
+Q193391	diplomat
+Q230	Georgia
+Q117	Ghana
+Q561458	Henry Louis Gates
+Q185610	will.i.am
+Q3282637	film producer
+Q983	Equatorial Guinea
+Q2029901	OHADA
+Q1290	Blaise Pascal
+Q169470	physicist
+Q152301	George Tabori
+Q184485	performing arts
+Q58062	Georg Forster
+Q2374149	botanist
+Q152513	Henry Wadsworth Longfellow
+Q9049	Noam Chomsky
+Q14467526	linguist
+Q313080	Soulja Boy
+Q1643790	J. Rodolfo Wilcock
+Q8261	novel
+Q1276	Leonard Cohen
+Q183387	Columbia Records
+Q44414	Trey Parker
+Q177220	singer
+Q223741	Brian Molko
+Q2643890	vocalist
+Q550778	John de Lancie
+Q639669	musician
+Q245257	William Styron
+Q6882	James Joyce
+Q240808	Maureen Tucker
+Q170576	Milla Jovovich
+Q1242553	Lonnie Liston Smith
+Q17172850	voice
+Q1033	Nigeria
+Q191384	International Bank for Reconstruction and Development
+Q192348	Benedetto Croce
+Q38	Italy
+Q148	People's Republic of China
+Q252	Indonesia
+Q185724	Mike Myers
+Q2526255	film director
+Q1010602	Giorgio Gaber
+Q652	Italian
+Q379580	John Muir
+Q11900058	explorer
+Q83297	John William Strutt, 3rd Baron Rayleigh
+Q684415	Bavarian Academy of Sciences and Humanities
+Q34	Sweden
+Q408	Australia
+Q237659	Penny Marshall
+Q212	Ukraine
+Q227	Azerbaijan
+Q215	Slovenia
+Q221	North Macedonia
+Q236	Montenegro
+Q1246	Kosovo
+Q173637	Ice Cube
+Q161806	Académie Française
+Q150	French
+Q219	Bulgaria
+Q711	Mongolia
+Q315181	Alexey Vorobyov
+Q159	Russia
+Q884	South Korea
+Q145	United Kingdom
+Q398	Bahrain
+Q42398	Michail Sholokhov
+Q206439	Isaac Hayes
+Q2405480	voice actor
+Q101740	Benoit Mandelbrot
+Q270794	National Academy of Sciences
+Q82222	Little Richard
+Q45981	rhythm and blues
+Q697	Nauru
+Q76600	Manfred Eigen
+Q463303	American Academy of Arts and Sciences
+Q25820	Thomas Young
+Q4773904	anthropologist
+Q16	Canada
+Q769	Grenada
+Q18814623	autobiographer
+Q83059	Saul Bellow
+Q82925	Joseph Conrad
+Q1377612	European Payments Union
+Q40	Austria
+Q183	Germany
+Q228	Andorra
+Q458	European Union
+Q1028	Morocco
+Q7809	UNESCO
+Q57075	Fritz Haber
+Q12152	myocardial infarction
+Q47100	Ben Stiller
+Q28389	screenwriter
+Q811	Nicaragua
+Q49	North America
+Q902	Bangladesh
+Q384535	African Union – United Nations Hybrid Operation in Darfur
+Q819	Laos
+Q183266	Samuel Johnson
+Q164487	Ava Gardner
+Q4610556	model
+Q833	Malaysia
+Q1030	Namibia
+Q155786	Dennis Gabor
+Q123885	Royal Society
+Q201656	Nick Jonas
+Q4235	Miley Cyrus
+Q41	Greece
+Q23728	Larry David
+Q231690	Bhimrao Ramji Ambedkar
+Q142	France
+Q19771	G20
+Q37	Lithuania
+Q132537	J. Robert Oppenheimer
+Q35794	University of Cambridge
+Q236318	Faith Evans
+Q850412	contemporary R&B
+Q216195	Tom Wolfe
+Q5686	Charles Dickens
+Q152293	Aram Khachaturian
+Q9730	classical music
+Q224	Croatia
+Q43	Turkey
+Q878	United Arab Emirates
+Q851	Saudi Arabia
+Q61863	Ulrich von Wilamowitz-Moellendorff
+Q82955	politician
+Q1041	Senegal
+Q50020	John Stuart Mill
+Q42406	English people
+Q1016	Libya
+Q965	Burkina Faso
+Q7825	World Trade Organization
+Q183535	Veniamin Smekhov
+Q800	Costa Rica
+Q36268	Brigitte Bardot
+Q46096	Felix Mendelssohn
+Q34069	Ashkenazi Jews
+Q4061	Woody Guthrie
+Q51290	harmonica
+Q1744	Madonna
+Q207628	musical composition
+Q103835	Peter Debye
+Q49115	Cornell University
+Q96	Mexico
+Q228787	Jada Pinkett Smith
+Q11399	rock music
+Q957627	Luis Alberto Spinetta
+Q206159	psychedelic rock
+Q367634	Big Sean
+Q11401	hip hop music
+Q741862	Massimo Bontempelli
+Q220	Rome
+Q77112	David Foster
+Q217787	Carole King
+Q36834	composer
+Q414	Argentina
+Q842490	Organisation for the Prohibition of Chemical Weapons
+Q155079	Missy Elliott
+Q10800557	film actor
+Q159583	Holy See
+Q8446	Kurt Cobain
+Q18939491	diarist
+Q344983	Babyface
+Q190585	Island Records
+Q298	Chile
+Q899770	International Centre for Settlement of Investment Disputes
+Q6538	Günter Grass
+Q11774202	essayist
+Q32257	Christoph Wilhelm Hufeland
+Q83172	Russian Academy of Sciences
+Q27	Ireland
+Q813	Kyrgyzstan
+Q826	Maldives
+Q66107	Henry Kissinger
+Q151164	André Malraux
+Q79	Egypt
+Q215927	Yeshayahu Leibowitz
+Q593644	chemist
+Q44426	Rainer Werner Fassbinder
+Q1726	Munich
+Q39	Switzerland
+Q298255	Rob Zombie
+Q59185	Busta Rhymes
+Q4413456	Republic Records
+Q1391164	Tamer Hosny
+Q183492	Margaret Atwood
+Q991	Fyodor Dostoyevsky
+Q204868	Yevgeny Zamyatin
+Q348497	Ilya Ehrenburg
+Q6625963	novelist
+Q43432	Justin Timberlake
+Q37073	pop music
+Q184440	Jorge Amado
+Q311145	Joaquim Maria Machado de Assis
+Q173061	Syd Barrett
+Q186485	Billy Crystal
+Q1037	Rwanda
+Q28	Hungary
+Q837	Nepal
+Q345612	Harold Bloom
+Q49112	Yale University
+Q156941	Eduard Suess
+Q597433	Peter Tork
+Q258896	banjo
+Q1785	Charles Aznavour
+Q5611262	Group on Earth Observations
+Q483507	Kelly Clarkson
+Q49767	François-René de Chateaubriand
+Q76823	Karl Mannheim
+Q84	London
+Q12706	Maxim Gorki
+Q229	Republic of Cyprus
+Q36	Poland
+Q201500	Gerald Wilson
+Q65	Los Angeles
+Q119546	Howard Zinn
+Q733	Paraguay
+Q794	Iran
+Q70855	Friedrich von Raumer
+Q7325	Jewish people
+Q131149	Henry David Thoreau
+Q1586454	Harry Chapin
+Q6711	Allen Ginsberg
+Q578109	television producer
+Q191	Estonia
+Q668	India
+Q782942	Australia Group
+Q42402	Andrea Bocelli
+Q38903	Universal Music Group
+Q34474	Aleksandr Solzhenitsyn
+Q526406	Ric Ocasek
+Q238819	Jay Chou
+Q231694	Interscope Records
+Q275875	Andriy Danylko
+Q168992	Jessica Simpson
+Q750	Bolivia
+Q347	Liechtenstein
+Q179257	Timbaland
+Q11366	alternative rock
+Q663492	Eurocontrol
+Q944275	James Lighthill
+Q233	Malta
+Q7785	Commonwealth of Nations
+Q912	Mali
+Q1065	United Nations
+Q251068	Wang Leehom
+Q229018	Jewel
+Q153694	Michael Bublé
+Q2086086	Valery Meladze
+Q78487	Robert Musil
+Q482980	author
+Q127330	Frank Zappa
+Q66732	Eugen Rosenstock-Huessy
+Q2306091	sociologist
+Q1020	Malawi
+Q8475	Interpol
+Q191064	Liv Ullmann
+Q958	South Sudan
+Q157324	François Guizot
+Q253439	Royal Netherlands Academy of Arts and Sciences
+Q1032	Niger
+Q134102	Organisation internationale de la Francophonie
+Q18809	Anatoly Lunacharsky
+Q2370801	Academy of Sciences of the USSR
+Q104049	Sidney Poitier
+Q691	Papua New Guinea
+Q31	Belgium
+Q826700	International Energy Agency
+Q403	Serbia
+Q854	Sri Lanka
+Q78506	Ingeborg Bachmann
+Q4964182	philosopher
+Q448837	André 3000
+Q1698	Serge Gainsbourg
+Q1415090	film score composer
+Q8814	Augustin-Louis Cauchy
+Q180004	Fergie
+Q202585	RCA Records
+Q337234	Academia Europaea
+Q9364	Jean-Paul Sartre
+Q90	Paris
+Q736	Ecuador
+Q47152	Mary Shelley
+Q18844224	science fiction writer
+Q484302	James Hetfield
+Q262	Algeria
+Q1050	Eswatini
+Q232	Kazakhstan
+Q342723	Gene Autry
+Q2722764	radio personality
+Q193196	University College London
+Q1350303	Holly Johnson
+Q46185	bass guitar
+Q80596	Arthur Miller
+Q60	New York City
+Q726071	Jimmy Buffett
+Q107424	Akiko Yano
+Q20	Norway
+Q42262	European Space Agency
+Q154145	Gabriel Marcel
+Q9358	Friedrich Nietzsche
+Q131524	entrepreneur
+Q184697	Gloria Estefan
+Q17	Japan
+Q702468	Salvador de Madariaga
+Q273626	École Polytechnique
+Q2643	George Harrison
+Q881	Vietnam
+Q35	Denmark
+Q645889	Reprise Records
+Q187884	Jan Rubes
+Q33946	Czechoslovakia
+Q35760	essay
+Q633	Neil Young
+Q183945	record producer
+Q32	Luxembourg
+Q41550	Organisation for Economic Cooperation and Development
+Q4612	Marlene Dietrich
+Q44301	Jim Morrison
+Q3455803	director
+Q26876	Taylor Swift
+Q6607	guitar
+Q242454	Zemfira
+Q219060	State of Palestine
+Q194333	Billy Joel
+Q185085	Miguel de Unamuno
+Q202550	Dido
+Q664167	Arista
+Q281034	Harry Nilsson
+Q29	Spain
+Q695	Palau
+Q216341	Connie Francis
+Q171969	Georges Cuvier
+Q543804	German Academy of Sciences Leopoldina
+Q557	Patti Smith
+Q202319	Bill Haley
+Q296609	Russell Brand
+Q188771	French Academy of Sciences
+Q916	Angola
+Q15	Africa
+Q228832	Julia Volkova
+Q484641	pop rock
+Q184535	Sofia Kovalevskaya
+Q12192	pneumonia
+Q760	Saint Lucia
+Q349217	Norman Wisdom
+Q43845	businessperson
+Q61597	Erika Mann
+Q77087	Klaus Mann
+Q217160	Kenny Rogers
+Q193023	Capitol Records
+Q801	Israel
+Q9960	Ronald Reagan
+Q152838	University of Göttingen
+Q9047	Gottfried Wilhelm Leibniz
+Q154561	University of Jena
+Q754	Trinidad and Tobago
+Q65350	Carl Friedrich von Weizsäcker
+Q37767	T. S. Eliot
+Q6423963	Anglicanism
+Q502	Stendhal
+Q312407	John Dos Passos
+Q463281	American Academy of Arts and Letters
+Q905	Franz Kafka
+Q12003	Cher
+Q858	Syria
+Q361257	Shel Silverstein
+Q186327	Marilyn Manson
+Q83270	hard rock
+Q1019	Madagascar
+Q424	Cambodia
+Q212699	Geffen Records
+Q207197	Gene Simmons
+Q188648	Raven-Symoné
+Q7066	atheism
+Q216179	Bryan Ferry
+Q162667	Glen Campbell
+Q186472	folk rock
+Q1741	Vienna
+Q144622	Phil Collins
+Q855091	guitarist
+Q7314	Igor Stravinsky
+Q1394	Vladimir Lenin
+Q60285	Ernst Troeltsch
+Q889	Afghanistan
+Q218	Romania
+Q306403	James Franco
+Q49210	New York University
+Q19526	Maya Angelou
+Q554406	Alberto Manguel
+Q128297	Maria Callas
+Q503246	Juilliard School
+Q151118	Katerina Graham
+Q236005	Melanie Brown
+Q76959	Ralf Dahrendorf
+Q189	Iceland
+Q563057	Charlie Rich
+Q5994	piano
+Q4039	Art Garfunkel
+Q585643	Atco Records
+Q254510	Melissa Auf der Maur
+Q712	Fiji
+Q544387	Ray Charles
+Q686	Vanuatu
+Q5104	Miranda Cosgrove
+Q796	Iraq
+Q241	Cuba
+Q712914	Jerry Reed
+Q1841	Catholicism
+Q450412	Richard Sennett
+Q212015	Johnny Hallyday
+Q55960555	recording artist
+Q1044	Sierra Leone
+Q7159	African Union
+Q30875	Oscar Wilde
+Q207544	L. Frank Baum
+Q317397	Uzeyir Hajibeyov
+Q432	Islam
+Q49084	short story
+Q1545	Cyndi Lauper
+Q40909	Virginia Woolf
+Q229282	Katharine McPhee
+Q180962	Norman Mailer
+Q131333	George Eliot
+Q79854	Communist Party of the Soviet Union
+Q221074	Bud Spencer
+Q45	Portugal
+Q153996	Nena
+Q392	Bob Dylan
+Q439315	Jemaine Clement
+Q16053	Melchior de Vogüé
+Q38193	Arthur Schopenhauer
+Q1055	Hamburg
+Q123174	Vanessa Hudgens
+Q316930	dance music
+Q5878	Gabriel García Márquez
+Q185465	Paula Abdul
+Q203059	Virgin Records
+Q233377	Amerie
+Q117012	Yoko Ono
+Q155152	Polydor Records
+Q229375	Linda Ronstadt
+Q315222	Ľudovít Štúr
+Q809	Polish
+Q6701	Jacob Grimm
+Q333634	translator
+Q338432	Lincean Academy
+Q200586	Sheryl Crow
+Q151510	Heidelberg University
+Q362332	David Cross
+Q364875	Todd Rundgren
+Q863	Tajikistan
+Q17495	Universal Postal Union
+Q235931	Teena Marie
+Q76791	Ferdinand von Richthofen
+Q64	Berlin
+Q270935	Chris Cornell
+Q440996	Marietta Shaginyan
+Q49757	poet
+Q60969	Hermann Burmeister
+Q4030	Duke Ellington
+Q47912	lung cancer
+Q188822	Asian Development Bank
+Q355288	Berry Gordy
+Q192185	Aaron Copland
+Q12908	George Soros
+Q1781	Budapest
+Q587361	Rick Rubin
+Q216364	Epic
+Q963	Botswana
+Q76738	Athanasius Kircher
+Q12548	Holy Roman Empire
+Q228909	Mary J. Blige
+Q6530	Stanisław Lem
+Q5891	philosophy
+Q347685	Korney Chukovsky
+Q134180	Truman Capote
+Q892	J. R. R. Tolkien
+Q57382	Christa Wolf
+Q114	Kenya
+Q656	Saint Petersburg
+Q709	Marshall Islands
+Q294278	African, Caribbean and Pacific Group of States
+Q44648	Eric Burdon
+Q699541	Geoffrey Ingram Taylor
+Q191583	Royal Swedish Academy of Sciences
+Q1065956	Charles Rosen
+Q1029	Mozambique
+Q155	Brazil
+Q567	Angela Merkel
+Q467482	Jaan Kaplinski
+Q210741	Eric Idle
+Q184366	Thomas Henry Huxley
+Q174193	United Kingdom of Great Britain and Ireland
+Q928	Philippines
+Q977	Djibouti
+Q34969	Benjamin Franklin
+Q188094	economist
+Q704700	John Hartford
+Q233081	Vanessa Carlton
+Q277626	A&M Records
+Q187019	Philip Roth
+Q214226	Lauryn Hill
+Q108560	A. R. Rahman
+Q9778	electronic music
+Q275247	Herbert Grönemeyer
+Q183412	EMI
+Q60586	Barthold Georg Niebuhr
+Q75814	Wilhelm Wundt
+Q778	Bahamas
+Q2263	Tom Hanks
+Q246731	Theodosius Dobzhansky
+Q82238	Cliff Richard
+Q123759	Organization of American States
+Q4636	Barbra Streisand
+Q193803	Roger Penrose
+Q653884	Hispanic America
+Q206832	Gaspard Monge
+Q329464	Royal Prussian Academy of Sciences
+Q183279	Zhores Alfyorov
+Q164119	Mark Wahlberg
+Q313849	Ben Moody
+Q26058	James Maslow
+Q105756	John Updike
+Q354033	Joe Walsh
+Q191480	Ivan Andreyevich Krylov
+Q582713	Simon Sechter
+Q180861	Roger Waters
+Q23197	Nashville
+Q320895	Geddy Lee
+Q254	Wolfgang Amadeus Mozart
+Q16145150	music pedagogue
+Q974	Democratic Republic of the Congo
+Q128126	Claude Lévi-Strauss
+Q9235	Georg Wilhelm Friedrich Hegel
+Q93996	Ernst Mach
+Q121594	professor
+Q1000	Gabon
+Q47543	Organisation of Islamic Cooperation
+Q128799	Ricky Martin
+Q297736	Yevgeny Yevtushenko
+Q12144794	prosaist
+Q43718	Nikolai Gogol
+Q128532	Al Jolson
+Q34266	Russian Empire
+Q5809	Che Guevara
+Q463501	Valeriya Novodvorskaya
+Q233957	Severo Ochoa
+Q5105	Céline Dion
+Q9592	Catholic Church
+Q58720	Mikhail Vassilyevich Lomonosov
+Q4345832	Saint Petersburg Academy of Sciences
+Q37621	Thomas Hobbes
+Q827525	International Development Association
+Q76409	Charles Bukowski
+Q163366	Ezra Pound
+Q1468277	Royal Society of Literature
+Q236075	Alyson Michalka
+Q189729	Philip Glass
+Q51566	Spike Lee
+Q358538	T-Bone Walker
+Q921	Brunei
+Q190231	Adam Lambert
+Q93356	Seamus Heaney
+Q13371	Harvard University
+Q201477	Jean-Antoine-Nicolas de Caritat de Condorcet
+Q67076	Ludwig Geiger
+Q864380	biographer
+Q234750	Suzi Quatro
+Q174843	Jeff Bridges
+Q33231	photographer
+Q8341	jazz
+Q311223	Edward Sabine
+Q161885	Great Britain
+Q5354	Ernst Mayr
+Q199943	Adriano Celentano
+Q1043527	Multilateral Investment Guarantee Agency
+Q47162	Romain Rolland
+Q6060	50 Cent
+Q742634	Augusto Righi
+Q3603946	Accademia Nazionale delle Scienze detta dei XL
+Q102289	Buckminster Fuller
+Q162202	Nicki Minaj
+Q986	Eritrea
+Q783992	Burton Cummings
+Q263696	Debbie Reynolds
+Q55207	Nikita Mikhalkov
+Q44519	Selma Lagerlöf
+Q12202	stroke
+Q34981	Isaac Asimov
+Q153248	Marguerite Duras
+Q64238	George Henschel
+Q1231865	pedagogue
+Q214	Slovakia
+Q220078	Kingsley Amis
+Q4263842	literary critic
+Q9759	blues
+Q49355	James Bryant Conant
+Q151593	Olivier Messiaen
+Q1444	organ
+Q43203	Clint Eastwood
+Q106662	John Lydon
+Q230445	Sara Bareilles
+Q174710	University of California, Los Angeles
+Q60059	Albertus Magnus
+Q16031530	music theorist
+Q954	Zimbabwe
+Q8772	Joseph Fourier
+Q3621491	archaeologist
+Q131324	Janet Jackson
+Q350979	zoologist
+Q2599	Paul McCartney
+Q288928	agnosticism
+Q5383	David Bowie
+Q1641839	experimental rock
+Q1353559	Mort Shuman
+Q42904	Dima Bilan
+Q717	Venezuela
+Q7197	Simone de Beauvoir
+Q363371	Yegor Letov
+Q158354	Pavel Jozef Šafárik
+Q60052	Gustav Kirchhoff
+Q263730	Alejandro Jodorowsky
+Q274429	Édouard René de Laboulaye
+Q82110	Steven Seagal
+Q34970	D. H. Lawrence
+Q121926	Henry Louis Le Châtelier
+Q202801	Vanessa Williams
+Q35332	Brad Pitt
+Q448764	Stephen Spender
+Q459620	Deutsche Akademie für Sprache und Dichtung
+Q366012	Avery Brooks
+Q365682	Gordon Parks
+Q34660	J. K. Rowling
+Q60970	Sakis Rouvas
+Q49017	Hugh Laurie
+Q94701	Heinrich Brunner
+Q229379	Lil' Kim
+Q187832	Mandy Moore
+Q340016	Denis Johnson
+Q189081	Howard Hughes
+Q29468	Republican Party
+Q265252	Buckethead
+Q163829	synthesizer
+Q104109	Mary Pickford
+Q200464	Portuguese Empire
+Q48	Asia
+Q273981	Tionne Watkins
+Q7833	Boris Vian
+Q131814	Tina Turner
+Q381944	Eldar Ryazanov
+Q924232	Vince Gill
+Q190220	Philip Pullman
+Q4853732	children's writer
+Q33391	Leon Trotsky
+Q47064	military personnel
+Q484523	Jared Leto
+Q155375	Archibald Hill
+Q340195	African Development Bank
+Q47087	Arthur C. Clarke
+Q484292	Chinghiz Aitmatov
+Q313281	Michel Legrand
+Q150630	Camillo Golgi
+Q414188	Göttingen Academy of Sciences
+Q79025	Walter Scott
+Q241660	Angie Stone
+Q1005	Gambia
+Q154353	François Arago
+Q232456	Macy Gray
+Q189172	Andrey Korotayev
+Q154959	Hugo Grotius
+Q298025	Joss Whedon
+Q152453	Keri Hilson
+Q270123	Kiely Williams
+Q11637	Judy Garland
+Q267406	Vitamin C
+Q167997	Otto Schmidt
+Q312720	Robert Penn Warren
+Q1093318	Celeste Buckingham
+Q131272	soul music
+Q465636	Doc Watson
+Q5879	Johann Wolfgang von Goethe
+Q364131	Bob Seger
+Q76490	Helge Schneider
+Q191020	Gary Becker
+Q58328	Jean-Baptiste Biot
+Q2656667	Ulf Ekberg
+Q453288	George Steiner
+Q190772	Siméon Denis Poisson
+Q217619	Anthony Burgess
+Q258846	Rickie Lee Jones
+Q129119	Ruslana
+Q38875	Mos Def
+Q57535	Sebastian Haffner
+Q334180	Xavier Cugat
+Q233253	June Carter Cash
+Q317427	Donovan
+Q967	Burundi
+Q33	Finland
+Q106762	George Porter, Baron Porter of Luddenham
+Q83326	Béla Bartók
+Q14915627	musicologist
+Q242418	Janel Parrish
+Q234388	Rebbie Jackson
+Q349461	Randy Jackson
+Q335680	Jimmy Fallon
+Q947873	television presenter
+Q41239	Konstantin Eduardovich Tsiolkovskii
+Q170790	mathematician
+Q853	Andrei Tarkovsky
+Q649	Moscow
+Q34584	Anastacia
+Q211756	dance-pop
+Q29999	Kingdom of the Netherlands
+Q273055	R. Kelly
+Q27184	Jive
+Q93166	Milan Kundera
+Q4985	Herman Melville
+Q154203	Albert Lortzing
+Q7245	Mark Twain
+Q72334	Toni Morrison
+Q168728	Robert Frost
+Q9711	Honoré de Balzac
+Q121842	French people
+Q152929	Meat Loaf
+Q43327	Motown
+Q150651	George Carlin
+Q13235160	producer
+Q181659	Ursula K. Le Guin
+Q8016	Winston Churchill
+Q164824	Jean-Baptiste Dumas
+Q230395	Meaghan Jette Martin
+Q14045	Moby
+Q130857	disc jockey
+Q204019	M.I.A.
+Q2252262	rapper
+Q156193	Pierre Boulez
+Q685	Solomon Islands
+Q354508	Sun Ra
+Q806349	bandleader
+Q28480	Max Brod
+Q1085	Prague
+Q153232	Jean Le Rond d'Alembert
+Q395	mathematics
+Q342778	Pat Boone
+Q208909	Parlophone
+Q47447	Ed Sheeran
+Q164396	Victor Ambartsumian
+Q298761	Clive Barker
+Q483501	artist
+Q61064	Wassily Kandinsky
+Q81082	Henri Poincaré
+Q5682	Miguel de Cervantes
+Q10681	Alan Stivell
+Q107420	Sheldon Lee Glashow
+Q901	scientist
+Q151523	György Lukács
+Q1425328	USSR Union of Writers
+Q736099	Renato Carosone
+Q233611	International Hydrographic Organization
+Q419	Peru
+Q9312	Immanuel Kant
+Q27306	Kingdom of Prussia
+Q1151944	Mary-Kate Olsen
+Q3501317	fashion designer
+Q237833	George Santayana
+Q1938003	Phi Beta Kappa Society
+Q164784	Jean Gaston Darboux
+Q16345	Leonard Nimoy
+Q39658	Carl Peter Thunberg
+Q80424	Nelly Furtado
+Q43343	contemporary folk music
+Q44461	Richard Dawkins
+Q9391	Ludwig Wittgenstein
+Q214917	playwright
+Q231487	Monica
+Q216288	Garth Brooks
+Q34743	Rudyard Kipling
+Q105118	Sidney Sheldon
+Q221546	Jason Newsted
+Q1133657	traditional heavy metal
+Q812155	Bavarian Academy of Fine Arts
+Q310060	Crispin Glover
+Q171905	Jamie Foxx
+Q44403	Heinrich Heine
+Q5679	Lord Byron
+Q128560	Graham Greene
+Q774	Guatemala
+Q836	Myanmar
+Q287607	Rob Reiner
+Q123225	Albrecht von Haller
+Q231276	Angélique Kidjo
+Q2490358	choreographer
+Q935369	Daniel Lanois
+Q153243	Josiah Willard Gibbs
+Q1042	Seychelles
+Q496967	Alliance of Small Island States
+Q225	Bosnia and Herzegovina
+Q21	England
+Q12658	Wilhelm Ostwald
+Q52954	keyboard instrument
+Q917	Bhutan
+Q7243	Leo Tolstoy
+Q563	Brigitte Fontaine
+Q9288	Hebrew
+Q192515	Jason Mraz
+Q202440	Atlantic Records
+Q44481	Pierre-Simon Laplace
+Q159636	Joseph Priestley
+Q164384	Theodore von Kármán
+Q126399	Warner Bros.
+Q31164	Ellie Goulding
+Q1327329	multi-instrumentalist
+Q47667	Hu Shih
+Q15646111	Academy of Arts of the GDR
+Q766	Jamaica
+Q244234	John Turturro
+Q314424	Mark Salling
+Q165706	Rodion Shchedrin
+Q60025	Hannah Arendt
+Q214677	Nora Ephron
+Q180224	Lenny Kravitz
+Q213512	Bill Cosby
+Q81752	Anton Bruckner
+Q131964	Austrian Empire
+Q9798	saxophone
+Q356986	Levon Helm
+Q128309	drum kit
+Q104081	Mickey Rooney
+Q286339	Yvonne De Carlo
+Q235066	Laurie Anderson
+Q45970	Czesław Miłosz
+Q201927	David Hasselhoff
+Q75809	Lutheranism
+Q130742	Alanis Morissette
+Q9067	Hungarian
+Q294927	Jerry Lewis
+Q188492	Seth MacFarlane
+Q234169	Irene Cara
+Q47243	Elfriede Jelinek
+Q1006	Guinea
+Q80938	John Travolta
+Q160433	Gilbert Bécaud
+Q19201	Mike Shinoda
+Q1001	Mohandas Karamchand Gandhi
+Q185351	jurist
+Q41042	Harold Pinter
+Q160333	Prosper Mérimée
+Q188176	William S. Burroughs
+Q108941	Carrie Fisher
+Q869	Thailand
+Q223875	Erykah Badu
+Q805	Yemen
+Q42831	Ivan Turgenev
+Q380407	Nikolai Fomenko
+Q118233	Sergey Kuryokhin
+Q316872	Afrika Bambaataa
+Q722202	Yoram Kaniuk
+Q1028181	painter
+Q16323111	peace activist
+Q165745	Mercury Records
+Q3088816	Jim Messina
+Q81096	engineer
+Q12204	tuberculosis
+Q63078	Hermann Usener
+Q43287	German Empire
+Q237654	Lisa Loeb
+Q1282910	Eddie Money
+Q191719	Zooey Deschanel
+Q104154	Urbain Le Verrier
+Q220480	Zora Neale Hurston
+Q42493	Katy Perry
+Q1298934	synth-pop
+Q1151	Hector Berlioz
+Q214548	Andy Williams
+Q365042	Bret Michaels
+Q107008	Count Basie
+Q37160	David Hume
+Q33866	Theodore Roosevelt
+Q61	Washington, D.C.
+Q107002	Evelyn Waugh
+Q158175	Kid Rock
+Q9648008	banjoist
+Q150767	Benjamin Britten
+Q181754	heart failure
+Q265058	Hungarian Academy of Sciences
+Q54828	Ivan Yefremov
+Q1036	Uganda
+Q76892	Friedrich Carl von Savigny
+Q188482	Robin Gibb
+Q1344	opera
+Q953	Zambia
+Q320146	Léo Ferré
+Q792	El Salvador
+Q582152	Yuri Vizbor
+Q232214	Julieta Venegas
+Q69631	Harald Weinrich
+Q202660	Collège de France
+Q174210	Julio Cortázar
+Q1011	Cape Verde
+Q214549	Joseph Liouville
+Q15180	Soviet Union
+Q882	Charlie Chaplin
+Q958578	Lloyd Price
+Q214574	Jan Josef Liefers
+Q16473	Steve Martin
+Q181683	Carly Simon
+Q201221	Alexander Ivanovich Herzen
+Q40479	David Mitchell
+Q36591	Vladimir Nabokov
+Q128746	Irving Berlin
+Q239652	Bulat Okudzhava
+Q14278	John Frederick William Herschel
+Q466089	American Philosophical Society
+Q1976514	Anatoly Krupnov
+Q64406	Henrik Steffens
+Q37876	Natalie Portman
+Q257302	LeToya Luckett
+Q272208	Montparnasse Cemetery
+Q81299	Organization for Security and Co-operation in Europe
+Q215546	Carrie Underwood
+Q9061	Karl Marx
+Q210172	Kevin Jonas
+Q1025	Mauritania
+Q67526	Wolfgang Schadewaldt
+Q101638	Mary Wollstonecraft
+Q714845	The Edge
+Q657	Chad
+Q83557	Nikolay Basov
+Q132952	Adam Sandler
+Q44412	Hans Christian Ørsted
+Q269890	Don Rickles
+Q95089	Ginger Rogers
+Q172632	Amy Lee
+Q430922	Paul Reiser
+Q336640	David Byrne
+Q19723482	mandolinist
+Q2622688	Mikhail Zadornov
+Q289003	Myles Kennedy
+Q100	Boston
+Q231207	Charlotte Church
+Q107432	Charles Mingus Jr.
+Q7200	Alexander Pushkin
+Q482	poetry
+Q12799318	powest
+Q104358	Billie Holiday
+Q128759	Stanislao Cannizzaro
+Q47484	André Gide
+Q295502	Darren Criss
+Q1027	Mauritius
+Q165911	Usher
+Q970	Comoros
+Q137042	Nat King Cole
+Q231942	Natalie Cole
+Q168419	Jérôme Lalande
+Q160640	Raymond Aron
+Q150445	Camille Saint-Saëns
+Q9734	symphony
+Q816706	Southern African Development Community
+Q483907	Jack Black
+Q29552	Democratic Party
+Q13909	Angelina Jolie
+Q170481	Asia-Pacific Economic Cooperation
+Q231228	Solange Knowles
+Q15935	Kanye West
+Q1268	Frédéric Chopin
+Q140694	Alexis de Tocqueville
+Q26695	Lionel Richie
+Q154759	Sven Hedin
+Q311672	Roger Daltrey
+Q1045	Somalia
+Q19504	Fritz Lang
+Q35385	Glukoza
+Q822	Lebanon
+Q8873	Satyajit Ray
+Q153776	Dmitri Kabalevsky
+Q217280	Joss Stone
+Q48337	Morgan Freeman
+Q371403	Kyle Gass
+Q948329	character actor
+Q102711	Dennis Hopper
+Q126462	Thomas Paine
+Q7976	American English
+Q292373	Barbara Mandrell
+Q757	Saint Vincent and the Grenadines
+Q131259	Alexander Rybak
+Q262354	Taraneh Javanbakht
+Q78496	Konrad Lorenz
+Q354783	Amiri Baraka
+Q214665	Nino Rota
+Q948	Tunisia
+Q11998	Kylie Minogue
+Q23517	Ricky Gervais
+Q19810	Victoria Beckham
+Q72984	Bing Crosby
+Q34424	Shakira
+Q553276	Steve Allen
+Q467519	Randy Travis
+Q83440	country music
+Q3816	George Sand
+Q51101	Jolin Tsai
+Q25120	Pier Paolo Pasolini
+Q2831	Michael Jackson
+Q36233	Václav Havel
+Q9387	Max Weber
+Q40348	lawyer
+Q318475	Randy Newman
+Q78505	Peter Lorre
+Q296872	Barry Gibb
+Q5752	Peter Kropotkin
+Q222	Albania
+Q58612	Yehuda Amichai
+Q158060	W.E.B. Du Bois
+Q19074	Samuel P. Huntington
+Q353442	Gabriel Lamé
+Q864503	biologist
+Q14441	Liza Minnelli
+Q40874	Doris Lessing
+Q332032	Alice Cooper
+Q5685	Anton Chekhov
+Q667661	literary realism
+Q231106	Joan Jett
+Q156774	Pedro II of Brazil
+Q1967070	Svetlana Surganova
+Q7749	rock and roll
+Q414379	Academy of Useful Science
+Q313755	Harry Connick Jr.
+Q228546	Alphonse Daudet
+Q350	Cambridge
+Q1072120	Missile Technology Control Regime
+Q347362	Fredric Jameson
+Q38757	Bertolt Brecht
+Q202735	Billy Bob Thornton
+Q53001	Jean-Luc Godard
+Q154804	Leipzig University
+Q190251	Richard Wright
+Q134456	Yukio Mishima
+Q39246	Richard Feynman
+Q476921	renal insufficiency
+Q734	Guyana
+Q25080	Ilya Oleynikov
+Q108283	Alan Arkin
+Q18419	Brooklyn
+Q159551	Ignaz Moscheles
+Q217557	Joyce Carol Oates
+Q297816	Sammy Davis Jr.
+Q43293	J. M. Coetzee
+Q132964	Vladimir Mayakovsky
+Q262294	Keren Ann
+Q505994	Tony Visconti
+Q232052	Asia Argento
+Q155855	Karel Čapek
+Q804	Panama
+Q80510	Alla Pugacheva
+Q843402	Warner Bros. Records
+Q125666	Nyusha
+Q9353	John Locke
+Q131112	Paul Krugman
+Q240523	Swizz Beatz
+Q228860	Colbie Caillat
+Q106740	Dorothy L. Sayers
+Q228792	Dianna Agron
+Q83501	Vladimir Prelog
+Q60884	Günther Anders
+Q41590	Mircea Eliade
+Q75828	Heinrich Wilhelm Olbers
+Q334	Singapore
+Q274404	Claudio Magris
+Q202449	David Ogden Stiers
+Q49001	Whoopi Goldberg
+Q193509	Taylor Momsen
+Q596717	Phil Harris
+Q8355	violin
+Q6927	20th century
+Q6512	Søren Kierkegaard
+Q208101	Joseph Heller
+Q229153	Michelle Williams
+Q40912	Frank Sinatra
+Q790	Haiti
+Q63670	Peter Gay
+Q84186	Ivan Illich
+Q5146	Portuguese
+Q313525	Lionel Hampton
+Q12439	Detroit
+Q1013	Lesotho
+Q1008	Ivory Coast
+Q131725	Joan Baez
+Q244	Barbados
+Q40213	William Butler Yeats
+Q189758	Marvin Gaye
+Q311267	Bobby Darin
+Q33977	Jules Verne
+Q180338	Christopher Lee
+Q233946	Kate Voegele
+Q313581	Nicolae Iorga
+Q5327	Adolf Butenandt
+Q413	physics
+Q135139	Paul Jozef Crutzen
+Q33240	Drake
+Q104340	Harold Lloyd
+Q261812	Drake Bell
+Q7172	Arab League
+Q294144	Lea Salonga
+Q187760	new wave
+Q358345	Billy Dee Williams
+Q303	Elvis Presley
+Q79969	Emma Goldman
+Q172	Toronto
+Q370560	David Crosby
+Q151830	Melanie C
+Q221450	Luciano Berio
+Q172579	Kingdom of Italy
+Q726251	Elektra
+Q152388	Theodor W. Adorno
+Q185832	Emmanuel Swedenborg
+Q945	Togo
+Q39989	Ronny Cox
+Q184226	Gilles Deleuze
+Q209842	University of Paris (1896-1968)
+Q286022	Common
+Q574	East Timor
+Q84238	Peter Drucker
+Q311068	Wallace Shawn
+Q188426	Roy Orbison
+Q4412	West Africa
+Q705333	David Clayton-Thomas
+Q189665	Ivan Goncharov
+Q467027	Buffy Sainte-Marie
+Q729117	Edmund White
+Q159542	Jan Evangelista Purkyně
+Q28513	Austria-Hungary
+Q77060	Dietrich Fischer-Dieskau
+Q107730	Vince Vaughn
+Q366057	Patrice Chéreau
+Q332525	Shannon Leto
+Q180468	Albert Szent-Györgyi
+Q34670	Albert Camus
+Q152171	University of Bonn
+Q467423	Robin Thicke
+Q121507	Alicia Keys
+Q213684	Tamara Bunke
+Q507864	Donny Hathaway
+Q325389	David A. Stewart
+Q47480	Paul Dirac
+Q310217	David Hemmings
+Q104127	Douglas Fairbanks
+Q352914	Karel Jaromír Erben
+Q3866537	Movement Coordination Centre Europe
+Q434915	Jann Arden
+Q40096	Will Smith
+Q238795	St. Vincent
+Q1345514	Michael Penn
+Q35610	Arthur Conan Doyle
+Q21578	Princeton University
+Q61197	Johann Christian Poggendorff
+Q230916	Galina Vishnevskaya
+Q683	Samoa
+Q8349	Weird Al Yankovic
+Q79838	accordion
+Q937	Albert Einstein
+Q169452	Shaquille O'Neal
+Q817	Kuwait
+Q783	Honduras
+Q57139	Max Reger
+Q115	Ethiopia
+Q191088	Joe Jonas
+Q179150	Sonny Bono
+Q131252	University of Chicago
+Q157155	Ernest Renan
+Q730	Suriname
+Q704015	Konstantin Fedin
+Q220308	Seth Rogen
+Q8646	Hong Kong
+Q241835	Milva
+Q62766	Jay-Z
+Q191819	George Martin
+Q12881	Paulo Coelho
+Q909	Jorge Luis Borges
+Q205721	Joni Mitchell
+Q188461	Dannii Minogue
+Q357974	Julian Lennon
+Q539171	Dalida
+Q712359	Roger Miller
+Q241583	Bret Easton Ellis
+Q15949613	short story writer
+Q242	Belize
+Q208116	Sergey Mikhalkov
+Q230501	Christina Milian
+Q77184	Leopold von Ranke
+Q207036	A. A. Milne
+Q237081	Ani Lorak
+Q153185	Joseph Louis Gay-Lussac
+Q298694	Method Man
+Q6107	Tupac Shakur
+Q55208	Andrei Konchalovsky
+Q133163	percussion instrument
+Q183397	Fred Hoyle
+Q76772	Heinrich Wilhelm Gottfried von Waldeyer-Hartz
+Q2822396	Academy of Sciences of Turin
+Q161877	Ashanti
+Q229274	Regina Spektor
+Q346801	Peter Buck
+Q152824	Susan Sontag
+Q5333	Charles Lyell
+Q41269	Henri Becquerel
+Q229264	Georges-Louis Leclerc, Comte de Buffon
+Q83333	James D. Watson
+Q175104	Jennifer Love Hewitt
+Q219631	Adam Levine
+Q1886750	Van McCoy
+Q58339	disco
+Q37150	Lana Del Rey
+Q7504	Irène Joliot-Curie
+Q311802	Giuseppe Ungaretti
+Q361297	Joe Jackson
+Q313509	Bernard-Henri Lévy
+Q206112	Willie Nelson
+Q664	New Zealand
+Q12362622	philanthropist
+Q470334	Euclides da Cunha
+Q1351177	Tim Rose
+Q762	Leonardo da Vinci
+Q30449	Avril Lavigne
+Q380799	M. Pokora
+Q215215	John Mayer
+Q9204	C. S. Lewis
+Q311476	Per Olov Enquist
+Q9268	Judaism
+Q16867	Edgar Allan Poe
+Q233541	Lisa Lopes
+Q276005	Charlotte Gainsbourg
+Q48226	Ralph Waldo Emerson
+Q243639	Jason Derulo
+Q297598	Beatriz Luengo
+Q309926	Lemmy Kilmister
+Q42884	Germans
+Q224650	Sarah McLachlan
+Q222071	Courtney Love
+Q235952	Gladys Knight
+Q822146	lyricist
+Q234356	Janelle Monáe
+Q162005	Paul G. Allen
+Q44606	Gackt
+Q83287	Selena Gomez
+Q2632	Ringo Starr
+Q122020	Hilary Duff
+Q397	Latin
+Q310755	Camille Jordan
+Q443120	Lance Bass
+Q436712	Ben Elton
+Q6527	Jean-Jacques Rousseau
+Q512	Vladimir Vysotsky
+Q542101	Boris Grebenshchikov
+Q16287483	opinion journalist
+Q168468	David Brewster
+Q73463	Miguel
+Q1039	São Tomé and Príncipe
+Q190770	Philip Warren Anderson
+Q37068	Romanticism
+Q105460	John Denver
+Q44398	Falco
+Q61078	Walter Benjamin
+Q8178443	librettist
+Q82083	John Keats
+Q39631	physician
+Q330629	Sony Music
+Q888152	Bob Mould
+Q265	Uzbekistan
+Q461104	Jaroslav Vrchlický
+Q15975	Montesquieu
+Q6694	Alexander von Humboldt
+Q5608	Eminem
+Q77143	Thomas Anders
+Q155700	Chris Brown
+Q433060	Daniel Johnston
+Q18391	Elie Wiesel
+Q11299	Manhattan
+Q846	Qatar
+Q1137381	Arab Fund for Economic and Social Development
+Q842324	indie pop
+Q54860	Walt Disney Records
+Q45765	Jack London
+Q14277	William Herschel
+Q1203	John Lennon
+Q80440	Anna Akhmatova
+Q94081	Bob Hope
+Q217	Moldova
+Q348533	Nick Cannon
+Q2059704	television director
+Q208871	Ike Turner
+Q41173	Demi Lovato
+Q1965416	Diana Arbenina
+Q193710	Ne-Yo
+Q781	Antigua and Barbuda
+Q3369762	Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean
+Q451812	Lianne La Havas
+Q8018	Augustine of Hippo
+Q7302	George Frideric Handel
+Q966565	Tex Ritter
+Q170515	Omar Sharif
+Q21590660	Western
+Q189950	Osip Mandelstam
+Q47216	Condoleezza Rice
+Q229139	Peggy Lee
+Q45177	Visa Waiver Program
+Q122003	Julio Iglesias
+Q179282	Steven Weinberg
+Q425821	Mark Ronson
+Q18430	Joseph E. Stiglitz
+Q44086	Carl Orff
+Q784	Dominica
+Q151972	Josephine Baker
+Q1046616	Tim Rice-Oxley
+Q237	Vatican City
+Q158852	conductor
+Q192668	Nick Cave
+Q705715	RuPaul
+Q22686	Donald Trump
+Q924	Tanzania
+Q179126	John Ruskin
+Q47164	Santa Monica
+Q981971	Mario Praz
+Q702	Federated States of Micronesia
+Q443897	Gretchen Wilson
+Q40640	Ray Bradbury
+Q24925	science fiction
+Q235	Monaco
+Q192912	Stephen Fry
+Q1480793	Nuclear Suppliers Group
+Q947519	John Ciardi
+Q132524	Ayn Rand
+Q380381	Dave Matthews
+Q355009	Jackson Browne
+Q220192	Zoolander
+Q115483	Max Frisch
+Q76546	Erich Kästner
+Q23530	Dmitry Medvedev
+Q27621	Saint Petersburg State University
+Q336278	Neil Tennant
+Q60070	Friedrich Wilhelm Joseph Schelling
+Q842	Oman
+Q432421	Natasha Shneider
+Q168362	John Desmond Bernal
+Q36290	Diana Ross
+Q6096	Snoop Dogg
+Q1239933	Donald Glover
+Q168452	Jean-Victor Poncelet
+Q51488	John Cassavetes
+Q61318	August Ludwig von Schlözer
+Q1075651	keyboardist
+Q191999	Robert McNamara
+Q170842	Sergei Korolev
+Q76478	Kirsten Dunst
+Q336222	Tito Jackson
+Q312870	Jerry Garcia
+Q7351	Robert Schumann
+Q19350898	theoretical physicist
+Q117249	Robbie Robertson
+Q399	Armenia
+Q13955	Arabic
+Q262314	Chris Rea
+Q182046	Leon Battista Alberti
+Q319084	Al Franken
+Q215868	Alice Walker
+Q76432	Rudolf Virchow
+Q242110	Ayọ
+Q60579	Moritz von Jacobi
+Q505476	Avicii
+Q231270	Khloé Kardashian
+Q34086	Justin Bieber
+Q810	Jordan
+Q1031340	Mark Linkous
+Q9095	James Clerk Maxwell
+Q557632	Decca
+Q187814	Tracy Chapman
+Q22670	Friedrich Schiller
+Q229013	Sarah Silverman
+Q238	San Marino
+Q167821	Gore Vidal
+Q57384	Wernher von Braun
+Q859	Plato
+Q80739	Charlton Heston
+Q157400	Idina Menzel
+Q48990	Nikolay Semyonov
+Q49738	German Academy of Sciences at Berlin
+Q310170	Curtis Mayfield
+Q192655	Lara Fabian
+Q47426	Milton Friedman
+Q5928	Jimi Hendrix
+Q272069	Damon Albarn
+Q3335	George Orwell
+Q5950	James Brown
+Q5921	Chuck Berry
+Q313013	Brian Wilson
+Q1060636	Daniel Handler
+Q45909	John Cale
+Q154331	György Ligeti
+Q93341	Miles Davis
+Q236212	Petula Clark
+Q265179	Rita Lee
+Q1053574	executive producer
+Q190379	Ian McEwan
+Q962	Benin
+Q106225	Jean Yanne
+Q151814	Sarah Brightman
+Q310343	Dudley Moore
+Q111436	Elmer Bernstein
+Q76641	Felix Klein
+Q572741	Kwame Anthony Appiah
+Q4028	Paul Simon
+Q217191	soft rock
+Q230454	k.d. lang
+Q46599	Mikhail Lermontov
+Q313185	Fritz Leiber Junior
+Q112307	Lena Horne
+Q104000	Lauren Bacall
+Q7542	Prince
+Q555226	Sid Caesar
+Q219878	Emma Bunton
+Q538	Oceania
+Q18425	Marcellin Berthelot
+Q61813	Abraham Gotthelf Kästner
+Q104266	Mel Brooks
+Q41513	William Blake
+Q150526	Santiago Ramón y Cajal
+Q237324	Lisa Marie Presley
+Q61374	Wolfhart Pannenberg
+Q232085	Lil Mama
+Q1132636	Serbian Academy of Sciences and Arts
+Q167696	Nicole Scherzinger
+Q7184	NATO
+Q256708	Sabrina Bryan
+Q471443	Ilya Ilf
+Q1014	Liberia
+Q23543	Selena
+Q676	prose
+Q278625	Vladimir Solovyov
+Q25147	Franco Battiato
+Q34787	Friedrich Engels
+Q105875	Herbie Hancock
+Q47695	Rudolf Christoph Eucken
+Q153238	Leó Szilárd
+Q15873	Brian May
+Q387539	Hollywood Records
+Q359665	David Walliams
+Q57281	August Wilhelm Schlegel
+Q289064	Felipe Colombo
+Q239786	Alexz Johnson
+Q34628	Gotthold Ephraim Lessing
+Q164444	funk
+Q874	Turkmenistan
+Q83643	Andrey Gubin
+Q325396	Judd Apatow
+Q44695	Konstantin Simonov
+Q11617	Aaliyah
+Q42574	James Cameron
+Q164401	Simon Newcomb
+Q11907	Mark Oliver Everett
+Q202878	Mae West
+Q362422	Vince Neil
+Q186329	Mika
+Q215300	Jordin Sparks
+Q38082	Lewis Carroll
+Q125057	Richard Francis Burton
+Q25144	Kevin Spacey
+Q8908	Council of Europe
+Q41309	Franz Liszt
+Q42156	Henri Bergson
+Q55796	Peter Ustinov
+Q93401	Franz Miklosich
+Q361677	Mick Ronson
+Q12807	Umberto Eco
+Q198962	Sandy
+Q156814	Yehudi Menuhin
+Q3772571	Caribbean Development Bank
+Q1281738	Kinky Friedman
+Q183167	G. K. Chesterton
+Q299015	Austrian Academy of Sciences
+Q34389	Whitney Houston
+Q312288	George Ellery Hale
+Q80135	Dmitri Shostakovich
+Q12585	Latin America
+Q272943	Joe Dassin
+Q678	Tonga
+Q236066	AJ Michalka
+Q192165	Danny Glover
+Q295431	Julian Barnes
+Q23434	Ernest Hemingway
+Q901402	geographer
+Q154216	Cat Stevens
+Q60128	Alexander Alexandrovich Fadeyev
+Q240377	Amanda Palmer
+Q210059	Neil Gaiman
+Q835	Mikhail Bulgakov
+Q298388	Noël Coward
+Q763	Saint Kitts and Nevis
+Q1988375	Oleg Skripka
+Q371202	Big Boi
+Q2865819	opera singer
+Q11975	Britney Spears
+Q128758	satire
+Q690974	Brandy Norwood
+Q2329	chemistry
+Q240933	Joan Rivers
+Q230068	Ève Curie
+Q1350157	music critic
+Q200639	Paul Valéry
+Q282722	Trent Reznor
+Q70737	Hans Mayer
+Q274342	Tatyana Tolstaya
+Q246497	Mstislav Keldysh
+Q117467	Royal Society of Edinburgh
+Q232462	Ani DiFranco
+Q357455	Ray Davies
+Q49451	progressive rock
+Q117021	Oswald Heer
+Q55044	Ludwig Maximilian University of Munich
+Q157322	Romain Gary
+Q302762	Barry Manilow
+Q61407	Ernst Curtius
+Q535	Victor Hugo
+Q1666	Jacques Brel
+Q7204	Middle East
+Q952491	Ian McLagan
+Q7439	Richard Stallman
+Q17455	John von Neumann
+Q79759	John Milton
+Q204005	Debby Ryan
+Q333265	Léon Theremin
+Q1348831	Lowell George
+Q319392	Marlon Jackson
+Q213736	Bridgit Mendler
+Q216563	Paul Anka
+Q122701	William Thomson, 1st Baron Kelvin
+Q57106	Heinrich Schliemann
+Q9027	Swedish
+Q354181	Steven Van Zandt
+Q193676	Ludacris
+Q180453	Dolly Parton
+Q23556	Atlanta
+Q954997	Michael Nesmith
+Q722042	Master P
+Q3348506	AFRISTAT
+Q151403	Thomas Carlyle
+Q347528	Liberace
+Q239587	Aimee Mann
+Q151892	Ariana Grande
+Q1009	Cameroon
+Q167475	Jacques Rivette
+Q386053	Donny Osmond
+Q15980158	non-fiction writer
+Q299138	Kid Cudi
+Q217467	art rock
+Q57802	Gotthelf Fischer von Waldheim
+Q169566	H. P. Lovecraft
+Q205375	inventor
+Q154556	Karlheinz Stockhausen
+Q295923	MC Hammer
+Q303207	Ricky Nelson
+Q2338889	MCA Records
+Q57619	Frank Wedekind
+Q8011	Avicenna
+Q216221	Steve Carell
+Q103114	Michel Houellebecq
+Q483203	Sting
+Q38848	heavy metal
+Q501	Charles Baudelaire
+Q49542	Russians
+Q194220	Nas
+Q100937	Fred Astaire
+Q272203	Van Morrison
+Q168756	University of California, Berkeley
+Q275641	Julie Driscoll
+Q183337	David Attenborough
+Q230943	China Anne McClain
+Q230836	Emilie Autumn
+Q161363	Zbigniew Herbert
+Q414110	Academy of Arts, Berlin
+Q298209	Willow Smith
+Q182665	Iggy Pop
+Q84509	Felix Philipp Kanitz
+Q220550	Ján Kollár;
+Q3057567	Erwin Raisz
+Q362353	Vincent Gallo
+Q187199	Carlo Rubbia
+Q16957	German Democratic Republic
+Q561401	Spike Milligan
+Q128121	Mick Jagger
+Q477461	Amr Diab
+Q362258	Vitas
+Q201538	Edward Said
+Q1928989	Treaty on Open Skies;
+Q170509	Henry James
+Q85914	Herman Francis Mark
+Q46633	Charles Babbage
+Q9682	Elizabeth II
+Q350362	James Blake
+Q7013	Lena Meyer-Landrut
+Q41351	Jodie Foster
+Q42747	Heinrich Böll
+Q1234713	theologian
+Q155412	Toni Braxton
+Q4029	Tara Strong
+Q214227	T.I.
+Q213662	Karl Lachmann
+Q319374	Leon Russell
+Q624307	Arab Monetary Fund;
+Q46706	Eugène Ionesco
+Q989	John Paul II
+Q131433	Shania Twain
+Q295919	Sam Cooke
+Q9056	Czech
+Q1175266	David Lindley
+Q533284	Gustavo Cerati
+Q193744	Tori Amos
+Q234773	Priscilla Presley
+Q49734	Cass Elliot
+Q167635	Tyler, the Creator
+Q1225	Bruce Springsteen
+Q44306	Salman Rushdie
+Q19199	Brad Delson
+Q270085	Shen Kuo
+Q520549	geologist
+Q57554	Georg Christoph Lichtenberg
+Q290197	Joumana Haddad
+Q14281	Giovanni Schiaparelli
+Q1195390	Andrew Ridgeley
+Q333	astronomy
+Q359568	Vladimir Obruchev
+Q1716	Renaud
+Q117139	Wiz Khalifa
+Q104668	Vitaly Ginzburg
+Q180619	Stephen Jay Gould
+Q272031	Jack White
+Q7042855	film editor
+Q218992	Nelly
+Q2071	David Lynch
+Q470758	Colm Tóibín
+Q36949	Robert De Niro
+Q2079	Leipzig
+Q150471	E. T. A. Hoffmann
+Q196287	Mihajlo Pupin
+Q9327	Guy de Maupassant
+Q106706	Jeff Goldblum
+Q215026	Debbie Harry
+Q130799	James Blunt
+Q49081	Christopher Hitchens
+Q156942	Charles Wheatstone
+Q76683	Ludwig Prandtl
+Q180727	John Cage
+Q311115	Henri Victor Regnault
+Q135481	Lev Gumilyov
+Q44176	Hulk Hogan
+Q4617	Corbin Bleu
+Q25379	play
+Q8246794	blogger
+Q1046038	Enzo Jannacci
+Q464218	Connie Smith
+Q127856	Beverly Hills
+Q193355	blues rock
+Q107405	Lars Onsager
+Q1514	Janis Joplin
+Q39803	Mario Vargas Llosa
+Q5749	Pierre-Joseph Proudhon
+Q154756	Italo Calvino
+Q283408	Dmitry Glukhovsky
+Q209471	Telly Savalas
+Q159642	František Palacký
+Q227129	Zoë Kravitz
+Q81244	Karl Popper
+Q170042	Bill Monroe
+Q187166	Antonin Artaud
+Q1047474	Brendon Urie
+Q184572	Martin Sheen
+Q41488	Wole Soyinka
+Q291405	Sky Ferreira
+Q216936	Sean Combs
+Q333873	Valentin Kataev
+Q309555	Michael Cera
+Q104791	Ed Harris
+Q1512	Robert Louis Stevenson
+Q374362	Nikolay Ogarev
+Q217750	Violetta Villas
+Q235515	Janis Ian
+Q37944	Masiela Lusha
+Q442830	Ivan Urgant
+Q299965	Ralph Ellison
+Q73089	Gene Kelly
+Q7315	Pyotr Ilyich Tchaikovsky
+Q205456	Theo van Gogh
+Q36488	Guglielmo Marconi
+Q151872	Amos Oz
+Q306122	Hyde
+Q58978	Max Born
+Q436693	Ivor Novello
+Q79078	Wilhelm Blaschke
+Q228968	Fiona Apple
+Q308711	Vladislav Krapivin
+Q169038	Zdeněk Nejedlý
+Q189080	Lou Reed
+Q233736	Mýa
+Q11812	Thomas Jefferson
+Q283859	Edvard Radzinsky
+Q438164	Samuel R. Delany
+Q156749	Adolf Erik Nordenskiöld
+Q62	San Francisco
+Q182589	William Morris
+Q335142	Alexander Bogdanov
+Q122968	Alexander Emanuel Agassiz
+Q83158	Jean Cocteau
+Q708963	Allan Sherman
+Q46739	Octavio Paz
+Q61723	Gustav Landauer
+Q27645	Mikhail Bakunin
+Q2685	Arnold Schwarzenegger
+Q167546	Lucio Dalla
+Q1377134	Graham Parker
+Q311241	Bobby Brown
+Q233529	Dee Dee Bridgewater
+Q185002	Mylène Farmer
+Q298838	Billy Connolly
+Q1067043	Charlie Wilson
+Q302497	mandolin
+Q9317	John Maynard Keynes
+Q180268	gospel music
+Q42775	Johnny Cash
+Q45255	Karl Valentin
+Q311450	Billy Preston
+Q36844	Rihanna
+Q192410	Jennifer Hudson
+Q1209498	poet lawyer
+Q704696	Ray Lankester
+Q188137	J. J. Abrams
+Q388035	Gloria Trevi
+Q216913	Deryck Whibley
+Q270951	Alsou
+Q130631	Jacques Derrida
+Q207898	Manu Chao
+Q182725	Etta James
+Q38392	William Faulkner
+Q239917	Tina Arena
+Q11930	Kevin Costner
+Q297794	Yasmina Reza
+Q25351	Theodor Mommsen
+Q35032	Eastern Orthodox Church
+Q7747	Vladimir Putin
+Q318004	Antoine César Becquerel
+Q203223	Ciara
+Q1196752	traditional pop music
+Q185007	Rita Levi-Montalcini
+Q938622	Pontifical Academy of Sciences
+Q732513	Jô Soares
+Q188459	Goldie Hawn
+Q201562	Hayley Williams
+Q214642	Paul Auster
+Q75612	Isaac Bashevis Singer
+Q32927	Valery Leontiev
+Q636	Kate Bush
+Q704742	Sticky Fingaz
+Q1449438	Mick Wingert
+Q21077	Warner Music Group
+Q294531	Neil Diamond
+Q171363	Viggo Mortensen
+Q78704	Hanns Eisler
+Q251287	Waylon Jennings
+Q345325	Harry Shearer
+Q17714	Stephen Hawking
+Q165980	University of Vienna
+Q4783148	Arab Bank for Economic Development in Africa
+Q485310	Neil Patrick Harris
+Q44857	John Legend
+Q155907	Sir George Stokes, 1st Baronet
+Q381884	Sergey Lazarev
+Q704931	Edmund Wilson
+Q154770	Arnold Schoenberg
+Q25320	Paul Langevin
+Q52447	RZA
+Q77109	Golo Mann
+Q186264	Darius Milhaud
+Q184750	Slavoj Žižek
+Q262838	Cree Summer
+Q862	Joseph Brodsky
+Q134798	Haruki Murakami
+Q18805	naturalist
+Q78492	Tomáš Garrigue Masaryk
+Q3986379	The Compleat Beatles
+Q5043	Christianity
+Q22072	John Farnham
+Q8704	Walt Disney
+Q37327	Samuel Beckett
+Q207947	Ralph Vaughan Williams
+Q1238570	political scientist
+Q710	Kiribati
+Q228733	Lea Michele
+Q1373347	Martie Maguire
+Q213579	Ernst Chladni
+Q39829	Stephen King
+Q235946	Elizabeth Bishop
+Q41166	Jonathan Swift
+Q157242	Alexander R. Todd, Baron Todd
+Q150989	Frédéric Joliot-Curie
+Q232592	Jill Scott
+Q110462	Julie Delpy
+Q312252	Andy Griffith
+Q190076	Joe Cocker
+Q504	Émile Zola
+Q713750	West Germany
+Q675	André-Marie Ampère
+Q186042	John Kenneth Galbraith
+Q155860	Andrey Vyshinsky
+Q7199	Marcel Proust
+Q16297	William Shatner
+Q1067	Dante Alighieri
+Q41568	Michel de Montaigne
+Q181573	Fazil Iskander
+Q116309	Nicholas Marr
+Q1176607	Ross Bagdasarian Sr.
+Q29055	Sacha Baron Cohen
+Q55456	Nino Manfredi
+Q949	John Bardeen
+Q102813	Yul Brynner
+Q50713	Jean Renoir
+Q51094	Yuri Shevchuk
+Q53714	Chord Overstreet
+Q215359	Dean Martin
+Q204804	Beth Hart
+Q77024	Lion Feuchtwanger
+Q313138	Redman
+Q310048	Don DeLillo
+Q34166	Slash
+Q214191	Michael Mann
+Q194045	Steven Tyler
+Q3291340	Société Philomathique de Paris
+Q17457	Donald Knuth
+Q158078	Alfred Schnittke
+Q50764	Éric Rohmer
+Q76442	Johann Christoph Gottsched
+Q57244	Paul Hindemith
+Q233817	Debbie Gibson
+Q166796	GoonRock
+Q359552	Gordon Lightfoot
+Q366671	Jan Hammer
+Q202729	Jerry Lee Lewis
+Q430076	Marc Connelly
+Q2305208	Russian Soviet Federative Socialist Republic
+Q102822	Jacobus Henricus van 't Hoff
+Q536723	Lori Lieberman
+Q184249	Kelly Rowland
+Q960081	Kenneth Burke
+Q224159	William H. Macy
+Q455236	Alexis Korner
+Q150916	Jon Bon Jovi
+Q189599	Keith Richards
+Q678551	American Jews
+Q44107	Peter Handke
+Q37030	Thomas Mann
+Q32849	Akon
+Q190631	Bette Midler
+Q654283	Def Jam Recordings
+Q1112005	Queen Latifah
+Q311	Père Lachaise Cemetery
+Q76686	August Schleicher
+Q4473	Jennette McCurdy
+Q157271	Friedrich Schlegel
+Q25014	John Cleese
+Q188375	Lucy Liu
+Q54945	Hannes Alfvén
+Q533369	Saul Williams
+Q157318	Leszek Kołakowski
+Q672	Tuvalu
+Q41594	Christina Aguilera
+Q47899	Paris Hilton
+Q151991	European Southern Observatory
+Q232113	Anna Karina
+Q41076	Mariah Carey
+Q6078	Dr. Dre
+Q236351	Stacie Orrico
+Q311238	Sean Lennon
+Q287177	ABC Records
+Q2416148	Vladimir Turchinsky
+Q277356	Sergei Gerasimov
+Q187165	Dave Mustaine
+Q887347	Bo Burnham
+Q7318	Nazi Germany
+Q45321	Harald Lesch
+Q58735	Lily Allen
+Q208117	Bella Thorne
+Q269927	David Mamet
+Q86820	Hugo Huppert
+Q918966	Nahum Sokolow
+Q83396	Eleanor Roosevelt
+Q78491	Stefan Zweig
+Q11826	Al-Biruni
+Q295537	Eduard Limonov
+Q334670	Ted Nugent
+Q4042	CeeLo Green
+Q242873	Ingrid Michaelson
+Q487491	Anatole Abragam
+Q311193	Yoshiki
+Q27407	East Africa
+Q7546	Ingmar Bergman
+Q208175	Novodevichy Cemetery
+Q3033	Göttingen
+Q336018	Julian Fellowes
+Q311232	Tyrese Gibson
+Q239195	Hayley Kiyoko
+Q80222	Joseph-Louis Lagrange
+Q310300	James Taylor
+Q77144	Leo Strauss
+Q156201	Roman Jakobson
+Q194287	Joe Satriani
+Q2914170	street artist
+Q44221	Sean Penn
+Q242792	Laura Marano
+Q234891	Yo-Yo Ma
+Q1334617	Raymond Scott
+Q451608	Gaspard de Prony
+Q216692	Ludvig Holberg
+Q1095432	Clarence Gatemouth Brown
+Q34433	University of Oxford
+Q176909	Walker Percy
+Q410	Carl Sagan
+Q4538	Jonathan Winters
+Q83338	Robin Williams
+Q332462	Ivan Franko
+Q984644	Gavriil Troyepolsky
+Q2680	Bruce Willis
+Q351061	Ryan Tedder
+Q63458	Theodor Nöldeke
+Q188111	Ayumi Hamasaki
+Q9438	Thomas Aquinas
+Q208681	Kris Kristofferson
+Q730261	Fredro Starr
+Q204751	Anthony Kiedis
+Q165219	Robert Downey, Jr.
+Q307	Galileo Galilei
+Q471664	Leonid Leonov
+Q131755	bipolar disorder
+Q34296	Woodrow Wilson
+Q201732	Robert Graves
+Q42	Douglas Adams
+Q55004	Kurt Weill
+Q42229	Mel Gibson

@@ -1,0 +1,1 @@
+cite: Liang Yao, Chengsheng Mao, and Yuan Luo. 2019. KG-BERT: BERT for Knowledge Graph Completion. CoRR abs/1909.03193 (2019).

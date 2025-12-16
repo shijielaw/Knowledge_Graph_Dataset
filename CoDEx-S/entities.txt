@@ -1,0 +1,2034 @@
+0; Leonhard Euler; Swiss mathematician
+1; German; West Germanic language
+2; Carl Djerassi; American chemistry professor, inventor, author, playwright
+3; cancer; group of diseases
+4; Colombia; country in South America
+5; International Finance Corporation; 
+6; Aleksey Nikolayevich Tolstoy; Russian-Soviet writer
+7; Russian; East Slavic language
+8; Netherlands; country in Western Europe, part of the Kingdom of the Netherlands
+9; Schengen Area; area of 26 European states without mutual border controls
+10; Henry Rollins; American singer-songwriter
+11; human rights activist; person who, individually or with others, acts to promote or protect some variation of human rights
+12; Richard Wagner; German composer and conductor
+13; theater director; person overseeing the mounting of a theatre production
+14; Jaden Smith; American rapper, swinger, songwriter, and actor
+15; actor; person who acts in a dramatic or comic production and works in film, television, theatre, or radio
+16; La Toya Jackson; American singer
+17; Jackie Jackson; singer and member of The Jackson 5 from the United States
+18; John Cameron Mitchell; American film director
+19; television actor; actor who performs on television
+20; Julian Klaczko; Polish historian
+21; historian; scholar who deals with the exploration and presentation of history
+22; Enrique Iglesias; Spanish singer-songwriter
+23; Spanish; Romance language originating on the Iberian peninsula, spoken mostly in Spain and many parts of the Americas
+24; Taiwan; democratic republic in East Asia, with limited recognition
+25; Republic of the Congo; republic in Central Africa
+26; astronomer; scientist who studies celestial bodies
+27; Richard Harris; Irish actor, singer, film director and writer
+28; singer-songwriter; A musician who writes, composes and sings their own material
+29; Adam Ant; English musician
+30; stage actor; actor who performs live before an in-person audience
+31; Weimar Republic; Germany in the years 1919–1933
+32; Europe; continent on Earth, mainly on the northeastern quadrant, i.e. north-western Eurasia
+33; Jim Belushi; American actor, comedian, singer, and musician
+34; comedian; person who seeks to entertain an audience, primarily by making them laugh
+35; Louis Armstrong; American jazz trumpeter, composer and singer
+36; African Americans; racial or ethnic group in the United States with African ancestry
+37; Dino Buzzati; Italian writer (1906-1972)
+38; journalist; person who collects, writes and distributes news and other information
+39; Oprah Winfrey; American businesswoman, talk show host, actress, producer, and philanthropist
+40; United States of America; federal republic in North America
+41; Woody Allen; American screenwriter, director, actor, comedian, author, playwright, and musician
+42; jazz musician; musician who plays jazz
+43; Dominican Republic; country in the Caribbean
+44; International Telecommunication Union; specialized agency of the United Nations
+45; Wilhelm von Humboldt; German (Prussian) philosopher, government functionary, diplomat, and founder of the University of Berlin
+46; teacher; person who helps others to acquire knowledge, competences or values
+47; Alfred Einstein; German-American musicologist and music editor
+48; Columbia University; private Ivy League research university in New York City
+49; Rick Wakeman; English keyboardist, songwriter, television and radio presenter, and author
+50; songwriter; person who writes the words or music (or both) to songs
+51; Heinrich Rudolf Hertz; German physicist
+52; Humboldt University of Berlin; university in Germany
+53; Belarus; country in Eastern Europe
+54; Czech Republic; republic in Central Europe
+55; Richard Marx; American adult contemporary and pop/rock singer, songwriter, musician and record producer
+56; Chicago; city and county seat of Cook County, Illinois, United States
+57; Rabindranath Tagore; Bengali poet and philosopher
+58; English; West Germanic language originating in England with linguistic roots in French, German and Vulgar Latin
+59; Central African Republic; country in Africa
+60; Sudan; country in Northeast Africa
+61; Latvia; republic in Northern Europe
+62; Wilhelm Grimm; German author
+63; librarian; person who works professionally in a library, and is usually trained in librarianship
+64; Carlos Fuentes; Mexican writer
+65; writer; person who uses written words to communicate ideas and to produce works of literature
+66; Holly Near; American actress, singer and activist
+67; Roy Clark; American country music musician and performer
+68; North Korea; Sovereign state in East Asia
+69; Guinea-Bissau; country in Western Africa
+70; South Africa; republic in Southern Africa
+71; Pakistan; republic in South Asia
+72; Uruguay; republic in South America
+73; William Dean Howells; author, critic and playwright from the United States
+74; Chris Martin; English singer, songwriter, musician, record producer, and philanthropist, co-founder of Coldplay
+75; W. H. Auden; Anglo-American poet
+76; university teacher; person teaching at a university
+77; Tinashe; American singer-songwriter, record producer, dancer, actress and former model
+78; dancer; person who dances
+79; Tila Tequila; American television and social media personality, singer and glamour model
+80; presenter; person who hosts an event, for television presenter see: Q947873
+81; Kurt Vonnegut; American writer
+82; Bertrand Russell; British philosopher, logician, mathematician, historian, writer, social critic, political activist and Nobel laureate
+83; Percy Bysshe Shelley; English Romantic poet
+84; Bobby Scott; American recording artist, record producer, and songwriter
+85; pianist; musician who plays the piano
+86; Martin Buber; German Jewish Existentialist philosopher and theologian
+87; Tristan Tzara; Romanian-French Dadaist poet
+88; diplomat; person appointed by a state to conduct diplomacy with another state or international organization
+89; Georgia; republic in the Caucasus region
+90; Ghana; republic in West Africa
+91; Henry Louis Gates; American professor
+92; will.i.am; American rapper, singer, businessman and record producer from California
+93; film producer; person who supervises the overall process, creative and financial, of making a film
+94; Equatorial Guinea; country in Africa
+95; OHADA; system of corporate law and implementing institutions adopted by seventeen West and Central African nations in 1993 in Port Louis, Mauritius
+96; Blaise Pascal; French mathematician, physicist, inventor, writer, and Christian philosopher
+97; physicist; scientist who does research in physics
+98; George Tabori; writer, theatre director
+99; performing arts; art forms in which artists use their body or voice to convey artistic expression
+100; Georg Forster; German naturalist, ethnologist, travel writer, journalist, and revolutionary
+101; botanist; person who practices botany
+102; Henry Wadsworth Longfellow; American poet
+103; Noam Chomsky; American linguist, philosopher and activist
+104; linguist; language scholar specialized in linguistics
+105; Soulja Boy; American rapper
+106; J. Rodolfo Wilcock; Argentine writer
+107; novel; narrative text, normally of a substantial length and in the form of prose describing a fictional and sequential story
+108; Leonard Cohen; Canadian poet and singer-songwriter
+109; Columbia Records; American record label; currently owned by Sony Music Entertainment
+110; Trey Parker; American actor, voice artist, animator, screenwriter, director, producer and musician
+111; singer; person singing for a listening audience
+112; Brian Molko; Belgium-born musician
+113; vocalist; artist using their voice as an instrument
+114; John de Lancie; American actor
+115; musician; artist who performs or composes music; anyone who composes, conducts, or performs music
+116; William Styron; American novelist and essayist
+117; James Joyce; Irish novelist and poet
+118; Maureen Tucker; American musician
+119; Milla Jovovich; Ukrainian-born american model and actress
+120; Lonnie Liston Smith; American pianist
+121; voice; human voice as instrument
+122; Nigeria; federal republic in West Africa
+123; International Bank for Reconstruction and Development; international financial institutions, sells loans to middle-income developing countries, part of the World Bank Group
+124; Benedetto Croce; Italian writer, philosopher, politician
+125; Italy; Republic in Southern Europe, member of the European Union
+126; People's Republic of China; state in East Asia
+127; Indonesia; republic in Southeast Asia
+128; Mike Myers; Canadian-American actor, comedian, singer, screenwriter, and film producer
+129; film director; occupation of a person who directs a film
+130; Giorgio Gaber; Italian recording artist; actor, musician and writer
+131; Italian; romance language
+132; John Muir; Scottish-born American naturalist and author
+133; explorer; person who by means of travel searches out new information
+134; John William Strutt, 3rd Baron Rayleigh; English physicist
+135; Bavarian Academy of Sciences and Humanities; academy of sciences
+136; Sweden; constitutional monarchy in Northern Europe
+137; Australia; Island country in the southern hemisphere
+138; Penny Marshall; American actress and film director
+139; Ukraine; sovereign state in Eastern Europe
+140; Azerbaijan; republic in Western Asia and Eastern Europe
+141; Slovenia; republic in Central Europe
+142; North Macedonia; republic in Southeast Europe
+143; Montenegro; republic in Southeastern Europe
+144; Kosovo; country in Europe with partially recognized sovereignty
+145; Ice Cube; American hip hop artist, music producer and actor
+146; Académie Française; the pre-eminent French learned body on matters pertaining to the French language; a division of "Institut de France"
+147; French; Romance language
+148; Bulgaria; republic in Eastern Europe
+149; Mongolia; country in East Asia, between China and Russia
+150; Alexey Vorobyov; Russian singer and actor
+151; Russia; transcontinental country in Eastern Europe and Northern Asia
+152; South Korea; republic in East Asia
+153; United Kingdom; parliamentary democracy and constitutional monarchy in Western Europe; formed in 1927
+154; Bahrain; constitutional monarchy in Southwest Asia
+155; Michail Sholokhov; Soviet writer
+156; Isaac Hayes; American singer-songwriter, arranger, record producer, and actor
+157; voice actor; person who provides voice-overs for a character in films, animation, video games or in other media
+158; Benoit Mandelbrot; Polish-born, French and American mathematician
+159; National Academy of Sciences; science branch of the United States National Academies
+160; Little Richard; American pianist, singer and songwriter
+161; rhythm and blues; genre of popular music that originated in African American communities in the 1940s
+162; Nauru; republic in Oceania
+163; Manfred Eigen; German biophysical chemist
+164; American Academy of Arts and Sciences; United States honorary society and center for independent policy research
+165; Thomas Young; English polymath
+166; anthropologist; person with an extensive knowledge of anthropology
+167; Canada; country in North America
+168; Grenada; country in the Caribbean
+169; autobiographer; person who wrote their autobiography
+170; Saul Bellow; Canadian-born American writer
+171; Joseph Conrad; Polish-British writer
+172; European Payments Union; 
+173; Austria; federal republic in western-central Europe
+174; Germany; federal parliamentary republic in central-western Europe
+175; Andorra; European microstate between France and Spain
+176; European Union; economic and political union of 27 states mostly located in Europe
+177; Morocco; country in North Africa
+178; UNESCO; specialized agency of the UN that promotes education, science and culture
+179; Fritz Haber; German chemist and receiver of the Nobel prize
+180; myocardial infarction; interruption of blood supply to a part of the heart
+181; Ben Stiller; actor, comedian, director, writer
+182; screenwriter; writer who writes for TV, films, comics and games
+183; Nicaragua; country in Central America
+184; North America; continent on the Earth's northwestern quadrant
+185; Bangladesh; sovereign country in South Asia
+186; African Union – United Nations Hybrid Operation in Darfur; military operation
+187; Laos; republic in Southeast Asia
+188; Samuel Johnson; English poet, biographer, essayist, lexicographer
+189; Ava Gardner; American actress (1922-1990)
+190; model; person employed to display, advertise and promote products, or to serve as a visual aid
+191; Malaysia; federal constitutional monarchy in Southeast Asia
+192; Namibia; republic in southern Africa
+193; Dennis Gabor; Nobel Prize-winning physicist and inventor of holography
+194; Royal Society; English learned society for science
+195; Nick Jonas; American singer and actor
+196; Miley Cyrus; American singer, songwriter and actress
+197; Greece; republic in Southeast Europe
+198; Larry David; American comedian, writer, actor, and television producer
+199; Bhimrao Ramji Ambedkar; father of India's Constitution, polymath, revolutionary, social reformer
+200; France; republic with mainland in Europe and numerous oversea territories
+201; G20; group of finance ministers and central bank governors
+202; Lithuania; republic in Northeastern Europe
+203; J. Robert Oppenheimer; American theoretical physicist, known as "father of the atomic bomb"
+204; University of Cambridge; collegiate public research university in Cambridge, England, United Kingdom
+205; Faith Evans; American recording artist; singer
+206; contemporary R&B; music genre that combines elements of rhythm and blues, pop, soul, funk, hip hop, and electronic music
+207; Tom Wolfe; American author and journalist
+208; Charles Dickens; English writer and social critic
+209; Aram Khachaturian; Soviet/Armenian composer and conductor
+210; classical music; broad tradition of Western art music
+211; Croatia; republic in Central Europe
+212; Turkey; country spanning Southeastern Europe and Western Asia
+213; United Arab Emirates; monarchy in Southwest Asia
+214; Saudi Arabia; kingdom in Western Asia
+215; Ulrich von Wilamowitz-Moellendorff; German classical philologist
+216; politician; person involved in politics, person who holds or seeks positions in government
+217; Senegal; country in Western Africa
+218; John Stuart Mill; British philosopher and political economist
+219; English people; nation and ethnic group native to England
+220; Libya; country in north Africa
+221; Burkina Faso; country in Africa
+222; World Trade Organization; organization that intends to supervise and liberalize international trade
+223; Veniamin Smekhov; Soviet actor
+224; Costa Rica; country in Central America
+225; Brigitte Bardot; French model, actor, singer and animal rights activist
+226; Felix Mendelssohn; German composer, pianist and conductor
+227; Ashkenazi Jews; Jewish ethnic group
+228; Woody Guthrie; American singer-songwriter and folk musician
+229; harmonica; free reed wind musical instrument
+230; Madonna; American singer, songwriter, and actress
+231; musical composition; process of creating works of music
+232; Peter Debye; Dutch-American physicist and physical chemist
+233; Cornell University; private university in Ithaca (New York, US)
+234; Mexico; federal republic in the southern portion of North America
+235; Jada Pinkett Smith; American actress, singer-songwriter, and businesswoman
+236; rock music; genre of popular music that originated as "rock and roll" in 1950s USA
+237; Luis Alberto Spinetta; Argentine musician
+238; psychedelic rock; style of rock music
+239; Big Sean; American rapper and singer
+240; hip hop music; music genre consisting of a stylized rhythmic music that commonly accompanies rapping
+241; Massimo Bontempelli; Italian writer
+242; Rome; capital and largest city of Italy
+243; David Foster; Canadian musician, record producer, songwriter
+244; Carole King; American singer and songwriter
+245; composer; musician who is an author of music in any form; person who creates music, either by musical notation or oral tradition
+246; Argentina; country in South America
+247; Organisation for the Prohibition of Chemical Weapons; international organization based in The Hague
+248; Missy Elliott; American rapper, songwriter and record producer from Virginia
+249; film actor; actor who appears in films
+250; Holy See; episcopal jurisdiction of the Catholic Church in Rome, Italy
+251; Kurt Cobain; American singer, composer and musician
+252; diarist; person who writes a personal journal
+253; Babyface; American singer, songwriter and record producer
+254; Island Records; British international record label of Jamaican origin; imprint of Island Records Ltd.
+255; Chile; republic in South America
+256; International Centre for Settlement of Investment Disputes; international organization
+257; Günter Grass; German novelist, poet, playwright, illustrator, graphic artist, sculptor
+258; essayist; person who writes essays
+259; Christoph Wilhelm Hufeland; German physician
+260; Russian Academy of Sciences; academy of sciences
+261; Ireland; republic covering major parts of the island of Ireland
+262; Kyrgyzstan; republic in Central Asia
+263; Maldives; island country in Asia
+264; Henry Kissinger; United States Secretary of State
+265; André Malraux; French novelist, art theorist and politician
+266; Egypt; country in Africa and Asia
+267; Yeshayahu Leibowitz; israeli intellectual
+268; chemist; scientist trained in the study of chemistry
+269; Rainer Werner Fassbinder; German film director, screenwriter, and actor
+270; Munich; city in Bavaria, Germany
+271; Switzerland; federal State in Central Europe
+272; Rob Zombie; American singer and film director
+273; Busta Rhymes; American rapper, actor, record producer and record executive
+274; Republic Records; record label, division of Universal Music Group
+275; Tamer Hosny; Egyptian singer, actor, composer, director and songwriter
+276; Margaret Atwood; Canadian writer
+277; Fyodor Dostoyevsky; Russian author
+278; Yevgeny Zamyatin; Russian author
+279; Ilya Ehrenburg; Russian-Soviet writer and poet
+280; novelist; writer of novels
+281; Justin Timberlake; American singer, record producer, and actor
+282; pop music; genre of popular music which originated in its modern form in the late-1950s, deriving from rock and roll
+283; Jorge Amado; Brazilian writer
+284; Joaquim Maria Machado de Assis; Brazilian writer
+285; Syd Barrett; English musician, founding member of Pink Floyd
+286; Billy Crystal; American actor, comedian, writer, producer, director, and television host
+287; Rwanda; country in Africa
+288; Hungary; republic in Central Europe
+289; Nepal; country in South Asia
+290; Harold Bloom; American literary critic, scholar, and writer
+291; Yale University; private research university in New Haven, Connecticut, United States
+292; Eduard Suess; Austrian geologist
+293; Peter Tork; American musician, singer and actor
+294; banjo; musical instrument
+295; Charles Aznavour; Armenian-French singer and diplomat
+296; Group on Earth Observations; international organisation tasked with  promoting Earth observation and data sharing between members
+297; Kelly Clarkson; American recording artist; singer-songwriter, actress, and television personality
+298; François-René de Chateaubriand; French writer, politician, diplomat and historian
+299; Karl Mannheim; Hungarian-German philosopher and sociologist
+300; London; capital and largest city of the United Kingdom
+301; Maxim Gorki; Russian and Soviet writer
+302; Republic of Cyprus; island country in the Eastern Mediterranean
+303; Poland; republic in Central Europe
+304; Gerald Wilson; American trumpetist (1918-2014)
+305; Los Angeles; county seat of Los Angeles County, California; second largest city in the United States by population
+306; Howard Zinn; American historian, playwright, and socialist thinker
+307; Paraguay; republic in South America
+308; Iran; Islamic Republic in Western Asia
+309; Friedrich von Raumer; German historian
+310; Jewish people; ancient nation and ethnoreligious group from the Levant
+311; Henry David Thoreau; American poet, essayist, naturalist, and abolitionist (1817–1862)
+312; Harry Chapin; American musician
+313; Allen Ginsberg; American poet
+314; television producer; occupation within video production for TV
+315; Estonia; republic in Northern Europe
+316; India; federal republic in South Asia
+317; Australia Group; multilateral export control regime established in 1985 to help member countries identify exports needing control so as to prevent the spread of chemical and biological weapons
+318; Andrea Bocelli; Italian tenor and singer-songwriter
+319; Universal Music Group; American music corporation
+320; Aleksandr Solzhenitsyn; Russian writer
+321; Ric Ocasek; American musician
+322; Jay Chou; Taiwanese singer, songwriter, actor
+323; Interscope Records; American record label
+324; Andriy Danylko; Ukrainian comedian and pop and dance singer
+325; Jessica Simpson; American singer-songwriter and actress
+326; Bolivia; country in South America
+327; Liechtenstein; principality in western-central Europe
+328; Timbaland; American rapper, musician, DJ, record producer, and record executive
+329; alternative rock; genre of rock music
+330; Eurocontrol; European Organisation for the Safety of Air Navigation
+331; James Lighthill; British applied mathematician (1924-1998)
+332; Malta; island republic in Europe
+333; Commonwealth of Nations; intergovernmental organisation
+334; Mali; republic in West Africa
+335; United Nations; global international and intergovernmental organisation
+336; Wang Leehom; Taiwanese singer, songwriter, actor
+337; Jewel; American singer-songwriter, guitarist, producer, actress, and poet
+338; Michael Bublé; Canadian singer, songwriter and actor
+339; Valery Meladze; Russian singer of Georgian descent
+340; Robert Musil; Austrian writer
+341; author; author or intellectual author of a linguistic work
+342; Frank Zappa; American musician, songwriter, composer, and record and film producer
+343; Eugen Rosenstock-Huessy; Jewish German American social philosopher
+344; sociologist; scientist working in sociology
+345; Malawi; country in Africa
+346; Interpol; international law enforcement agency
+347; Liv Ullmann; Norwegian actress, writer and film director
+348; South Sudan; country in Africa
+349; François Guizot; French historian, orator, and statesman
+350; Royal Netherlands Academy of Arts and Sciences; Society of scientists and institute
+351; Niger; republic in Western Africa
+352; Organisation internationale de la Francophonie; intergovernmental organization
+353; Anatoly Lunacharsky; Russian Marxist revolutionary
+354; Academy of Sciences of the USSR; former Soviet scientific institution
+355; Sidney Poitier; American-born Bahamian actor, film director, author, and diplomat
+356; Papua New Guinea; constitutional monarchy in Oceania
+357; Belgium; federal constitutional monarchy in Western Europe
+358; International Energy Agency; intergovernmental organization
+359; Serbia; republic in Southeastern Europe
+360; Sri Lanka; island republic in South Asia
+361; Ingeborg Bachmann; Austrian poet and author
+362; philosopher; person with an extensive knowledge of philosophy
+363; André 3000; American rapper, singer, record producer, dancer and actor
+364; Serge Gainsbourg; French singer, songwriter, pianist, film composer, poet, painter, screenwriter, writer, actor and director
+365; film score composer; musical profession
+366; Augustin-Louis Cauchy; French mathematician (1789–1857)
+367; Fergie; American singer
+368; RCA Records; American record company
+369; Academia Europaea; pan-European academy of sciences
+370; Jean-Paul Sartre; French existentialist philosopher, playwright, novelist, screenwriter, political activist, biographer, and literary critic
+371; Paris; capital and largest city of France
+372; Ecuador; country in South America
+373; Mary Shelley; English novelist, short story writer, dramatist, essayist, biographer, and travel writer
+374; science fiction writer; person who writes works of science fiction
+375; James Hetfield; American musician, songwriter and record producer
+376; Algeria; country in North Africa
+377; Eswatini; country in Africa
+378; Kazakhstan; country in Eastern Europe and Central Asia
+379; Gene Autry; American actor and singer (1907-1998)
+380; radio personality; person who has an on-air position in radio broadcasting
+381; University College London; public research university in London, United Kingdom
+382; Holly Johnson; British artist
+383; bass guitar; electric or acoustic bass instrument
+384; Arthur Miller; American playwright
+385; New York City; city in state of New York, largest city in the United States by population
+386; Jimmy Buffett; American singer–songwriter and businessman
+387; Akiko Yano; Japanese singer-songwriter (1955-)
+388; Norway; constitutional monarchy in Northern Europe
+389; European Space Agency; intergovernmental organisation dedicated to the exploration of space
+390; Gabriel Marcel; French philosopher, playwright, music critic and leading Christian existentialist
+391; Friedrich Nietzsche; German philosopher, poet, composer, cultural critic, and classical philologist
+392; entrepreneur; individual who organizes and operates a business, taking on financial risk to do so
+393; Gloria Estefan; Cuban-American singer-songwriter, actress and entrepreneur
+394; Japan; constitutional monarchy in East Asia
+395; Salvador de Madariaga; Spanish diplomat, writer and historian
+396; École Polytechnique; French institution of higher education and research in Palaiseau
+397; George Harrison; British musician and lead guitarist of the Beatles
+398; Vietnam; republic in Southeast Asia
+399; Denmark; sovereign state and Scandinavian country in northern Europe
+400; Reprise Records; American record label
+401; Jan Rubes; Czech opera singer and actor
+402; Czechoslovakia; 1918–1992 country in Central Europe, predecessor of the Czech Republic and Slovakia
+403; essay; piece of writing often written from an author's personal point of view
+404; Neil Young; Canadian singer-songwriter
+405; record producer; individual who oversees and manages the recording of an artist's music
+406; Luxembourg; country in Western Europe
+407; Organisation for Economic Cooperation and Development; international economic organisation
+408; Marlene Dietrich; German-American actress and singer
+409; Jim Morrison; American singer (1943-1971)
+410; director; director of a creative work
+411; Taylor Swift; American singer-songwriter
+412; guitar; fretted string instrument
+413; Zemfira; Russian rock musician and songwriter
+414; State of Palestine; country in the Middle East
+415; Billy Joel; American singer-songwriter and pianist
+416; Miguel de Unamuno; Spanish author
+417; Dido; English musician
+418; Arista; American record label
+419; Harry Nilsson; American recording artist; singer-songwriter, songwriter
+420; Spain; constitutional monarchy in Southwest Europe
+421; Palau; republic in Oceania
+422; Connie Francis; American recording artist; singer
+423; Georges Cuvier; French naturalist, zoologist and paleontologist (1769–1832)
+424; German Academy of Sciences Leopoldina; national academy of Germany
+425; Patti Smith; American singer-songwriter, poet and visual artist
+426; Bill Haley; Rock and roll music pioneer
+427; Russell Brand; British comedian, actor, and author
+428; French Academy of Sciences; learned society, founded in 1666 by Louis XIV at the suggestion of Jean-Baptiste Colbert, to encourage and protect the spirit of French scientific research
+429; Angola; country in Africa
+430; Africa; continent on the Earth's northern and southern hemispheres
+431; Julia Volkova; Russian singer, member of the duo t.A.T.u
+432; pop rock; music genre
+433; Sofia Kovalevskaya; Russian mathematician
+434; pneumonia; inflammatory condition of the lung
+435; Saint Lucia; country in the Caribbean
+436; Norman Wisdom; English actor, comedian and singer-songwriter
+437; businessperson; person involved in activities for the purpose of generating revenue
+438; Erika Mann; German actress and writer
+439; Klaus Mann; German writer
+440; Kenny Rogers; American country singer and songwriter
+441; Capitol Records; American record label; imprint of Capitol Records, Inc.
+442; Israel; country in Western Asia
+443; Ronald Reagan; 40th president of the United States
+444; University of Göttingen; university in the city of Göttingen, Germany
+445; Gottfried Wilhelm Leibniz; German mathematician and philosopher
+446; University of Jena; university located in Jena, Thuringia, Germany
+447; Trinidad and Tobago; island country in the Caribbean Sea
+448; Carl Friedrich von Weizsäcker; German physicist (1912-2007)
+449; T. S. Eliot; English author
+450; Anglicanism; Christian denomination; branch of Christianity
+451; Stendhal; French writer
+452; John Dos Passos; American novelist, playwright, poet, journalist, painter
+453; American Academy of Arts and Letters; honor society
+454; Franz Kafka; novelist and short story writer
+455; Cher; American singer/songwriter and actress
+456; Syria; republic in Western Asia
+457; Shel Silverstein; American poet, cartoonist, and children's writer
+458; Marilyn Manson; American rock musician and actor
+459; hard rock; genre of rock music often characterized by chordal guitar riffs accompanied by root notes on the bass guitar and "big" drums
+460; Madagascar; island nation off the coast of Southeast Africa, in the Indian Ocean
+461; Cambodia; constitutional monarchy in Southeast Asia
+462; Geffen Records; American record label
+463; Gene Simmons; Israeli-born American rock bass guitarist, singer-songwriter, record producer, entrepreneur, and actor
+464; Raven-Symoné; American entertainer
+465; atheism; rejection of belief in the existence of deities
+466; Bryan Ferry; English musician
+467; Glen Campbell; American musician, songwriter, actor
+468; folk rock; fusion genre of folk and rock music
+469; Vienna; capital and one of nine States of Austria
+470; Phil Collins; English recording artist, musician, songwriter, actor
+471; guitarist; person who plays the guitar
+472; Igor Stravinsky; Russian composer, pianist and conductor
+473; Vladimir Lenin; Russian politician, communist theorist, and founder of the Soviet Union
+474; Ernst Troeltsch; German philosopher and theologian
+475; Afghanistan; republic in South Asia
+476; Romania; sovereign state in Europe
+477; James Franco; American actor, writer, producer, director, and teacher
+478; New York University; private research university in New York, NY, United States
+479; Maya Angelou; American poet and author
+480; Alberto Manguel; writer
+481; Maria Callas; American-born Greek operatic soprano
+482; Juilliard School; American performing arts conservatory in New York City
+483; Katerina Graham; Swiss-born American actress
+484; Melanie Brown; English singer, actress and television personality
+485; Ralf Dahrendorf; German-British sociologist, politician
+486; Iceland; island republic in Northern Europe
+487; Charlie Rich; American country music singer and musician
+488; piano; musical instrument
+489; Art Garfunkel; American singer, poet, and actor
+490; Atco Records; US record label; imprint of Atlantic Recording Corporation
+491; Melissa Auf der Maur; Canadian musician, photographer and actress
+492; Fiji; country in Oceania
+493; Ray Charles; American recording artist; musician, singer, songwriter
+494; Vanuatu; country in Oceania
+495; Miranda Cosgrove; American actress and singer-songwriter
+496; Iraq; A country in Western Asia
+497; Cuba; Country in the Caribbean
+498; Jerry Reed; American recording artist; country music singer, actor
+499; Catholicism; Christian doctrine professed by the Roman Catholic Church
+500; Richard Sennett; Sociologist (b.1943)
+501; Johnny Hallyday; French recording artist, singer and actor
+502; recording artist; person, musician who performs music for recordings
+503; Sierra Leone; republic in West Africa
+504; African Union; supranational union
+505; Oscar Wilde; Irish writer and poet
+506; L. Frank Baum; American children's writer, editor, journalist, screenwriter
+507; Uzeyir Hajibeyov; Azerbaijani composer
+508; Islam; monotheistic religion, founded by Muhammad in the 7th century, based on the teachings of the Quran and the hadiths
+509; short story; brief work of literature, usually written in narrative prose
+510; Cyndi Lauper; American recording artist; singer, songwriter, actress and activist
+511; Virginia Woolf; English modernist writer known for use of stream of consciousness
+512; Katharine McPhee; American pop singer, songwriter, and actress
+513; Norman Mailer; American novelist, journalist, essayist, playwright, film maker, actor and political candidate
+514; George Eliot; English novelist, essayist and translator
+515; Communist Party of the Soviet Union; political party founded in 1912
+516; Bud Spencer; Italian actor, professional swimmer and water polo player
+517; Portugal; republic in Southwestern Europe
+518; Nena; German singer and actress
+519; Bob Dylan; American recording artist; singer-songwriter, musician, author, and artist
+520; Jemaine Clement; New Zealand actor and musician
+521; Melchior de Vogüé; French diplomat, orientalist, travel writer, archaeologist, philanthropist and literary critic
+522; Arthur Schopenhauer; German philosopher
+523; Hamburg; city and federal state in Germany
+524; Vanessa Hudgens; American actress
+525; dance music; music composed specifically to facilitate or accompany dancing
+526; Gabriel García Márquez; Colombian writer, journalist and Nobel laureate in literature
+527; Paula Abdul; American-Canadian singer and songwriter
+528; Virgin Records; UK record company
+529; Amerie; American singer-songwriter, record producer, and actress
+530; Yoko Ono; Japanese artist, author, and peace activist
+531; Polydor Records; multinational record label headquartered in the United Kingdom, owned by Universal Music Group
+532; Linda Ronstadt; American singer
+533; Ľudovít Štúr; slovak poet, philosopher, linguist, publicist, politician and writer
+534; Polish; Indo-European language from the West Slavic group spoken in Poland
+535; Jacob Grimm; German philologist, linguist, jurist and mythologist
+536; translator; person who translates text from one language to another
+537; Lincean Academy; academy of sciences
+538; Sheryl Crow; American musician and actress
+539; Heidelberg University; public research university in Heidelberg, Baden-Württemberg, Germany
+540; David Cross; American comedian, writer and actor
+541; Todd Rundgren; American musician
+542; Tajikistan; republic in Central Asia
+543; Universal Postal Union; specialized agency of the United Nations focused on cooperation within the postal sector
+544; Teena Marie; American singer
+545; Ferdinand von Richthofen; German geographer and explorer
+546; Berlin; capital and largest city of Germany
+547; Chris Cornell; American singer-songwriter, musician
+548; Marietta Shaginyan; Soviet writer, poet and journalist
+549; poet; person who writes and publishes poetry
+550; Hermann Burmeister; German Argentine zoologist, entomologist, herpetologist, and botanist
+551; Duke Ellington; American jazz musician, composer and band leader
+552; lung cancer; cancer in the lung
+553; Asian Development Bank; regional development bank
+554; Berry Gordy; American record producer, songwriter and founder of Motown record label
+555; Aaron Copland; American composer, composition teacher, writer, and conductor
+556; George Soros; Hungarian-American business magnate, investor and philanthropist
+557; Budapest; capital city of Hungary
+558; Rick Rubin; American music producer
+559; Epic; American record label
+560; Botswana; republic in southern Africa
+561; Athanasius Kircher; German Jesuit scholar
+562; Holy Roman Empire; varying complex of lands that existed from 962 to 1806 in Central Europe
+563; Mary J. Blige; American singer-songwriter, record producer, and actress from New York
+564; Stanisław Lem; Polish science fiction author, futurologist
+565; philosophy; intellectual and/or logical study of general and fundamental problems
+566; Korney Chukovsky; Russian writer
+567; Truman Capote; American author (1924-1984)
+568; J. R. R. Tolkien; British philologist and author, creator of classic fantasy works
+569; Christa Wolf; German literary critic, novelist, and essayist
+570; Kenya; republic in East Africa
+571; Saint Petersburg; federal city in Russia and the former capital
+572; Marshall Islands; country in Oceania
+573; "African, Caribbean and Pacific Group of States"; intergovernmental organization of countries in Africa, the Caribbean, and the Pacific, created by the Georgetown Agreement in 1975, aiming at sustainable development and poverty reduction and greater integration into the world's economy
+574; Eric Burdon; English singer-songwriter
+575; Geoffrey Ingram Taylor; British mathematician and physicist (1886-1975)
+576; Royal Swedish Academy of Sciences; 
+577; Charles Rosen; American pianist and writer on music
+578; Mozambique; country in Africa
+579; Brazil; federal republic in South America
+580; Angela Merkel; Chancellor of Germany
+581; Jaan Kaplinski; Estonian poet, philosopher, and culture critic
+582; Eric Idle; English actor, comedian, and writer
+583; Thomas Henry Huxley; English biologist and comparative anatomist
+584; United Kingdom of Great Britain and Ireland; historical sovereign state from 1801 to 1927
+585; Philippines; republic in Southeast Asia
+586; Djibouti; country in Africa
+587; Benjamin Franklin; American author, printer, political theorist, politician, postmaster, scientist, inventor, civic activist, statesman, diplomat, Founding Father, and a therapist
+588; economist; professional in the social science discipline of economics
+589; John Hartford; American singer-songwriter and musician
+590; Vanessa Carlton; American singer-songwriter
+591; A&M Records; American historical record label
+592; Philip Roth; American novelist
+593; Lauryn Hill; American singer, rapper, songwriter, record producer, actress
+594; A. R. Rahman; Indian singer and composer
+595; electronic music; music that employs electronic musical instruments, digital instruments and circuitry-based music technology
+596; Herbert Grönemeyer; German musician, actor
+597; EMI; British music recording and publishing company
+598; Barthold Georg Niebuhr; Danish-German statesman and historian
+599; Wilhelm Wundt; German physician, physiologist, philosopher and professor
+600; Bahamas; country in North America
+601; Tom Hanks; American actor and producer
+602; Theodosius Dobzhansky; geneticist and evolutionary biologist
+603; Cliff Richard; British pop singer, musician, and actor
+604; Organization of American States; international organization
+605; Barbra Streisand; American singer, actress, writer, film producer, and director
+606; Roger Penrose; English mathematical physicist, recreational mathematician and philosopher
+607; Hispanic America; region comprising the American countries inhabited by Spanish-speaking populations
+608; Gaspard Monge; French mathematician, inventor of descriptive geometry and father of differential geometry
+609; Royal Prussian Academy of Sciences; academy of sciences
+610; Zhores Alfyorov; Soviet and Russian physicist and academic
+611; Mark Wahlberg; American actor, television producer and rap musician
+612; Ben Moody; American musician, singer, songwriter, record producer, and actor
+613; James Maslow; American actor, model, songwriter and singer
+614; John Updike; American novelist, poet, short story writer, art critic, and literary critic
+615; Joe Walsh; American musician, songwriter, record producer, and actor
+616; Ivan Andreyevich Krylov; Russian writer
+617; Simon Sechter; Austrian composer
+618; Roger Waters; English songwriter, bassist, and lyricist of Pink Floyd
+619; Nashville; consolidated city-county in Davidson County, Tennsessee, United States, and the state capital of Tennsessee
+620; Geddy Lee; vocalist, bassist, and keyboardist for the Canadian rock group Rush
+621; Wolfgang Amadeus Mozart; Austrian composer of the Classical period
+622; music pedagogue; profession and academic title
+623; Democratic Republic of the Congo; country in Central Africa
+624; Claude Lévi-Strauss; Belgian anthropologist and ethnologist
+625; Georg Wilhelm Friedrich Hegel; German philosopher
+626; Ernst Mach; Austrian physicist and university educator
+627; professor; academic title at universities and other education and research institutions
+628; Gabon; country in Africa
+629; Organisation of Islamic Cooperation; international organisation
+630; Ricky Martin; Puerto Rican singer, actor, and author
+631; Yevgeny Yevtushenko; Russian poet, film director, teacher
+632; prosaist; person who writes in prose
+633; Nikolai Gogol; Ukrainian and Russian writer
+634; Al Jolson; American entertainer, actor, and singer
+635; Russian Empire; former country, 1721–1917
+636; Che Guevara; Argentine Marxist revolutionary
+637; Valeriya Novodvorskaya; Russian politician
+638; Severo Ochoa; Spanish physician
+639; Céline Dion; Canadian recording artist; singer
+640; Catholic Church; communion of Christian Churches led by the Pope, consisting of the Latin Church and 23 Eastern Catholic Churches
+641; Mikhail Vassilyevich Lomonosov; Russian polymath
+642; Saint Petersburg Academy of Sciences; historical academy (1724—1917)
+643; Thomas Hobbes; English philosopher
+644; International Development Association; international financial institution, member of the World Bank Group
+645; Charles Bukowski; American writer (1920-1994)
+646; Ezra Pound; American poet and critic
+647; Royal Society of Literature; senior literary organisation in Britain
+648; Alyson Michalka; American actress and singer
+649; Philip Glass; American composer
+650; Spike Lee; American film director, film producer, writer, and actor
+651; T-Bone Walker; American blues guitarist, singer, songwriter and multi-instrumentalist
+652; Brunei; country in Asia
+653; Adam Lambert; American singer, songwriter
+654; Seamus Heaney; Irish poet, playwright, translator, lecturer
+655; Harvard University; private research university in Cambridge, Massachusetts, United States
+656; Jean-Antoine-Nicolas de Caritat de Condorcet; French philosopher, mathematician, and political scientist
+657; Ludwig Geiger; German historian and writer
+658; biographer; person who creates biographies
+659; Suzi Quatro; American musician, radio host and actress
+660; Jeff Bridges; American actor, singer-songwriter and producer
+661; photographer; person who takes photographs
+662; jazz; musical style, genre, and theory
+663; Edward Sabine; British Army general
+664; Great Britain; historical constitutional monarchy in Western Europe (1707–1801)
+665; Ernst Mayr; German-American Evolutionary Biologist
+666; Adriano Celentano; Italian singer, songwriter, comedian, actor, film director and television host
+667; Multilateral Investment Guarantee Agency; 
+668; Romain Rolland; French author
+669; 50 Cent; American rapper, singer, songwriter, actor, television producer, entrepreneur and investor
+670; Augusto Righi; Italian physicist
+671; Accademia Nazionale delle Scienze detta dei XL; Italy's national academy of sciences
+672; Buckminster Fuller; American architect, systems theorist, author, designer, inventor and futurist
+673; Nicki Minaj; Trinidad and Tobago-born rapper, singer and actress
+674; Eritrea; country in the Horn of Africa
+675; Burton Cummings; Canadian musician
+676; Debbie Reynolds; American actress, singer, and dancer
+677; Nikita Mikhalkov; Soviet and Russian filmmaker and actor
+678; Selma Lagerlöf; Swedish writer
+679; stroke; cause for hospitalization or death
+680; Isaac Asimov; American writer and professor
+681; Marguerite Duras; French writer and film director
+682; George Henschel; German-born British baritone, pianist, conductor, and composer
+683; pedagogue; person working in the academic field of pedagogy
+684; Slovakia; republic in Central Europe
+685; Kingsley Amis; English novelist, poet, critic, teacher
+686; literary critic; cultural journalist who reviews new literary books
+687; blues; musical form and a music genre
+688; James Bryant Conant; American chemist
+689; Olivier Messiaen; French composer, organist and ornithologist
+690; organ; musical keyboard instrument
+691; Clint Eastwood; American actor, filmmaker, musician, and politician
+692; John Lydon; English musician
+693; Sara Bareilles; American recording artist; pop rock singer-songwriter and pianist
+694; "University of California, Los Angeles"; public research university in Los Angeles, California, United States
+695; Albertus Magnus; Dominican friar
+696; music theorist; person who studies music theory
+697; Zimbabwe; republic in southern Africa
+698; Joseph Fourier; French mathematician and physicist
+699; archaeologist; person studying human activity in the past
+700; Janet Jackson; American singer, songwriter and actress from Indiana
+701; zoologist; someone who studies or practices zoology
+702; Paul McCartney; English singer-songwriter and composer, bassist of The Beatles
+703; agnosticism; view that certain metaphysical claims – such as the existence of God or the supernatural – are unknown and perhaps unknowable
+704; David Bowie; British singer, musician, and actor
+705; experimental rock; type of music based on rock
+706; Mort Shuman; American singer, pianist and songwriter
+707; Dima Bilan; Russian singer, record producer, songwriter, model and actor
+708; Venezuela; country in northern South America
+709; Simone de Beauvoir; French writer, intellectual, existentialist philosopher, political activist, feminist, and social theorist
+710; Yegor Letov; Russian musician, poet, and painter
+711; Pavel Jozef Šafárik; Slovak poet, linguist, literature historian, publicist, educator, publicist, translator, writer and science writer
+712; Gustav Kirchhoff; German physicist
+713; Alejandro Jodorowsky; Chilean-French filmmaker
+714; Édouard René de Laboulaye; French politician
+715; Steven Seagal; American actor, martial artist, and film producer
+716; D. H. Lawrence; English novelist, poet, playwright, essayist, literary critic and painter
+717; Henry Louis Le Châtelier; French chemist
+718; Vanessa Williams; American actress, singer  and former Miss America
+719; Brad Pitt; American actor and filmmaker
+720; Stephen Spender; English poet and man of letters
+721; Deutsche Akademie für Sprache und Dichtung; society of writers and scholars on matters pertaining to German language and literature in the German sprachraum
+722; Avery Brooks; American actor, director, musician, singer, and professor
+723; Gordon Parks; American photographer, musician, writer and film director
+724; J. K. Rowling; English novelist
+725; Sakis Rouvas; Greek recording artist
+726; Hugh Laurie; English actor, comedian, writer, musician and director
+727; Heinrich Brunner; German historian
+728; Lil' Kim; American rapper, actress and model from New York
+729; Mandy Moore; American singer and actress
+730; Denis Johnson; American writer (novel, drama, poetry, essay)
+731; Howard Hughes; American aviator, engineer, industrialist, and film producer
+732; Republican Party; political party in the United States
+733; Buckethead; American musician and songwriter
+734; synthesizer; electronic instrument capable of producing a wide range of sounds
+735; Mary Pickford; Canadian-American actress
+736; Portuguese Empire; global empire centered in Portugal
+737; Asia; continent, mainly on the Earth's northeastern quadrant
+738; Tionne Watkins; American singer-songwriter, the "T" in the girl-group TLC
+739; Boris Vian; French polymath: writer, poet, musician, singer, translator, critic, actor, inventor and engineer
+740; Tina Turner; American singer, dancer, actress, and author; naturalized citizen of Switzerland
+741; Eldar Ryazanov; Soviet and Russian film director
+742; Vince Gill; American musician
+743; Philip Pullman; English author
+744; children's writer; writer of literature targeted primarily at children
+745; Leon Trotsky; Marxist revolutionary from Russia
+746; military personnel; member of the armed forces
+747; Jared Leto; American actor and musician
+748; Archibald Hill; English physiologist and biophysicist
+749; African Development Bank; multilateral development finance institution
+750; Arthur C. Clarke; British science fiction writer, science writer, inventor, undersea explorer, and television series host
+751; Chinghiz Aitmatov; Soviet writer
+752; Michel Legrand; French composer, arranger, conductor, light orchestra leader, jazz pianist
+753; Camillo Golgi; Italian physician, pathologist, scientist, and Nobel laureate
+754; Göttingen Academy of Sciences; 
+755; Walter Scott; Scottish historical novelist, playwright, and poet
+756; Angie Stone; American singer and actress
+757; Gambia; country in West Africa
+758; François Arago; French mathematician, physicist, astronomer and politician
+759; Macy Gray; American singer-songwriter and actress
+760; Andrey Korotayev; Russian anthropologist, economic historian, comparative political scientist, and sociologist
+761; Hugo Grotius; Dutch jurist and scholar
+762; Joss Whedon; American director, writer, and producer
+763; Keri Hilson; American singer, songwriter and actress from Georgia
+764; Kiely Williams; American singer
+765; Judy Garland; American actress, singer and vaudevillian
+766; Vitamin C; American singer and actress
+767; Otto Schmidt; Russian mathematician
+768; Robert Penn Warren; American poet, novelist, and literary critic
+769; Celeste Buckingham; Slovak singer and songwriter
+770; soul music; genre of music
+771; Doc Watson; American guitarist, songwriter and singer
+772; Johann Wolfgang von Goethe; German writer, artist and politician
+773; Bob Seger; American singer-songwriter
+774; Helge Schneider; German comedian, jazz musician and multi-instrumentalist, author, film and theatre director and actor
+775; Gary Becker; American economist
+776; Jean-Baptiste Biot; French scientist
+777; Ulf Ekberg; Swedish musician
+778; George Steiner; American writer
+779; Siméon Denis Poisson; French mathematician, mechanician and physicist
+780; Anthony Burgess; English writer (1917-1993)
+781; Rickie Lee Jones; American musician and songwriter
+782; Ruslana; Ukrainian singer
+783; Mos Def; American rapper and actor from New York
+784; Sebastian Haffner; German journalist and author
+785; Xavier Cugat; musician (1900-1990)
+786; June Carter Cash; American singer, songwriter and actress
+787; Donovan; Scottish singer, songwriter and guitarist
+788; Burundi; country in Africa
+789; Finland; republic in Northern Europe
+790; George Porter, Baron Porter of Luddenham; British chemist
+791; Béla Bartók; Hungarian composer and pianist
+792; musicologist; occupation
+793; Janel Parrish; American musician
+794; Rebbie Jackson; singer from the United States
+795; Randy Jackson; American singer and musician
+796; Jimmy Fallon; American talk show host and comedian
+797; television presenter; person who introduces or hosts television programs
+798; Konstantin Eduardovich Tsiolkovskii; Russian and Soviet rocket scientist and pioneer of the astronautic theory
+799; mathematician; person with an extensive knowledge of mathematics
+800; Andrei Tarkovsky; Soviet and Russian film-maker, writer, film editor, film theorist, theatre and opera director
+801; Moscow; capital city and the largest city of Russia; separate federal subject of Russia
+802; Anastacia; American singer-songwriter
+803; dance-pop; dance-oriented pop music
+804; Kingdom of the Netherlands; sovereign state in Western Europe and the Caribbean
+805; R. Kelly; American singer, record producer, songwriter, actor and basketball player from Illinois
+806; Jive; American record label
+807; Milan Kundera; Czech author of Czech and French literature
+808; Herman Melville; American novelist, short story writer, essayist, and poet
+809; Albert Lortzing; German opera composer
+810; Mark Twain; American author and humorist
+811; Toni Morrison; Afro-American writer
+812; Robert Frost; American poet
+813; Honoré de Balzac; French writer
+814; French people; People from France
+815; Meat Loaf; American musician, singer, songwriter, record producer and actor
+816; Motown; American record label
+817; George Carlin; American stand-up comedian
+818; producer; individual or organization that creates goods and services
+819; Ursula K. Le Guin; American writer
+820; Winston Churchill; British politician, army officer, and writer
+821; Jean-Baptiste Dumas; French chemist
+822; Meaghan Jette Martin; American musician and actor
+823; Moby; American recording artist; musician, DJ, singer, songwriter
+824; disc jockey; person who plays recorded music for an audience
+825; M.I.A.; rapper
+826; rapper; artist who speaks rhymes in a rhythm over music
+827; Pierre Boulez; French composer, conductor, writer, and pianist
+828; Solomon Islands; country in Oceania
+829; Sun Ra; American jazz composer and bandleader
+830; bandleader; leader of a band of musicians
+831; Max Brod; author, composer, and journalist
+832; Prague; capital city of the Czech Republic
+833; Jean Le Rond d'Alembert; French philosopher
+834; mathematics; science of abstract objects and structures
+835; Pat Boone; American recording artist; singer
+836; Parlophone; German-British record label
+837; Ed Sheeran; English singer-songwriter, record producer, guitarist and actor
+838; Victor Ambartsumian; Soviet astrophysicist
+839; Clive Barker; author, film director and visual artist
+840; artist; person who creates, practises and/or demonstrates any art
+841; Wassily Kandinsky; Russian painter
+842; Henri Poincaré; French mathematician, physicist, engineer, and philosopher of science
+843; Miguel de Cervantes; Spanish novelist, poet, and playwright
+844; Alan Stivell; Breton musician and singer
+845; Sheldon Lee Glashow; American theoretical physicist
+846; scientist; person who studies a science
+847; György Lukács; Hungarian marxist politician, philosopher and literary critic
+848; USSR Union of Writers; creative union of professional writers in the Soviet Union
+849; Renato Carosone; Italian musician; band leader, pianist, singer
+850; International Hydrographic Organization; Intergovernmental organization
+851; Peru; republic in South America
+852; Immanuel Kant; German philosopher
+853; Kingdom of Prussia; former German state (1701–1918)
+854; Mary-Kate Olsen; American actress, fashion designer, producer, author, and businesswoman
+855; fashion designer; one who designs clothing and related items
+856; George Santayana; Spanish-American philosopher
+857; Phi Beta Kappa Society; honor society for the liberal arts and sciences in the United States
+858; Jean Gaston Darboux; French mathematician
+859; Leonard Nimoy; American actor, film director, poet, musician and photographer
+860; Carl Peter Thunberg; Swedish naturalist
+861; Nelly Furtado; Canadian singer-songwriter, record producer, musician and actress
+862; contemporary folk music; the genre that evolved from folk music during the 20th century folk revival
+863; Richard Dawkins; English ethologist, evolutionary biologist and author
+864; Ludwig Wittgenstein; Austrian-British philosopher
+865; playwright; person who writes plays
+866; Monica; American recording artist; singer, songwriter, actress, and businesswoman
+867; Garth Brooks; American country music singer
+868; Rudyard Kipling; English short-story writer, poet, and novelist
+869; Sidney Sheldon; American writer (1917-2007)
+870; Jason Newsted; American musician
+871; traditional heavy metal; genre of heavy metal music
+872; Bavarian Academy of Fine Arts; German association
+873; Crispin Glover; American film actor, director, screenwriter, recording artist, publisher, and author
+874; Jamie Foxx; American actor, comedian, singer, and broadcaster from Texas
+875; Heinrich Heine; German poet, journalist, essayist, and literary critic
+876; Lord Byron; English poet and a leading figure in the Romantic movement
+877; Graham Greene; English writer, playwright and literary critic
+878; Guatemala; republic in Central America
+879; Myanmar; sovereign state in Southeast Asia
+880; Rob Reiner; American actor and director
+881; Albrecht von Haller; Swiss anatomist, physiologist, naturalist and poet
+882; Angélique Kidjo; Beninese recording artist; musician
+883; choreographer; person who creates choreographies
+884; Daniel Lanois; Canadian record producer, singer-songwriter, musician
+885; Josiah Willard Gibbs; physicist
+886; Seychelles; island country to the East of Africa
+887; Alliance of Small Island States; 
+888; Bosnia and Herzegovina; republic in Southeast Europe
+889; England; home nation of the United Kingdom
+890; Wilhelm Ostwald; Baltic German chemist
+891; keyboard instrument; class of musical instrument which is played using a musical keyboard
+892; Bhutan; country in South Asia
+893; Leo Tolstoy; Russian writer
+894; Brigitte Fontaine; French poet and artist
+895; Hebrew; Semitic language spoken primarily in Israel
+896; Jason Mraz; American singer-songwriter
+897; Atlantic Records; American record label
+898; Pierre-Simon Laplace; French mathematician and astronomer
+899; Joseph Priestley; English theologian, chemist, educator, and political theorist
+900; Theodore von Kármán; Hungarian-American mathematician, aerospace engineer and physicist
+901; Warner Bros.; American producer of film, television, and music entertainment
+902; Ellie Goulding; English singer and songwriter
+903; multi-instrumentalist; musician who plays two or more musical instruments with some degree of proficiency
+904; Hu Shih; Chinese philosopher, essayist and diplomat
+905; Academy of Arts of the GDR; 
+906; Jamaica; country in the Caribbean
+907; John Turturro; American actor, writer and director
+908; Mark Salling; American actor and musician (1982-2018)
+909; Rodion Shchedrin; Russian composer
+910; Hannah Arendt; Jewish-American political theorist
+911; Nora Ephron; American film director and writer
+912; Lenny Kravitz; American singer-songwriter and multi-instrumentalist
+913; Bill Cosby; American actor, comedian, author, producer, musician, activist, sex offender
+914; Anton Bruckner; Austrian composer
+915; Austrian Empire; monarchy in Central Europe between 1804 and 1867
+916; saxophone; type of musical instrument of the woodwind family
+917; Levon Helm; American musician and actor (1940-2012)
+918; drum kit; collection of drums and other percussion instruments
+919; Mickey Rooney; American film actor (1920-2014)
+920; Yvonne De Carlo; Canadian-American actress, dancer, and singer
+921; Laurie Anderson; American musician
+922; Czesław Miłosz; Polish poet, diplomat, prosaist, writer, and translator. Nobel Prize winner
+923; David Hasselhoff; American actor, singer, producer, and businessman
+924; Lutheranism; branch of Protestantism based on the teachings of Martin Luther
+925; Alanis Morissette; Canadian-American singer-songwriter
+926; Hungarian; language spoken in and around Hungary
+927; Jerry Lewis; American comedian, actor, film producer, writer and film director
+928; Seth MacFarlane; American animator, actor, singer and television producer
+929; Irene Cara; American recording artist; singer and actress
+930; Elfriede Jelinek; Austrian writer
+931; Guinea; country in Africa
+932; John Travolta; American actor, dancer and singer
+933; Gilbert Bécaud; French singer, musician, and actor
+934; Mike Shinoda; American musician
+935; Mohandas Karamchand Gandhi; pre-eminent leader of Indian nationalism during the British Raj
+936; jurist; legal scholar or academic, a professional who studies, teaches, and develops law
+937; Harold Pinter; English playwright (1930-2008)
+938; Prosper Mérimée; French writer, historian, and translator
+939; William S. Burroughs; American novelist, short story writer, essayist, painter, and spoken word performer
+940; Carrie Fisher; American actress, screenwriter and novelist
+941; Thailand; constitutional monarchy in Southeast Asia
+942; Erykah Badu; American neo-soul singer
+943; Yemen; republic in Western Asia
+944; Ivan Turgenev; Russian writer
+945; Nikolai Fomenko; Russian entertainer and businessman
+946; Sergey Kuryokhin; Russian musician (1954-1996)
+947; Afrika Bambaataa; American DJ, record producer and activist
+948; Yoram Kaniuk; Israeli writer and painter
+949; painter; artist who practices painting
+950; peace activist; activist focused on avoiding war
+951; Mercury Records; record label
+952; Jim Messina; American musician
+953; engineer; professional practitioner of engineering and its sub classes
+954; tuberculosis; infectious disease caused by the bacterium Mycobacterium tuberculosis
+955; Hermann Usener; German classical philologist
+956; German Empire; empire in Central Europe between 1871–1918
+957; Lisa Loeb; American singer-songwriter and actress
+958; Eddie Money; American rock musician and singer–songwriter
+959; Zooey Deschanel; American actress, musician, and singer-songwriter
+960; Urbain Le Verrier; French astronomer
+961; Zora Neale Hurston; African American folklorist, novelist, short story writer, and Civic Rights advocate
+962; Katy Perry; American singer, songwriter and actress
+963; synth-pop; music genre in which the synthesizer is a key instrument
+964; Hector Berlioz; French Romantic composer
+965; Andy Williams; American recording artist; singer, songwriter, actor and record producer
+966; Bret Michaels; American musician, actor, and director
+967; Count Basie; American jazz musician, bandleader, and composer
+968; David Hume; Scottish philosopher, economist, and historian
+969; Theodore Roosevelt; American politician, 26th President of the United States (in office from 1901 to 1909)
+970; Washington, D.C.; capital city of the United States
+971; Evelyn Waugh; British writer
+972; Kid Rock; American musician and rapper
+973; banjoist; person who plays the banjo
+974; Benjamin Britten; English composer, conductor, and pianist
+975; heart failure; condition in which the heart is unable to provide sufficient pump action
+976; Hungarian Academy of Sciences; 
+977; Ivan Yefremov; Soviet paleontologist, science fiction author and social thinker
+978; Uganda; republic in East Africa
+979; Friedrich Carl von Savigny; German jurist
+980; Robin Gibb; British-Australian singer, songwriter and Bee Gees co-founder
+981; opera; artform combining sung text and musical score in a theatrical setting
+982; Zambia; republic in southern Africa
+983; Léo Ferré; French-born Monégasque poet and singer
+984; El Salvador; country in Central America
+985; Yuri Vizbor; Soviet bard (1934-1984)
+986; Julieta Venegas; US-born Mexican singer-songwriter, recording artist
+987; Harald Weinrich; German classical scholar
+988; Collège de France; higher education and research establishment
+989; Julio Cortázar; Argentinian and French writer
+990; Cape Verde; country comprising ten islands off the Western coast of Africa
+991; Joseph Liouville; French mathematician
+992; Soviet Union; 1922–1991 country in Europe and Asia
+993; Charlie Chaplin; British comic actor and filmmaker
+994; Lloyd Price; American singer, songwriter
+995; Jan Josef Liefers; German actor and singer
+996; Steve Martin; American actor, comedian, musician, author, playwright, and producer
+997; Carly Simon; American singer-songwriter, musician and author
+998; Alexander Ivanovich Herzen; Russian author, philisopher, revolutioner
+999; David Mitchell; English novelist
+1000; Vladimir Nabokov; Russian-American novelist, lepidopterist, professor
+1001; Irving Berlin; Russian born American songwriter
+1002; Bulat Okudzhava; Russian writer and singer
+1003; John Frederick William Herschel; English polymath, mathematician, astronomer, chemist, inventor and photographer
+1004; American Philosophical Society; United States scholarly organization  that promotes knowledge in the sciences and humanities
+1005; Anatoly Krupnov; musician and poet (1965-1997)
+1006; Henrik Steffens; German philosopher
+1007; Natalie Portman; Israeli-American actress
+1008; LeToya Luckett; American R&B singer-songwriter and actress
+1009; Montparnasse Cemetery; cemetery in the Montparnasse quarter of Paris, France
+1010; Organization for Security and Co-operation in Europe; security-oriented intergovernmental organization
+1011; Carrie Underwood; American country music singer
+1012; Karl Marx; German philosopher, economist, sociologist, journalist and revolutionary socialist
+1013; Kevin Jonas; American musician
+1014; Mauritania; Islamic republic in Africa
+1015; Wolfgang Schadewaldt; German classical philologist, literary theorist and translator
+1016; Mary Wollstonecraft; English writer, philosopher, women's rights advocate (1759-1797)
+1017; The Edge; Irish rock musician, guitar player of U2
+1018; Chad; country in central Africa
+1019; Nikolay Basov; Soviet physicist
+1020; Adam Sandler; American actor, comedian, screenwriter, and producer
+1021; Hans Christian Ørsted; Danish physicist and chemist
+1022; Don Rickles; American stand-up comedian
+1023; Ginger Rogers; American actress and dancer
+1024; Amy Lee; American singer-songwriter and pianist
+1025; Paul Reiser; American actor and comedian
+1026; David Byrne; Scottish-American musician
+1027; mandolinist; musician who plays the mandolin
+1028; Mikhail Zadornov; Soviet and Russian stand-up comedian and writer
+1029; Myles Kennedy; American musician
+1030; Boston; city in and state capital of Massachusetts, United States
+1031; Charlotte Church; Welsh singer-songwriter
+1032; Charles Mingus Jr.; American jazz double bassist, composer and bandleader
+1033; Alexander Pushkin; Russian poet
+1034; poetry; form of literary art
+1035; powest; form of prosaic literature, longer than a short story and a novella but shorter than a novel
+1036; Billie Holiday; American jazz singer and songwriter
+1037; Stanislao Cannizzaro; Italian chemist
+1038; André Gide; French novelist and essayist
+1039; Darren Criss; American actor and singer
+1040; Mauritius; country in the Indian Ocean
+1041; Usher; American singer, songwriter, dancer and actor
+1042; Comoros; sovereign archipelago island nation in the Indian Ocean
+1043; Nat King Cole; American singer and jazz pianist
+1044; Natalie Cole; American singer and songwriter
+1045; Jérôme Lalande; French astronomer
+1046; Raymond Aron; French philosopher, sociologist, journalist, and political scientist
+1047; Camille Saint-Saëns; French composer, organist, conductor, and pianist of the Romantic era
+1048; symphony; extended musical composition
+1049; Southern African Development Community; intergovernmental trade and development body
+1050; Jack Black; American actor, comedian, musician, music producer, and YouTuber
+1051; Democratic Party; political party in the United States
+1052; Angelina Jolie; American actress, film director and screenwriter
+1053; Asia-Pacific Economic Cooperation; international economic forum
+1054; Solange Knowles; American musician
+1055; Kanye West; American rapper, record producer, singer, fashion designer, businessman, and actor
+1056; Frédéric Chopin; Polish composer and pianist
+1057; Alexis de Tocqueville; French political thinker and historian
+1058; Lionel Richie; American singer-songwriter, musician, record producer and actor
+1059; Sven Hedin; Swedish geographer, photographer
+1060; Roger Daltrey; English lead vocalist of The Who
+1061; Somalia; federal republic in Africa
+1062; Fritz Lang; Austrian-American filmmaker, screenwriter, and occasional film producer and actor
+1063; Glukoza; Russian singer
+1064; Lebanon; republic in Western Asia
+1065; Satyajit Ray; Indian author, poet, composer, lyricist, filmmaker
+1066; Dmitri Kabalevsky; Russian composer
+1067; Joss Stone; English singer and actress
+1068; Morgan Freeman; American actor, film director, and narrator
+1069; Kyle Gass; American musician
+1070; character actor; actor who predominantly plays unusual or eccentric characters
+1071; Dennis Hopper; American actor and film director (1936-2010)
+1072; Thomas Paine; English and American political activist
+1073; American English; set of dialects of the English language spoken in the United States
+1074; Barbara Mandrell; American country music singer and actress
+1075; Saint Vincent and the Grenadines; country in the Caribbean
+1076; Alexander Rybak; Norwegian singer, actor, violinist, composer, pianist
+1077; Taraneh Javanbakht; Iranian scientist and polymath
+1078; Konrad Lorenz; Austrian zoologist, winner of the Nobel Prize in Physiology or Medicine in 1973
+1079; Amiri Baraka; African-American writer
+1080; Nino Rota; Italian composer (1911-1979)
+1081; Tunisia; country in Northern Africa
+1082; Kylie Minogue; Australian-British singer, recording artist, songwriter and actress
+1083; Ricky Gervais; English comedian, actor, director, producer, musician, writer, and former radio presenter
+1084; Victoria Beckham; English businesswoman, fashion designer and singer
+1085; Bing Crosby; American singer and actor
+1086; Shakira; Colombian singer
+1087; Steve Allen; American comedian, actor, musician and writer
+1088; Randy Travis; American singer
+1089; country music; genre of American popular music
+1090; George Sand; French novelist and memoirist; pseudonym of Lucile Aurore Dupin
+1091; Jolin Tsai; Taiwanese singer, songwriter, and actress
+1092; Pier Paolo Pasolini; Italian film director, poet, writer and intellectual
+1093; Michael Jackson; American recording artist; singer and songwriter
+1094; Václav Havel; playwright, essayist, poet, former dissident and 1st President of the Czech Republic
+1095; Max Weber; German sociologist, philosopher, and political economist
+1096; lawyer; legal professional who helps clients and represents them in a court of law
+1097; Randy Newman; American singer-songwriter
+1098; Peter Lorre; Austrian actor (1904-1964)
+1099; Barry Gibb; British singer, songwriter, record producer, and co-founder of the group Bee Gees
+1100; Peter Kropotkin; Russian zoologist, evolutionary theorist, philosopher, scientist, revolutionary, economist, activist, geographer, writer
+1101; Albania; republic in Southeast Europe
+1102; Yehuda Amichai; Israeli poet
+1103; W.E.B. Du Bois; American sociologist, historian, activist and writer
+1104; Samuel P. Huntington; American political scientist
+1105; Gabriel Lamé; French mathematician
+1106; biologist; scientist studying living organisms
+1107; Liza Minnelli; American actress and singer
+1108; Doris Lessing; British novelist, poet, playwright, librettist, biographer and short story writer
+1109; Alice Cooper; American rock singer, songwriter and musician
+1110; Anton Chekhov; Russian dramatist, author and physician
+1111; literary realism; literary movement
+1112; Joan Jett; American musician
+1113; Pedro II of Brazil; Emperor of Brazil from 7 April 1831 until deposed on 15 November 1889, Pedro II was the last ruler of the Empire of Brazil
+1114; Svetlana Surganova; Russian singer
+1115; rock and roll; genre of music
+1116; Academy of Useful Science; academy of sciences
+1117; Harry Connick Jr.; American singer, conductor, pianist, actor, and composer
+1118; Alphonse Daudet; French novelist
+1119; Cambridge; city in Cambridgeshire, England
+1120; Missile Technology Control Regime; multilateral export control regime to prevent the proliferation of missile and unmanned aerial vehicle technology
+1121; Fredric Jameson; American academic
+1122; Bertolt Brecht; German poet, playwright, theatre director
+1123; Billy Bob Thornton; American actor, filmmaker, singer, songwriter, and musician
+1124; Jean-Luc Godard; French-Swiss film director, screenwriter and film critic
+1125; Leipzig University; university in Leipzig, Germany
+1126; Richard Wright; English keyboardist of Pink Floyd
+1127; Yukio Mishima; Japanese author (1925-1970)
+1128; Richard Feynman; American theoretical physicist
+1129; renal insufficiency; disease where the kidneys fail to adequately filter waste products from the blood
+1130; Guyana; country in South America
+1131; Ilya Oleynikov; Russian comic actor and television personality
+1132; Alan Arkin; American actor, director, musician and singer
+1133; Brooklyn; borough of New York City, New York, United States
+1134; Ignaz Moscheles; Czech conductor, music educator, composer and pianist
+1135; Joyce Carol Oates; American author
+1136; Sammy Davis Jr.; American musician and entertainer (1925-1990)
+1137; J. M. Coetzee; South African writer
+1138; Vladimir Mayakovsky; Russian and Soviet poet, playwright, artist and stage and film actor
+1139; Keren Ann; Israeli-Dutch singer, songwriter, composer, record producer, and audio engineer
+1140; Tony Visconti; American record producer, musician and singer
+1141; Asia Argento; Italian actress, film director and model
+1142; Karel Čapek; Czech writer
+1143; Panama; republic in Central America
+1144; Alla Pugacheva; Soviet-Russian singer
+1145; Warner Bros. Records; American record label (1958 to 2019)
+1146; Nyusha; Russian singer
+1147; John Locke; English philosopher and physician
+1148; Paul Krugman; American economist
+1149; Swizz Beatz; American record producer, DJ, rapper and hype man from New York
+1150; Colbie Caillat; American singer-songwriter and guitarist
+1151; Dorothy L. Sayers; English crime writer, playwright, essayist and Christian writer
+1152; Dianna Agron; American actress, singer, and dancer
+1153; Vladimir Prelog; Croatian-Swiss chemist (1906-1998)
+1154; Günther Anders; Austrian philosopher and writer
+1155; Mircea Eliade; Romanian historian of religion, fiction writer and philosopher
+1156; Heinrich Wilhelm Olbers; German physician and astronomer
+1157; Singapore; Southeast asia city state
+1158; Claudio Magris; Italian scholar, translator and writer
+1159; David Ogden Stiers; American actor and voice actor (1942-2018)
+1160; Whoopi Goldberg; American actress
+1161; Taylor Momsen; American musician, singer, model, actress
+1162; Phil Harris; Bandleader, vocalist, actor
+1163; violin; bowed string instrument, usually with four strings tuned in perfect fifths
+1164; 20th century; century
+1165; Søren Kierkegaard; Danish philosopher and theologian, precursor of Existentialism
+1166; Joseph Heller; American author
+1167; Michelle Williams; American singer and a member of Destiny's Child
+1168; Frank Sinatra; American recording artist; singer and film actor
+1169; Haiti; country in the Caribbean
+1170; Peter Gay; German-American historian and author
+1171; Ivan Illich; austrian philosopher and theologist
+1172; Portuguese; Romance language originating on the Iberian peninsula
+1173; Lionel Hampton; American jazz vibraphonist, pianist, percussionist, bandleader and actor
+1174; Detroit; most populous city in Michigan, United States; county seat of Wayne County
+1175; Lesotho; kingdom in southern Africa
+1176; Ivory Coast; republic in Africa
+1177; Joan Baez; American singer
+1178; Barbados; country in the Caribbean
+1179; William Butler Yeats; Irish poet and playwright
+1180; Marvin Gaye; American singer-songwriter and musician
+1181; Bobby Darin; American singer, songwriter and actor
+1182; Jules Verne; French novelist, poet and playwright
+1183; Christopher Lee; British actor and singer (1922-2015)
+1184; Kate Voegele; American musician
+1185; Nicolae Iorga; Prime Minister of Romania
+1186; Adolf Butenandt; German biochemist (1939 Nobel Prize)
+1187; physics; study of matter and its motion, along with related concepts such as energy and force
+1188; Paul Jozef Crutzen; Dutch climatologist
+1189; Drake; Canadian rapper, singer-songwriter and actor
+1190; Harold Lloyd; American film actor and producer
+1191; Drake Bell; American actor and pop singer
+1192; Arab League; organisation of Arab states
+1193; Lea Salonga; Filipina singer and actress
+1194; new wave; music genre
+1195; Billy Dee Williams; American actor, artist, and singer
+1196; Elvis Presley; American singer and actor
+1197; Emma Goldman; anarchist known for her political activism, writing, and speeches
+1198; Toronto; capital city of the province of Ontario, Canada
+1199; David Crosby; guitarist, singer and songwriter from the United States
+1200; Melanie C; British singer-songwriter, actress and businesswoman
+1201; Luciano Berio; Italian composer
+1202; Kingdom of Italy; kingdom in southern Europe between 1861 and 1946
+1203; Elektra; American record label
+1204; Theodor W. Adorno; German sociologist, philosopher and musicologist known for his critical theory of society
+1205; Emmanuel Swedenborg; Swedish 18th century scientist and theologian
+1206; Togo; country in Africa
+1207; Ronny Cox; American actor and musician
+1208; Gilles Deleuze; French philosopher
+1209; University of Paris (1896-1968); former university in Paris, France from 1896 to 1968
+1210; Common; American rapper, actor and author from Illinois
+1211; East Timor; country in South East Asia
+1212; Peter Drucker; American business consultant
+1213; Wallace Shawn; American actor, playwright, and essayist
+1214; Roy Orbison; American singer-songwriter
+1215; West Africa; westernmost region of the African continent
+1216; David Clayton-Thomas; British musician
+1217; Ivan Goncharov; Russian writer
+1218; Buffy Sainte-Marie; Canadian musician
+1219; Edmund White; American novelist and LGBT essayist
+1220; Jan Evangelista Purkyně; Czech member of Czech council, biologist, physiologist, doctor and inventor
+1221; Austria-Hungary; constitutional monarchic union from 1867 to October 1918
+1222; Dietrich Fischer-Dieskau; German lyric baritone and conductor
+1223; Vince Vaughn; Canadian-American actor
+1224; Patrice Chéreau; French opera and theatre director, filmmaker, actor and producer
+1225; Shannon Leto; American musician and songwriter
+1226; Albert Szent-Györgyi; Hungarian biochemist who won the Nobel Prize in Physiology or Medicine in 1937
+1227; Albert Camus; French author and journalist
+1228; University of Bonn; public research university located in Bonn, Germany
+1229; Robin Thicke; American singer, songwriter, and record producer from California
+1230; Alicia Keys; American musician, singer, composer and actress
+1231; Tamara Bunke; Argentinian revolutionary
+1232; Donny Hathaway; American singer-songwriter and musician
+1233; David A. Stewart; English musician, songwriter and record producer
+1234; Paul Dirac; theoretical physicist (1902-1984)
+1235; David Hemmings; British actor, producer, director, and singer
+1236; Douglas Fairbanks; American actor, screenwriter, director, and producer
+1237; Karel Jaromír Erben; Czech archivist, poet, ethnographer, librettist, publicist, lawyer, translator and writer
+1238; Movement Coordination Centre Europe; multi-national European coordinating body for military air lift and surface movement
+1239; Jann Arden; Canadian singer-songwriter
+1240; Will Smith; American actor, film producer, and rapper
+1241; St. Vincent; American singer-songwriter
+1242; Michael Penn; singer from the United States
+1243; Arthur Conan Doyle; Scottish physician and author
+1244; Princeton University; private Ivy League research university in Princeton, New Jersey, United States
+1245; Johann Christian Poggendorff; German physicist
+1246; Galina Vishnevskaya; Russian soprano opera singer and recitalist
+1247; Samoa; country in Oceania
+1248; "Weird Al" Yankovic; American singer-songwriter, music producer, accordionist, actor, comedian, writer, satirist, and parodist
+1249; accordion; musical instrument
+1250; Albert Einstein; German-born physicist and founder of the theory of relativity
+1251; Shaquille O'Neal; American basketball player
+1252; Kuwait; State in Western Asia
+1253; Honduras; republic in Central America
+1254; Max Reger; German composer, pianist and conductor
+1255; Ethiopia; country in East Africa
+1256; Joe Jonas; American singer and actor
+1257; Sonny Bono; American entertainer, musician and politician
+1258; University of Chicago; private research university in Chicago, Illinois, United States
+1259; Ernest Renan; French philosopher and writer
+1260; Suriname; country in South America
+1261; Konstantin Fedin; Russian-Soviet writer and poet
+1262; Seth Rogen; Canadian actor and stand-up comedian
+1263; Hong Kong; Special Administrative Region of China
+1264; Milva; Italian singer, stage and film actress
+1265; Jay-Z; American rapper, businessman, entrepreneur, record executive, songwriter, record producer and investor
+1266; George Martin; English record producer, arranger, composer, conductor, audio engineer and musician
+1267; Paulo Coelho; Brazilian lyricist and novelist
+1268; Jorge Luis Borges; Argentine short-story writer, essayist, poet and translator
+1269; Joni Mitchell; Canadian musician
+1270; Dannii Minogue; Australian pop singer, songwriter, actress
+1271; Julian Lennon; British musician, songwriter and actor
+1272; Dalida; Egyptian-born French-Italian recording artist, singer, actress, model and beauty pageant titleholder
+1273; Roger Miller; American singer-songwriter, musician, and actor
+1274; Bret Easton Ellis; American novelist
+1275; short story writer; author or writer of short stories
+1276; Belize; country in Central America
+1277; Sergey Mikhalkov; Russian and Soviet writer
+1278; Christina Milian; American singer, songwriter and actress
+1279; Leopold von Ranke; German historian and a founder of modern source-based history
+1280; A. A. Milne; British author known for creating Winnie-the-Pooh
+1281; Ani Lorak; Ukrainian singer
+1282; Joseph Louis Gay-Lussac; French chemist and physicist
+1283; Method Man; American recording artist; rapper and actor
+1284; Tupac Shakur; American rapper, actor and activist
+1285; Andrei Konchalovsky; Russian-American film director, film producer and screenwriter
+1286; percussion instrument; type of musical instrument that produces a sound by directly hitting it
+1287; Fred Hoyle; British astronomer
+1288; Heinrich Wilhelm Gottfried von Waldeyer-Hartz; German neuroscientist
+1289; Academy of Sciences of Turin; 
+1290; Ashanti; American singer, songwriter, actress and dancer
+1291; Regina Spektor; Russian-born American singer-songwriter and pianist
+1292; Peter Buck; guitarist for R.E.M., songwriter, record producer
+1293; Susan Sontag; American writer and filmmaker, professor, and activist
+1294; Charles Lyell; British lawyer and geologist
+1295; Henri Becquerel; French physicist
+1296; Georges-Louis Leclerc, Comte de Buffon; French natural historian
+1297; James D. Watson; American molecular biologist, geneticist, and zoologist
+1298; Jennifer Love Hewitt; American actress and singer-songwriter
+1299; Adam Levine; American singer-songwriter, actor and record producer
+1300; Van McCoy; American musician and music producer
+1301; disco; genre of dance music and a subculture that emerged in the 1970s from the United States' urban nightlife scene
+1302; Lana Del Rey; American recording artist; singer-songwriter
+1303; Irène Joliot-Curie; French scientist
+1304; Giuseppe Ungaretti; poet and writer from Italy
+1305; Joe Jackson; American music manager and father of the Jackson family
+1306; Bernard-Henri Lévy; French film director and philosopher
+1307; Willie Nelson; American country music singer-songwriter
+1308; New Zealand; constitutional monarchy in Oceania
+1309; philanthropist; person known for philanthropic work
+1310; Euclides da Cunha; Brazilian writer
+1311; Tim Rose; American musician
+1312; Leonardo da Vinci; Italian Renaissance polymath (1452-1519)
+1313; Avril Lavigne; Canadian singer, songwriter and actress
+1314; M. Pokora; French singer and songwriter
+1315; John Mayer; American singer, guitarist, record producer and songwriter from Connecticut
+1316; C. S. Lewis; Christian apologist, novelist, and Medievalist
+1317; Per Olov Enquist; Swedish writer
+1318; Judaism; ancient, monotheistic, Abrahamic religion with the Torah as its foundational text
+1319; Edgar Allan Poe; American author, poet, editor and literary critic
+1320; Lisa Lopes; American rapper, singer-songwriter and actress
+1321; Charlotte Gainsbourg; British-French actor and singer
+1322; Ralph Waldo Emerson; American philosopher, essayist, and poet
+1323; Jason Derulo; American singer-songwriter and dancer
+1324; Beatriz Luengo; Spanish actress musician songwriter and actress
+1325; Lemmy Kilmister; British rock musician; singer-songwriter
+1326; Germans; citizens or (under certain circumstances) people of German descent
+1327; Sarah McLachlan; Canadian musician, singer, and songwriter
+1328; Courtney Love; American punk singer-songwriter, musician, actress, and artist
+1329; Gladys Knight; American singer
+1330; lyricist; writer who specializes in writing song lyrics
+1331; Janelle Monáe; American singer-songwriter, composer, and record producer
+1332; Paul G. Allen; American inventor, investor and philanthropist
+1333; Gackt; Japanese musician, singer-songwriter, actor, voice actor and author
+1334; Selena Gomez; American singer, songwriter and actress
+1335; Ringo Starr; British musician, drummer for the Beatles
+1336; Hilary Duff; American actress and singer
+1337; Latin; almost-extinct Indo-European language of the Italic family
+1338; Camille Jordan; French mathematician
+1339; Lance Bass; American singer and actor
+1340; Ben Elton; British comedian, author, playwright, actor and director
+1341; Jean-Jacques Rousseau; Genevan philosopher, writer, and composer
+1342; Vladimir Vysotsky; Soviet singer, songwriter, poet and actor
+1343; Boris Grebenshchikov; Russian recording artist; singer
+1344; opinion journalist; journalist, writer or scientist who participates with his own contributions to the formation of public opinion on current issues
+1345; David Brewster; British astronomer and mathematician
+1346; Miguel; American R&B singer, songwriter and record producer
+1347; São Tomé and Príncipe; country in Africa
+1348; Philip Warren Anderson; American physicist
+1349; Romanticism; Period of artistic, literary, and intellectual movement that started in 18th century Europe
+1350; John Denver; American singer, songwriter, activist, and humanitarian
+1351; Falco; Austrian singer and songwriter
+1352; Walter Benjamin; German literary critic, philosopher and social critic (1892-1940)
+1353; librettist; author of the libretto (words) of an opera similar extended musical composition
+1354; John Keats; English romantic poet
+1355; physician; professional who practices medicine
+1356; Sony Music; American record label; primary record label of Sony Music Entertainment
+1357; Bob Mould; American musician
+1358; Uzbekistan; republic in Central Asia
+1359; Jaroslav Vrchlický; Czech poet, playwright, publicist and translator
+1360; Montesquieu; French social commentator and political thinker
+1361; Alexander von Humboldt; Prussian geographer, naturalist and explorer
+1362; Eminem; American rapper, producer and actor
+1363; Thomas Anders; German singer, composer, producer
+1364; Chris Brown; American singer-songwriter, dancer and rapper
+1365; Daniel Johnston; American musician (1961-2019)
+1366; Elie Wiesel; Romanian-born Jewish Holocaust survivor, writer, professor, activist, and thinker
+1367; Manhattan; borough of New York City, New York, United States
+1368; Qatar; constitutional monarchy in western Asia
+1369; Arab Fund for Economic and Social Development; Kuwait-based pan-Arab development finance institution
+1370; indie pop; genre of alternative pop music
+1371; Walt Disney Records; music label owned by The Walt Disney Company
+1372; Jack London; American author, journalist, and social activist
+1373; William Herschel; German-born British astronomer, technical expert, and composer
+1374; John Lennon; English singer and songwriter, founding member of The Beatles
+1375; Anna Akhmatova; Russian poet (1889-1966)
+1376; Bob Hope; American comedian, actor, singer and dancer
+1377; Moldova; republic in Eastern Europe
+1378; Nick Cannon; American rapper, actor and comedian
+1379; television director; person who directs television programs
+1380; Ike Turner; African American musician
+1381; Demi Lovato; American singer, songwriter, actress, and author
+1382; Diana Arbenina; Belarusian poet
+1383; Ne-Yo; American singer, songwriter and record producer from Nevada
+1384; Antigua and Barbuda; country in the Caribbean
+1385; Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean; international organization which promotes nuclear disarmament
+1386; Lianne La Havas; English singer, songwriter and multi-instrumentalist
+1387; Augustine of Hippo; early Christian theologian, philosopher and Church Father
+1388; George Frideric Handel; German, later British Baroque composer
+1389; Tex Ritter; American country musician
+1390; Omar Sharif; Egyptian actor (1932-2015)
+1391; Western; multimedia genre of stories set primarily in the American Old West
+1392; Osip Mandelstam; Russian poet and essayist
+1393; Condoleezza Rice; American Republican politician; U.S. Secretary of State; political scientist
+1394; Peggy Lee; American recording artist; singer, songwriter, composer and actress
+1395; Visa Waiver Program; program allowing 90-day visa free travel to the United States for citizens of some countries
+1396; Julio Iglesias; Spanish recording artist;  singer-songwriter
+1397; Steven Weinberg; American theoretical physicist
+1398; Mark Ronson; British musician, DJ, songwriter and record producer
+1399; Joseph E. Stiglitz; American economist, professor, and recipient of the Nobel Memorial Prize in Economics
+1400; Carl Orff; German composer
+1401; Dominica; country in the Caribbean
+1402; Josephine Baker; American-born French dancer, singer, and actress
+1403; Tim Rice-Oxley; British musician
+1404; Vatican City; country in southern Europe under the sovereignty of the Holy See
+1405; conductor; person who directs a musical group during a performance
+1406; Nick Cave; Australian musician
+1407; RuPaul; American drag performer, actor and musician
+1408; Donald Trump; 45th and current president of the United States
+1409; Tanzania; country in Africa
+1410; John Ruskin; English writer and art critic
+1411; Santa Monica; beachfront city in Los Angeles County, California, United States
+1412; Mario Praz; Italian art collector, art historian, journalist and writer
+1413; Federated States of Micronesia; country in Oceania
+1414; Gretchen Wilson; American country singer
+1415; Ray Bradbury; American author and screenwriter
+1416; science fiction; genre of fiction
+1417; Monaco; Principality forming an enclave within France
+1418; Stephen Fry; British comedian, actor, writer, presenter, and activist
+1419; Nuclear Suppliers Group; intergovernmental organization
+1420; John Ciardi; American poet, professor, translator
+1421; Ayn Rand; Russian-American novelist and philosopher
+1422; Dave Matthews; American singer-songwriter, musician and actor
+1423; Jackson Browne; American recording artist; singer-songwriter
+1424; Zoolander; 2001 American comedy film directed by Ben Stiller
+1425; Max Frisch; Swiss playwright and novelist (1911-1991)
+1426; Erich Kästner; German children's writer
+1427; Dmitry Medvedev; Russian Prime Minister and former president
+1428; Saint Petersburg State University; Russian federal state-owned higher education institution
+1429; Neil Tennant; English musician
+1430; Friedrich Wilhelm Joseph Schelling; German philosopher (idealism)
+1431; Oman; country in Western Asia
+1432; Natasha Shneider; Russian musician (1956-2008)
+1433; John Desmond Bernal; Irish scientist
+1434; Diana Ross; American vocalist, music artist and actress
+1435; Snoop Dogg; American rapper, singer, actor and record producer
+1436; Donald Glover; American actor, rapper, singer, comedian and film, television and record producer
+1437; Jean-Victor Poncelet; French engineer and mathematician
+1438; John Cassavetes; American actor, film director, and screenwriter (1929-1989)
+1439; August Ludwig von Schlözer; German historian
+1440; keyboardist; musician who plays keyboard instruments
+1441; Robert McNamara; American businessman and Secretary of Defense
+1442; Sergei Korolev; Ukrainian and Soviet rocket engineer
+1443; Kirsten Dunst; American actress
+1444; Tito Jackson; singer and member of The Jackson 5
+1445; Jerry Garcia; American musician and member of the Grateful Dead
+1446; Robert Schumann; German composer
+1447; theoretical physicist; occupation
+1448; Robbie Robertson; Canadian recording artist; singer-songwriter and guitarist
+1449; Armenia; country in South Caucasus
+1450; Arabic; Semitic language
+1451; Chris Rea; English recording artist; singer-songwriter
+1452; Leon Battista Alberti; Italian architect (1404-1472)
+1453; Al Franken; American comedian and politician
+1454; Alice Walker; American author and activist
+1455; Rudolf Virchow; German doctor, anthropologist, public health activist, pathologist, prehistorian, biologist and politician
+1456; Ayọ; Nigerian-German singer-songwriter
+1457; Moritz von Jacobi; German engineer and physicist
+1458; Avicii; Swedish musician
+1459; Khloé Kardashian; American television personality
+1460; Justin Bieber; Canadian singer and songwriter
+1461; Jordan; constitutional monarchy in Western Asia
+1462; Mark Linkous; American musician
+1463; James Clerk Maxwell; Scottish physicist
+1464; Decca; US/British record label
+1465; Tracy Chapman; American singer-songwriter
+1466; Friedrich Schiller; German poet, philosopher, historian, and playwright
+1467; Sarah Silverman; American comedian and actress
+1468; San Marino; republic on the Appenine peninsula
+1469; Gore Vidal; American writer (1925-2012)
+1470; Wernher von Braun; German, later an American, aerospace engineer and space architect
+1471; Plato; Classical Greek philosopher
+1472; Charlton Heston; American actor and guns rights activist
+1473; Idina Menzel; American actress, voice actress, singer, and songwriter
+1474; Nikolay Semyonov; Soviet physical chemist
+1475; German Academy of Sciences at Berlin; research institution of East Germany
+1476; Curtis Mayfield; American singer, songwriter, and record producer
+1477; Lara Fabian; Belgo-Canadian recording artist; singer
+1478; Milton Friedman; American economist, statistician, and writer
+1479; Jimi Hendrix; American guitarist, singer and songwriter
+1480; Damon Albarn; English musician
+1481; George Orwell; English author and journalist
+1482; James Brown; American singer, songwriter, musician, and recording artist
+1483; Chuck Berry; American recording artist; rock-and-roll guitarist, singer, songwriter
+1484; Brian Wilson; American musician, singer, songwriter and record producer
+1485; Daniel Handler; American novelist, also known by the pseudonym Lemony Snicket
+1486; John Cale; Welsh composer, singer-songwriter and record producer
+1487; György Ligeti; Hungarian composer
+1488; Miles Davis; American jazz musician
+1489; Petula Clark; British actress and singer
+1490; Rita Lee; Brazilian recording artist, musician, singer
+1491; executive producer; profession
+1492; Ian McEwan; British author
+1493; Benin; country in Africa
+1494; Jean Yanne; French actor (1933-2003)
+1495; Sarah Brightman; British soprano, musical theatre actress, and dancer
+1496; Dudley Moore; English actor, comedian, composer and musician
+1497; Elmer Bernstein; American composer and conductor
+1498; Felix Klein; German mathematician, author of the Erlangen Program
+1499; Kwame Anthony Appiah; British-American philosopher and writer
+1500; Paul Simon; American musician, songwriter and producer
+1501; soft rock; music genre
+1502; k.d. lang; Canadian singer-songwriter
+1503; Mikhail Lermontov; Russian writer, poet and painter
+1504; Fritz Leiber Junior; American writer of fantasy, horror, and science fiction
+1505; Lena Horne; American singer, actress, civil rights activist and dancer
+1506; Lauren Bacall; American actress and model
+1507; Prince; American singer, songwriter, musician and actor
+1508; Sid Caesar; American comic actor and writer
+1509; Emma Bunton; British singer-songwriter, actress, and radio and television presenter
+1510; Oceania; geographic region comprising Australasia, Melanesia, Micronesia and Polynesia
+1511; Marcellin Berthelot; French chemist and politician
+1512; Abraham Gotthelf Kästner; German mathematician
+1513; Mel Brooks; American director, writer, actor, and producer
+1514; William Blake; English Romantic poet and artist
+1515; Santiago Ramón y Cajal; Spanish scientist
+1516; Lisa Marie Presley; American singer-song-writer and daughter of Elvis Presley
+1517; Wolfhart Pannenberg; German theologian
+1518; Lil Mama; American rapper from New York
+1519; Serbian Academy of Sciences and Arts; 
+1520; Nicole Scherzinger; American singer, dancer
+1521; NATO; intergovernmental military alliance of Western states
+1522; Sabrina Bryan; American singer, actress, author, songwriter, fashion designer, choreographer, dancer, and television personality
+1523; Ilya Ilf; Soviet writer and journalist
+1524; Liberia; republic in West Africa
+1525; Selena; Mexican-American singer, songwriter, actress, and fashion designer
+1526; prose; form of language which applies ordinary grammatical structure and natural flow of speech
+1527; Vladimir Solovyov; Russian journalist
+1528; Franco Battiato; Italian singer-songwriter, composer, and filmmaker
+1529; Friedrich Engels; German social scientist, author, political theorist, and philosopher
+1530; Herbie Hancock; American pianist, keyboardist, bandleader and composer
+1531; Rudolf Christoph Eucken; German philosopher
+1532; Leó Szilárd; physicist and biologist
+1533; Brian May; English musician and astrophysicist
+1534; Hollywood Records; American record label
+1535; David Walliams; English comedian, writer and actor
+1536; August Wilhelm Schlegel; German poet, translator, critic, and writer
+1537; Felipe Colombo; Mexican-Argentine actor (of theater, films and television), singer, songwriter and musician
+1538; Alexz Johnson; Canadian actress and singer-songwriter
+1539; Gotthold Ephraim Lessing; German writer, philosopher, publicist and art critic
+1540; funk; music genre that originated in African-American communities in the mid-1960s when African-American musicians created a rhythmic, danceable new form of music through a mixture of soul music, psychedelic rock, jazz, and rhythm and blues (R&B)
+1541; Turkmenistan; republic in Central Asia
+1542; Andrey Gubin; Russian singer
+1543; Judd Apatow; American producer, writer, director, actor, and comedian
+1544; Konstantin Simonov; Soviet writer, poet, playwright
+1545; Aaliyah; American singer, actress and model
+1546; James Cameron; Canadian film director
+1547; Simon Newcomb; American astronomer
+1548; Mark Oliver Everett; American singer, songwriter, and musician
+1549; Mae West; American actress and sex symbol
+1550; Vince Neil; American singer and musician, member of Mötley Crüe
+1551; Mika; British-Lebanese singer-songwriter
+1552; Jordin Sparks; American singer, winner of 2007 American Idol
+1553; Lewis Carroll; English writer, logician, Anglican deacon and photographer
+1554; Richard Francis Burton; British explorer, geographer, translator, writer, soldier, orientalist, cartographer, ethnologist, spy, linguist, poet, fencer, and diplomat
+1555; Kevin Spacey; American actor, director and producer
+1556; Council of Europe; international organization for defending human rights
+1557; Franz Liszt; Hungarian romantic composer and virtuoso pianist
+1558; Henri Bergson; French philosopher
+1559; Peter Ustinov; British actor, writer, and dramatist
+1560; Franz Miklosich; austrian member of Empire parliament (Austria empire), lawyer and university educator
+1561; Mick Ronson; English guitarist, songwriter, multi-instrumentalist, arranger and record producer
+1562; Umberto Eco; Italian semiotician, essayist, philosopher, literary critic, and novelist
+1563; Sandy; Brazilian singer-songwriter, producer and actress
+1564; Yehudi Menuhin; American violinist and conductor (1916-1999)
+1565; Caribbean Development Bank; financial institution helping Caribbean nations finance social and economic programs, headquartered at Wildey, St. Michael, Barbados, established by an agreement signed on 18 Oct. 1969, in Kingston, Jamaica and entering into force on 26 Jan. 1970
+1566; Kinky Friedman; Singer, songwriter, novelist, humorist, politician
+1567; G. K. Chesterton; English mystery novelist and Christian apologist
+1568; Austrian Academy of Sciences; 
+1569; Whitney Houston; American singer, actress, model, and record producer
+1570; George Ellery Hale; American solar astronomer
+1571; Dmitri Shostakovich; Soviet composer and pianist
+1572; Latin America; region of the Americas where Romance languages are primarily spoken
+1573; Joe Dassin; French-American musician
+1574; Tonga; country in Oceania
+1575; AJ Michalka; American actress and singer
+1576; Danny Glover; American actor, film director and political activist
+1577; Julian Barnes; English writer
+1578; Ernest Hemingway; American author and journalist
+1579; geographer; scholar whose area of study is geography
+1580; Cat Stevens; British singer-songwriter
+1581; Alexander Alexandrovich Fadeyev; Soviet writer and politician
+1582; Amanda Palmer; American punk-cabaret songwriter, musician, and performance artist Amanda Palmer
+1583; Neil Gaiman; English fantasy writer
+1584; Mikhail Bulgakov; Russian author
+1585; Noël Coward; English playwright, composer, director, actor and singer
+1586; Saint Kitts and Nevis; country in Central America and Caribbean
+1587; Oleg Skripka; Ukrainian singer
+1588; Big Boi; American rapper and record producer from Georgia; 1/2 of OutKast
+1589; opera singer; singer who sings in operas
+1590; Britney Spears; American singer, dancer and actress
+1591; satire; genre of arts and literature in the form of humor or ridicule
+1592; Brandy Norwood; American singer and actress
+1593; chemistry; branch of physical science concerned with the composition, structure and properties of matter
+1594; Joan Rivers; American comedian, actress, and television host
+1595; Ève Curie; French and American writer and journalist
+1596; music critic; profession
+1597; Paul Valéry; French poet, essayist, and philosopher
+1598; Trent Reznor; American musician
+1599; Hans Mayer; German literary scholar
+1600; Tatyana Tolstaya; Russian writer
+1601; Mstislav Keldysh; Soviet mathematician and physicist
+1602; Royal Society of Edinburgh; academy of sciences
+1603; Ani DiFranco; musician and activist
+1604; Ray Davies; British rock-pop musician, founding member of The Kinks
+1605; progressive rock; rock music subgenre that emphasizes complexity and form
+1606; Oswald Heer; Swiss naturalist (1809-1883)
+1607; Ludwig Maximilian University of Munich; German university in Munich, Bavaria
+1608; Romain Gary; French writer and diplomat
+1609; Barry Manilow; American musician
+1610; Ernst Curtius; German classical archaeologist and historian of classical antiquity
+1611; Victor Hugo; French poet, novelist, and dramatist
+1612; Jacques Brel; Belgian singer-songwriter
+1613; Middle East; region that encompasses majority of Western Asia and Egypt
+1614; Ian McLagan; British musician
+1615; Richard Stallman; American software freedom activist, short story writer and computer programmer, founder of the GNU project
+1616; John von Neumann; Hungarian-American mathematician and polymath
+1617; John Milton; English epic poet
+1618; Debby Ryan; American singer and actress
+1619; Léon Theremin; Russian inventor
+1620; Lowell George; American musician
+1621; Marlon Jackson; singer and member of The Jackson 5 from the United States
+1622; Bridgit Mendler; American singer, songwriter, actress, and record producer
+1623; Paul Anka; Canadian-American singer, songwriter and actor
+1624; William Thomson, 1st Baron Kelvin; British physicist and engineer
+1625; Heinrich Schliemann; German businessman and a pioneer of field archaeology
+1626; Swedish; North Germanic language spoken in Sweden and Finland
+1627; Steven Van Zandt; American musician
+1628; Ludacris; American rapper, entrepreneur and actor from Georgia
+1629; Dolly Parton; American singer-songwriter and actress
+1630; Atlanta; city in DeKalb and Fulton counties in Georgia, United States, county seat city of Fulton County and Georgia federated state capital city
+1631; Michael Nesmith; American musician, songwriter, actor
+1632; Master P; American rapper, actor, producer, and basketball player
+1633; AFRISTAT; international institution concerned with statistics in Sub-Saharan Africa
+1634; Thomas Carlyle; Scottish philosopher, satirical writer, essayist, historian and teacher
+1635; Liberace; American pianist (1919-1987)
+1636; Aimee Mann; American indie rock singer-songwriter (born 1960)
+1637; Ariana Grande; American singer, songwriter and actress
+1638; Cameroon; republic in West Africa
+1639; Jacques Rivette; French film director, screenwriter and film critic
+1640; Donny Osmond; singer from the United States and member of The Osmonds
+1641; non-fiction writer; author who writes non-fiction texts
+1642; Kid Cudi; American rapper, singer, songwriter, guitarist, and actor from Ohio
+1643; art rock; subgenre of rock music
+1644; Gotthelf Fischer von Waldheim; German scientist
+1645; H. P. Lovecraft; American author
+1646; inventor; person that devises a new device, method, composition, or process
+1647; Karlheinz Stockhausen; German composer
+1648; MC Hammer; American hip-hop artist (1962-)
+1649; Ricky Nelson; actor, musician, singer
+1650; MCA Records; US record label, imprint of MCA Records, Inc.
+1651; Frank Wedekind; German playwright
+1652; Avicenna; medieval Persian polymath, physician, and philosopher
+1653; Steve Carell; American actor
+1654; Michel Houellebecq; French writer
+1655; Sting; English musician
+1656; heavy metal; genre of rock music characterized by slack-tuned instruments, and unconventional changes of tonality (key) and time signature (metre)
+1657; Charles Baudelaire; French poet
+1658; Russians; East Slavic ethnic group, regardless of country of citizenship
+1659; Nas; American rapper, record executive, entrepreneur and investor from New York
+1660; Fred Astaire; American dancer, singer, actor, choreographer and television presenter
+1661; Van Morrison; Northern Irish singer-songwriter and musician
+1662; "University of California, Berkeley"; public research university in Berkeley, California, United States
+1663; Julie Driscoll; English singer and actress
+1664; David Attenborough; British broadcaster and naturalist
+1665; China Anne McClain; American actress and singer
+1666; Emilie Autumn; American musician
+1667; Zbigniew Herbert; Polish writer and poet
+1668; Academy of Arts, Berlin; national German academic institution for the advancement of the arts
+1669; Willow Smith; American musician, songwriter, actress
+1670; Iggy Pop; American rock singer-songwriter, musician, and actor
+1671; Felix Philipp Kanitz; Austro-Hungarian archaeologist
+1672; Ján Kollár; 
+1673; Erwin Raisz; American cartographer
+1674; Vincent Gallo; American film director, writer, model, actor and musician
+1675; Carlo Rubbia; Italian particle physicist
+1676; German Democratic Republic; former communist country, 1949-1990
+1677; Spike Milligan; British-Irish comedian, writer, musician, poet, playwright, soldier and actor
+1678; Mick Jagger; English songwriter, singer of The Rolling Stones
+1679; Amr Diab; Egyptian singer
+1680; Vitas; Ukrainian singer
+1681; Edward Said; professor of literature and a public intellectual
+1682; Treaty on Open Skies; 
+1683; Henry James; American novelist, short story author, and literary critic
+1684; Herman Francis Mark; Austrian American chemist
+1685; Charles Babbage; English mathematician, philosopher, inventor and mechanical engineer who originated the concept of a programmable computer
+1686; Elizabeth II; queen of the UK, Canada, Australia, and New Zealand, and head of the Commonwealth of Nations
+1687; James Blake; English electronic music producer and singer-songwriter
+1688; Lena Meyer-Landrut; German singer-songwriter
+1689; Jodie Foster; American actor, film director and producer
+1690; Heinrich Böll; German author, novelist, and short story writer
+1691; theologian; person who studies theology
+1692; Toni Braxton; American R&B singer-songwriter
+1693; Tara Strong; Canadian American actress
+1694; T.I.; American rapper, record producer, actor, and businessman
+1695; Karl Lachmann; German philologist and critic
+1696; Leon Russell; American singer-songwriter, guitarist, pianist and session musician
+1697; Arab Monetary Fund; 
+1698; Eugène Ionesco; French Romanian playwright
+1699; John Paul II; 264th Pope of the Catholic Church, saint
+1700; Shania Twain; Canadian recording artist; country pop singer-songwriter
+1701; Sam Cooke; American recording artist; singer-songwriter and entrepreneur
+1702; Czech; West Slavic language spoken in the Czech Republic
+1703; David Lindley; American musician
+1704; Gustavo Cerati; Argentine musician, singer-songwriter and composer
+1705; Tori Amos; American singer-songwriter and pianist
+1706; Priscilla Presley; American actress and businesswoman and former wife of Elvis Presley
+1707; Cass Elliot; American recording artist; singer, record producer
+1708; Tyler, the Creator; American rapper, record producer, music video director and designer from California
+1709; Bruce Springsteen; American singer and songwriter
+1710; Salman Rushdie; British Indian novelist and essayist
+1711; Brad Delson; American musician
+1712; Shen Kuo; Chinese scientist and statesman
+1713; geologist; scientist who studies geology
+1714; Georg Christoph Lichtenberg; German scientist, satirist
+1715; Joumana Haddad; Lebanese poet, journalist and activist
+1716; Giovanni Schiaparelli; Italian astronomer and science historian
+1717; Andrew Ridgeley; English singer, songwriter and record producer
+1718; astronomy; natural science that deals with the study of celestial objects
+1719; Vladimir Obruchev; Russian geologist and writer
+1720; Renaud; French singer, songwriter and actor
+1721; Wiz Khalifa; American rapper and actor
+1722; Vitaly Ginzburg; Russian  Physicist
+1723; Stephen Jay Gould; American evolutionary ,biologist
+1724; Jack White; American musician and record producer
+1725; film editor; person who works with the raw footage, selecting shots and combining them into sequences to create a finished motion picture
+1726; Nelly; American rapper, singer, and songwriter from Missouri
+1727; David Lynch; American filmmaker, television director, visual artist, musician and occasional actor
+1728; Colm Tóibín; Irish novelist and writer
+1729; Robert De Niro; American actor, director and producer
+1730; Leipzig; city in Saxony, Germany
+1731; E. T. A. Hoffmann; German Romantic author
+1732; Mihajlo Pupin; Serbian American inventor and autobiographer
+1733; Guy de Maupassant; French writer
+1734; Jeff Goldblum; American actor
+1735; Debbie Harry; American singer-songwriter and actress
+1736; James Blunt; English singer-songwriter
+1737; Christopher Hitchens; British-American author and journalist
+1738; Charles Wheatstone; British physicist
+1739; Ludwig Prandtl; German physicist
+1740; John Cage; American avant-garde composer
+1741; Henri Victor Regnault; French physicist
+1742; Lev Gumilyov; Soviet academic
+1743; Hulk Hogan; American professional wrestler, actor and television personality
+1744; Corbin Bleu; American actor, model, dancer, producer, and singer-songwriter
+1745; play; form of literature intended for theatrical performance
+1746; blogger; person who writes or records a blog
+1747; Enzo Jannacci; singer songwriter, composer, actor, stand-up comedian
+1748; Connie Smith; American country music artist
+1749; Beverly Hills; city in Los Angeles County, California, United States
+1750; blues rock; music genre combining elements of blues and rock
+1751; Lars Onsager; American physical chemist and theoretical physicist (1903-1976)
+1752; Janis Joplin; American singer and songwriter
+1753; Mario Vargas Llosa; Peruvian writer, politician, journalist, and essayist
+1754; Pierre-Joseph Proudhon; French politician, mutualist philosopher, economist, and socialist
+1755; Italo Calvino; Italian journalist and writer of short stories and novels
+1756; Dmitry Glukhovsky; Russian writer and journalist
+1757; Telly Savalas; American film and television actor and singer
+1758; František Palacký; Czech philosopher, historian, publicist and writer
+1759; Zoë Kravitz; American actress, singer and model
+1760; Karl Popper; Austrian-British philosopher of science
+1761; Bill Monroe; American bluegrass musician, songwriter
+1762; Antonin Artaud; French-Occitanian poet, playwright, actor and theatre director
+1763; Brendon Urie; American singer, songwriter, and musician, lead vocalist of Panic! at the Disco
+1764; Martin Sheen; American actor
+1765; Wole Soyinka; Nigerian writer
+1766; Sky Ferreira; American singer-songwriter
+1767; Sean Combs; American businessman, rapper, singer, record producer, actor and entrepreneur from New York
+1768; Valentin Kataev; Soviet writer, playwright, screenwriter, poet
+1769; Michael Cera; Canadian actor
+1770; Ed Harris; American actor and director
+1771; Robert Louis Stevenson; Scottish novelist, poet, essayist, and travel writer
+1772; Nikolay Ogarev; Russian poet, historian and political activist
+1773; Violetta Villas; Singer, actress (1938-2011)
+1774; Janis Ian; American singer-songwriter and writer
+1775; Masiela Lusha; Albanian actress, writer, author
+1776; Ivan Urgant; Russian television presenter
+1777; Ralph Ellison; American novelist, literary critic, scholar and writer
+1778; Gene Kelly; American dancer, actor, singer, director, producer and choreographer
+1779; Pyotr Ilyich Tchaikovsky; Russian composer
+1780; Theo van Gogh; Dutch film director, writer and satirist (1957-2004)
+1781; Guglielmo Marconi; Italian inventor and radio pioneer
+1782; Amos Oz; Israeli writer, novelist, journalist and intellectual
+1783; Hyde; Japanese rock musician
+1784; Max Born; German-Jewish physicist and mathematician
+1785; Ivor Novello; Welsh composer and actor
+1786; Wilhelm Blaschke; Austrian mathematician
+1787; Fiona Apple; American singer-songwriter and musician
+1788; Vladislav Krapivin; Soviet and Russian writer
+1789; Zdeněk Nejedlý; Czechoslovak member of Czechoslovak national parliament, minister without portfolio, minister of labour and social affairs of the CR, minister of education, Czechoslovak politician, academic, musicologist, politic writer and science writer
+1790; Lou Reed; American musician, recording artist, singer-songwriter
+1791; Mýa; American R&B recording artist
+1792; Thomas Jefferson; 3rd President of the United States of America
+1793; Edvard Radzinsky; Russian historian
+1794; Samuel R. Delany; American author, professor and literary critic
+1795; Adolf Erik Nordenskiöld; Finland-Swedish baron, geologist, mineralogist and Arctic explorer
+1796; San Francisco; consolidated city-county in California, United States
+1797; William Morris; English textile designer, poet, novelist, translator, and socialist activist
+1798; Alexander Bogdanov; Physician, philosopher, writer, Bolshevik
+1799; Alexander Emanuel Agassiz; American zoologist and engineer (1835-1910)
+1800; Jean Cocteau; French poet, novelist, dramatist, designer, boxing manager and filmmaker
+1801; Allan Sherman; American comedian (1924-1973)
+1802; Octavio Paz; Mexican writer laureated with the 1990 Nobel Prize for Literature
+1803; Gustav Landauer; German anarchist, editor
+1804; Mikhail Bakunin; Russian revolutionary, philosopher, and theorist of collectivist anarchism
+1805; Arnold Schwarzenegger; Austrian-American actor, businessman, bodybuilder and politician
+1806; Lucio Dalla; Italian recording artist; singer-songwriter, musician and actor
+1807; Graham Parker; British singer
+1808; Bobby Brown; American contemporary R&B singer
+1809; Dee Dee Bridgewater; American singer
+1810; Mylène Farmer; Canadian born French recording artist; singer, songwriter
+1811; Billy Connolly; Scottish comedian
+1812; Charlie Wilson; American singer, songwriter, record producer
+1813; mandolin; musical instrument in the lute family
+1814; John Maynard Keynes; British economist
+1815; gospel music; genre of music emphasizing Christian lyrics
+1816; Johnny Cash; American singer-songwriter and actor
+1817; Karl Valentin; Bavarian comedian, cabaret performer, clown, author and film producer
+1818; Billy Preston; American R&B musician
+1819; Rihanna; Barbadian singer, fashion designer, actress, and businesswoman
+1820; Jennifer Hudson; American singer–songwriter, actress, spokesperson
+1821; poet lawyer; poet with legal training
+1822; Ray Lankester; British zoologist
+1823; J. J. Abrams; American film and television producer and director
+1824; Gloria Trevi; singer-songwriter from Mexico
+1825; Deryck Whibley; Canadian musician
+1826; Alsou; Tatar singer from Russia
+1827; Jacques Derrida; French philosopher
+1828; Manu Chao; French Spanish singer, guitarist and record producer
+1829; Etta James; American recording artist; singer
+1830; William Faulkner; American writer
+1831; Tina Arena; Australian singer, songwriter and television personality
+1832; Kevin Costner; American actor, singer, musician, producer, director, and businessman
+1833; Yasmina Reza; French actor and writer
+1834; Theodor Mommsen; German classical scholar, historian, jurist, journalist, politician, archaeologist and writer
+1835; Eastern Orthodox Church; Christian Church
+1836; Vladimir Putin; 2nd and 4th President of Russia
+1837; Antoine César Becquerel; French scientist and a pioneer in the study of electric and luminescent phenomena
+1838; Ciara; American singer, songwriter, record producer, dancer, actress, and fashion model
+1839; traditional pop music; Western popular music that generally predates the advent of rock and roll in the mid-1950s
+1840; Rita Levi-Montalcini; Italian neurologist
+1841; Pontifical Academy of Sciences; scientific academy of the Vatican City
+1842; Jô Soares; Brazilian author, actor, director
+1843; Goldie Hawn; American actress, film director, and producer
+1844; Hayley Williams; American singer-songwriter, entrepreneur and musician
+1845; Paul Auster; American novelist, poet, essayist, screenwriter
+1846; Isaac Bashevis Singer; Polish-American author
+1847; Valery Leontiev; Soviet and Russian singer
+1848; Kate Bush; British recording artist; singer, songwriter, musician and record producer
+1849; Sticky Fingaz; American hardcore rapper, record producer, actor, film director, film editor and writer, best known as a member of multi-platinum hardcore rap group Onyx
+1850; Mick Wingert; American voice-over actor
+1851; Warner Music Group; American major global music conglomerate
+1852; Neil Diamond; American recording artist; singer-songwriter
+1853; Viggo Mortensen; American actor
+1854; Hanns Eisler; Austrian composer
+1855; Waylon Jennings; American country music singer, songwriter, and musician
+1856; Harry Shearer; American actor
+1857; Stephen Hawking; British theoretical physicist, cosmologist, and author
+1858; University of Vienna; public university located in Vienna, Austria
+1859; Arab Bank for Economic Development in Africa; 
+1860; Neil Patrick Harris; American actor and host
+1861; John Legend; American singer, songwriter, producer, actor, and philanthropist
+1862; Sir George Stokes, 1st Baronet; British mathematician and physicist
+1863; Sergey Lazarev; Russian singer and actor
+1864; Edmund Wilson; American writer, literary and social critic, and noted man of letters (1895-1972)
+1865; Arnold Schoenberg; Austrian-American composer
+1866; Paul Langevin; French physicist, philosopher of science and pedagogue
+1867; RZA; American rapper, record producer, actor, writer
+1868; Golo Mann; historian (1909-1994)
+1869; Darius Milhaud; French composer and teacher
+1870; Slavoj Žižek; Slovene philosopher
+1871; Cree Summer; American-Canadian Actress and musician
+1872; Joseph Brodsky; Russian-American poet
+1873; Haruki Murakami; Japanese writer
+1874; naturalist; person who studies and knows a lot about plants, animals and natural history (esp in the field)
+1875; Tomáš Garrigue Masaryk; First Czechoslovak president
+1876; The Compleat Beatles; 1984 film by Patrick Montgomery
+1877; Christianity; monotheistic religious group based on the belief of Jesus being the Son of God
+1878; John Farnham; English-Australian pop singer
+1879; Walt Disney; American film producer and businessman
+1880; Samuel Beckett; Irish novelist, playwright, and poet
+1881; Ralph Vaughan Williams; English composer
+1882; political scientist; occupation
+1883; Kiribati; island nation in the central Pacific Ocean
+1884; Lea Michele; American actress, singer and author
+1885; Martie Maguire; American musician
+1886; Ernst Chladni; German physicist, mathematician and musician
+1887; Stephen King; American author
+1888; Elizabeth Bishop; American poet
+1889; Jonathan Swift; Anglo-Irish satirist, essayist, and poet
+1890; Alexander R. Todd, Baron Todd; British biochemist
+1891; Frédéric Joliot-Curie; French scientist
+1892; Jill Scott; American soul musician
+1893; Julie Delpy; French-American actress, film director, screenwriter, and singer-songwriter
+1894; Andy Griffith; American actor, television producer, Southern-gospel singer, and writer
+1895; Joe Cocker; English recording artist; rock and blues singer
+1896; Émile Zola; French writer
+1897; West Germany; Federal Republic of Germany (1949–1990)
+1898; André-Marie Ampère; French physicist and mathematician
+1899; John Kenneth Galbraith; American economist and diplomat
+1900; Andrey Vyshinsky; Soviet politician
+1901; Marcel Proust; French novelist, critic, and essayist
+1902; William Shatner; Canadian actor, musician, recording artist, author and film director
+1903; Dante Alighieri; Italian poet
+1904; Michel de Montaigne; French-Occitan author, humanistic philosopher, statesman
+1905; Fazil Iskander; Soviet and Russian writer
+1906; Nicholas Marr; Georgian ethnologist and linguist
+1907; Ross Bagdasarian Sr.; American musician and actor (1919-1972)
+1908; Sacha Baron Cohen; English actor, comedian, screenwriter, director, and film producer
+1909; Nino Manfredi; Italian actor
+1910; John Bardeen; American physicist and engineer
+1911; Yul Brynner; American actor (1920-1985)
+1912; Jean Renoir; French film director and screenwriter
+1913; Yuri Shevchuk; Russian singer
+1914; Chord Overstreet; American actor, singer and musician
+1915; Dean Martin; American singer, actor, comedian and film producer
+1916; Beth Hart; American singer
+1917; Lion Feuchtwanger; German writer
+1918; Redman; American recording artist; rapper and actor
+1919; Don DeLillo; American novelist, playwright and essayist
+1920; Slash; British-American musician and songwriter
+1921; Michael Mann; German-born musician and professor of German literature
+1922; Steven Tyler; American singer, songwriter, keyboardist
+1923; Société Philomathique de Paris; organization
+1924; Donald Knuth; American computer scientist
+1925; Alfred Schnittke; Soviet composer
+1926; Éric Rohmer; French film director (1920-2010)
+1927; Johann Christoph Gottsched; German author and critic
+1928; Paul Hindemith; German-born American composer, violist, violinist, teacher and conductor
+1929; Debbie Gibson; American singer, songwriter, record producer, actress
+1930; GoonRock; American musician
+1931; Gordon Lightfoot; Canadian singer-songwriter
+1932; Jan Hammer; Czech-born American musician, composer and record producer
+1933; Jerry Lee Lewis; American recording artist; singer-songwriter and pianist
+1934; Marc Connelly; American playwright (1890-1980)
+1935; Russian Soviet Federative Socialist Republic; Russian Soviet Federative Socialist Republic as sovereign state in 1918–1923
+1936; Jacobus Henricus van 't Hoff; Dutch physical and organic chemist
+1937; Lori Lieberman; American musician
+1938; Kelly Rowland; American singer, songwriter, actress
+1939; Kenneth Burke; American philosopher
+1940; William H. Macy; American actor, screenwriter, teacher and director in theater, film and television
+1941; Alexis Korner; British blues musician and radio broadcaster
+1942; Jon Bon Jovi; American singer and musician, songwriter
+1943; Keith Richards; British songwriter, guitarist of The Rolling Stones
+1944; American Jews; ethnic group
+1945; Peter Handke; Nobel laureate in Literature & Austrian writer, playwright and film director
+1946; Thomas Mann; German novelist, and 1929 Nobel Prize laureate
+1947; Akon; American-Senegalese singer, songwriter, record producer, entrepreneur, philanthropist and actor from New Jersey
+1948; Bette Midler; American singer-songwriter, actress, comedian and film producer
+1949; Def Jam Recordings; American record label
+1950; Queen Latifah; American musician and actress
+1951; Père Lachaise Cemetery; cemetery in the city of Paris, France
+1952; August Schleicher; German philologist
+1953; Jennette McCurdy; American actress and singer-songwriter
+1954; Friedrich Schlegel; German poet, critic and scholar, editor
+1955; John Cleese; English comedian and actor
+1956; Lucy Liu; American actress and model
+1957; Hannes Alfvén; Swedish electrical engineer, plasma physicist and science fiction author (1908-1995), winner of the 1970 Nobel Prize for Physics
+1958; Saul Williams; American singer, musician, poet, writer, and actor
+1959; Leszek Kołakowski; Philosopher, historian of ideas
+1960; Tuvalu; country in Oceania
+1961; Christina Aguilera; American singer, songwriter, actress and television personality
+1962; Paris Hilton; American socialite and television personality
+1963; European Southern Observatory; intergovernmental research organization for ground-based astronomy
+1964; Anna Karina; Danish-French actress
+1965; Mariah Carey; American singer and songwriter
+1966; Dr. Dre; American rapper, record producer, entrepreneur and actor from California
+1967; Stacie Orrico; American singer
+1968; Sean Lennon; American composer and musician, son of the late John Lennon
+1969; ABC Records; US record label; imprint of ABC Records, Inc.
+1970; Vladimir Turchinsky; Russian bodybuilder
+1971; Sergei Gerasimov; film director, screenwriter, actor (1906-1985)
+1972; Dave Mustaine; American musician
+1973; Bo Burnham; American comedian, musician, and actor
+1974; Nazi Germany; Germany in the age of Nazi dictatorship from 1933 to 1945
+1975; Harald Lesch; German astronomer
+1976; Lily Allen; English singer, songwriter, actress, and television presenter
+1977; Bella Thorne; American actress, singer, author, model and dancer
+1978; David Mamet; American playwright, essayist, screenwriter, and film director
+1979; Hugo Huppert; Poet and writer
+1980; Nahum Sokolow; Hebrew journalist, editor, essayist, and political leader
+1981; Eleanor Roosevelt; American politician, diplomat, and activist, and First Lady of the United States
+1982; Stefan Zweig; Austrian writer (1881-1942)
+1983; Al-Biruni; Persian scholar and polymath
+1984; Eduard Limonov; Russian writer
+1985; Ted Nugent; American rock musician
+1986; CeeLo Green; American singer, songwriter, rapper and record producer
+1987; Ingrid Michaelson; American singer-songwriter
+1988; Anatole Abragam; French physicist
+1989; Yoshiki; Japanese musician
+1990; East Africa; easterly region of the African continent
+1991; Ingmar Bergman; Swedish filmmaker (1918-2007)
+1992; Novodevichy Cemetery; cemetery in Moscow, Russia
+1993; Göttingen; Large city in Lower Saxony, Germany
+1994; Julian Fellowes; English actor, dramatist, director, novelist, producer and screenwriter
+1995; Tyrese Gibson; American actor and singer
+1996; Hayley Kiyoko; American singer, songwriter, and actress
+1997; Joseph-Louis Lagrange; Mathematician and astronomer (1736-1813)
+1998; James Taylor; American singer-songwriter and guitarist
+1999; Leo Strauss; History of Political Philosophy scholar
+2000; Roman Jakobson; American linguist, philosopher and educationist
+2001; Joe Satriani; American guitar player
+2002; street artist; artist performing in public places, for gratuities
+2003; Sean Penn; American actor, screenwriter, and film director
+2004; Laura Marano; American actress and singer
+2005; Yo-Yo Ma; American cellist
+2006; Raymond Scott; American musician and inventor (1908-1994)
+2007; Gaspard de Prony; French mathematician and engineer, who worked on hydraulics
+2008; Ludvig Holberg; Danish-Norwegian writer, philosopher and historian
+2009; Clarence "Gatemouth" Brown; American blues musician
+2010; University of Oxford; Collegiate research university in Oxford, England
+2011; Walker Percy; Southern philosophical novelist
+2012; Carl Sagan; American astrophysicist, cosmologist, author and science educator
+2013; Jonathan Winters; American comedian, actor, and artist
+2014; Robin Williams; American actor and stand-up comedian (1951-2014)
+2015; Ivan Franko; Ukrainian poet and writer
+2016; Gavriil Troyepolsky; Soviet writer
+2017; Bruce Willis; American actor, producer, and musician
+2018; Ryan Tedder; American singer-songwriter and record producer
+2019; Theodor Nöldeke; German Semitic scholar
+2020; Ayumi Hamasaki; Japanese recording artist, lyricist, model, and actress
+2021; Thomas Aquinas; Italian Dominican friar, philosopher, Catholic priest, and Doctor of the Church
+2022; Kris Kristofferson; American country music singer, songwriter, musician, and film actor
+2023; Fredro Starr; American hardcore rapper, record producer, actor and author, best known as a member of multi-platinum hardcore rap group Onyx
+2024; Anthony Kiedis; American singer
+2025; Robert Downey, Jr.; American actor
+2026; Galileo Galilei; Italian mathematician, physicist, philosopher and astronomer
+2027; Leonid Leonov; Russian writer
+2028; bipolar disorder; human mental illness characterized by mood changes
+2029; Woodrow Wilson; American politician, 28th President of the United States (in office from 1913 to 1921)
+2030; Robert Graves; English poet and novelist
+2031; Douglas Adams; English writer and humorist
+2032; Kurt Weill; German composer
+2033; Mel Gibson; American actor, film director, producer and screenwriter

@@ -1,0 +1,7 @@
+cite:
+@inproceedings{lv2022pre,
+  title={Do pre-trained models benefit knowledge graph completion? a reliable evaluation and a reasonable approach},
+  author={Lv, Xin and Lin, Yankai and Cao, Yixin and Hou, Lei and Li, Juanzi and Liu, Zhiyuan and Li, Peng and Zhou, Jie},
+  year={2022},
+  organization={Association for Computational Linguistics}
+}

@@ -1,0 +1,9 @@
+cite:
+@inproceedings{dettmers2018convolutional,
+  title={Convolutional 2d knowledge graph embeddings},
+  author={Dettmers, Tim and Minervini, Pasquale and Stenetorp, Pontus and Riedel, Sebastian},
+  booktitle={Proceedings of the AAAI conference on artificial intelligence},
+  volume={32},
+  number={1},
+  year={2018}
+}
